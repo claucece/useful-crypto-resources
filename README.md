@@ -160,4 +160,22 @@
 * [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
 
 ### ForLoop
-* [Control structures - Go for loop, break, continue, range](http://golangtutorials.blogspot.com/2011/06/control-structures-go-for-loop-break.html)
+* [Control structures - Go for loop, break, continue, range](http://golangtutorials.blogspot.com/2011/06/control-structures-go-for-loop-break.html)----------------------------------------------------------------------------
+# Code for Tor Browser High Security Mode
+In high security mode, Tor only allows PNG images to be available.
+
+If your website must support non-PNG images like SVG, you can set up a fallback image
+like so [(Ref.)](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/):
+
+1. With HTML:
+```
+<object data="your.svg" type="image/svg+xml"> <img src="yourfallback.jpg" /> </object>
+```
+2. With CSS, which naturally throws away rules that the browser doesn't understand:
+```
+.image-with-fallback {
+    background-image: url(fallback.png);
+        background-image: url(your.svg), none;
+}{}
+```
+[Why is SVG a problem? Pg 16 in this iSEC report](https://github.com/iSECPartners/publications/blob/052caf9c9c683ec0bed55782714df4d35c38f107/reports/Tor%20Browser%20Bundle/Tor%20Browser%20Bundle%20-%20iSEC%20Deliverable%201.3.pdf).
