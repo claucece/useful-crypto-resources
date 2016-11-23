@@ -51,6 +51,9 @@
 * [Point Generation And Base Point Selection In ECC: An Overview](http://www.ijarcce.com/upload/2014/may/IJARCCE7J%20%20a%20moumita%20Point%20Generation%20And%20Base.pdf) by Moumita Roy1, Nabamita Deb2, Amar Jyoti Kumar.
 * [SEC 1: Elliptic Curve Cryptography](http://www.secg.org/sec1-v2.pdf) by Certicom Research. 
 * [Elliptic Curves for Security](https://www.ietf.org/rfc/rfc7748.txt) by A. Langley and M. Hamburg. This memo specifies two elliptic curves over prime fields that offer a high level of practical security in cryptographic applications, including Transport Layer Security (TLS).  These curves are intended to operate at the ~128-bit and ~224-bit security level, respectively, and are generated deterministically based on a list of required properties.
+* [ECC2015-Notes](https://github.com/FredericJacobs/ECC2015-Notes) by Frederic Jacobs
+* [Graphs](https://cryptojedi.org/misc/pstricks.shtml)
+* [How to design an elliptic-curve signature system](https://blog.cr.yp.to/20140323-ecdsa.html)by blog.cr.yp.to
  
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
@@ -162,6 +165,8 @@
 ### General
 * [The Go Blog](https://blog.golang.org/)
 * [Open My Mind](http://openmymind.net/) by Karl Seguin.
+* [Go Playground](https://play.golang.org/)
+* [Useful resources](https://github.com/golang/go/wiki#getting-started-with-go)
 
 ### Books
 * [An Introduction to Go Programming](https://www.golang-book.com/books/intro) 
@@ -171,9 +176,13 @@
 * [Arrays, Slices and Maps](https://www.golang-book.com/books/intro/6)
 * [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
 * [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
+* [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
 
 ### ForLoop
 * [Control structures - Go for loop, break, continue, range](http://golangtutorials.blogspot.com/2011/06/control-structures-go-for-loop-break.html)
+
+### Go Check
+* [GoCheck](https://github.com/go-check/check)
 
 ----------------------------------------------------------------------------
 # Code for Tor Browser High Security Mode
