@@ -54,9 +54,12 @@
 * [ECC2015-Notes](https://github.com/FredericJacobs/ECC2015-Notes) by Frederic Jacobs
 * [Graphs](https://cryptojedi.org/misc/pstricks.shtml)
 * [How to design an elliptic-curve signature system](https://blog.cr.yp.to/20140323-ecdsa.html)by blog.cr.yp.to
+* [Generating Elliptic Curves of Prime Order](http://people.oregonstate.edu/~schmidtt/ourPapers/SavasKoc/ches01curve.pdf) by Erkay Sava, Thomas A. Schmidt, and Cetin K. Koc
+* [Extended coordinates with a=-1 for twisted Edwards curves](http://www.hyperelliptic.org/EFD/g1p/auto-twisted-extended-1.html)
  
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
+* [Elliptic Curves for Security](https://tools.ietf.org/html/rfc7748) by A. Langley and M. Hamburg. 
 * [A brief discussion on selecting new elliptic curves](http://csrc.nist.gov/groups/ST/ecc-workshop-2015/papers/session4-costello-craig.pdf) by Craig Costello, Patrick Longa, and Michael Naehrig 
 
 ### Edwards Curve
@@ -72,9 +75,13 @@
 * [Mike Hamburg Implementation](https://sourceforge.net/p/ed448goldilocks/code/ci/decaf/tree/).
 * [STRIKE implementation](https://github.com/twstrike/ed448).  
 * [Ed448-Goldilocks, a new elliptic curve](https://eprint.iacr.org/2015/625.pdf) by Mike Hamburg. 
+* [Ed448-Goldilocks, a new elliptic curve](http://eprint.iacr.org/2015/625) by Cryptology ePrint Archive
 
 #### ed225519
 * [Implementation](https://ed25519.cr.yp.to/python/ed25519.py) by Daniel J. Bernstein. 
+
+## Hash Functions
+* [Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance](http://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) by P. Rogaway and T. Shrimpton
 
 ## Message Authentification Code (MAC)
 * [SHA3-based MACs](http://csrc.nist.gov/groups/ST/hash/sha-3/Aug2014/documents/perlner_kmac.pdf) by Ray Perlner.
@@ -97,6 +104,7 @@
 ###EdDSA
 * [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-05): The elliptic curve signature scheme Edwards-curve Digital Signature Algorithm (EdDSA) is described by S. Josefsson. 
 * [Ed25519 and Ed448 for DNSSEC](https://tools.ietf.org/id/draft-sury-dnskey-ed25519-02.xml) by O. Sury
+* [EdDSA notes](http://lukas-prokop.at/proj/eddsa/)
 
 ### XEdDSA
 * [The XEdDSA and VXEdDSA Signature Schemes](https://whispersystems.org/docs/specifications/xeddsa/#curve448) by Trevor Perrin. 
@@ -123,6 +131,9 @@
 * [Chosen-Ciphertext Security of Multiple Encryption](https://www.cs.nyu.edu/~dodis/ps/2enc.pdf) by Yevgeniy Dodis and Jonathan Katz. 
 	
 ## Maths
+
+## General
+* [Earliest Known Uses of Some of the Words of Mathematics (T)](http://jeff560.tripod.com/t.html)
 
 ## Modular Arithmetic
 * [Barret Reduction](https://en.wikipedia.org/wiki/Barrett_reduction) in Wikipedia. 
@@ -159,6 +170,12 @@
 
 ----------------------------------------------------------------------------
 # Programming
+
+## General
+
+### ExpMod
+* [David Neto's code page](http://www.cs.utoronto.ca/~neto/code/fastexp.scm): Scheme and Ideal Turing
+* [Bitwise operators (Python)](https://wiki.python.org/moin/BitwiseOperators)
 
 ## Golang
 
