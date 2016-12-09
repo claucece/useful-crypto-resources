@@ -57,6 +57,8 @@
 * [Generating Elliptic Curves of Prime Order](http://people.oregonstate.edu/~schmidtt/ourPapers/SavasKoc/ches01curve.pdf) by Erkay Sava, Thomas A. Schmidt, and Cetin K. Koc
 * [Extended coordinates with a=-1 for twisted Edwards curves](http://www.hyperelliptic.org/EFD/g1p/auto-twisted-extended-1.html)
 * [Elliptic Curves Suitable for Cryptosystems](https://grampus.jaist.ac.jp/miyaji-lab/member/PaperPS/SCIS93-10B.pdf) by Atsuko Miyaji
+* [Elliptic curves](http://library.msri.org/books/Book44/files/07poonen.pdf) by Bjorn Poonen
+* [Rigid Parameter Generation for Elliptic Curve Cryptography](https://tools.ietf.org/html/draft-black-rpgecc-01#page-6) by B. Black
 
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
@@ -69,6 +71,7 @@
 * [A state-of-the-art Diffie-Hellman function](https://cr.yp.to/ecdh.html#curve25519-paper) by Daniel J. Bernstein
 
 ### Edwards Curve
+* [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
 
 #### Theory
 
@@ -142,19 +145,34 @@
 
 ## Maths
 
-## General
+### General
 * [Earliest Known Uses of Some of the Words of Mathematics (T)](http://jeff560.tripod.com/t.html)
+* [General](https://trans4mind.com/personal_development/mathematics/) by Ken Ward
+* [Fundamental theorem of arithmetic](https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic)
 
-## Modular Arithmetic
+### Modular Arithmetic
 * [Barret Reduction](https://en.wikipedia.org/wiki/Barrett_reduction) in Wikipedia.
 
-## Exponentiation
+### Exponentiation
 * [On the evaluation of powers and related problems](http://diyhpl.us/~bryan/papers2/paperbot/4567910.pdf) by Nicholas Pippenger
 * [Fast Exponentiation with Precomputation: Algorithms and Lower Bounds](https://www.ccrwest.org/gordon/fast.pdf) by Ernest F. Brickell, Daniel M. Gordon, Kevin S. McCurley, and David B. Wilson
 * [More Flexible Exponentiation with Precomputation](https://pdfs.semanticscholar.org/8602/62b900a1493688e96a41b4545d8c50a0a86f.pdf) by Chae Hoon Lim and Pil Joong Lee
 
-## Sieve
+### Sieve
 * [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf) by Melissa E. O’Neill
+
+### Elementary Computer Mathematics
+* [Computer Maths](http://kias.dyndns.org/comath/text.html) by Kenneth R. Koehler.
+
+### Group Theory
+* [Introduction to Group Theory](http://dogschool.tripod.com/) 	by Dog School of Mathematics
+
+### Interesting
+* [Möbius strip](https://en.wikipedia.org/wiki/M%C3%B6bius_strip)
+
+### Sequences
+* [Sequences and Their Applications](https://books.google.com.ec/books?id=wDZqCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) by SETA 2010
+* [Codes and designs](https://books.google.com.ec/books?id=E62qwfwLJpsC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by De Gruyter
 
 ## Compendia
 * [Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012](https://books.google.com.ec/books?id=iWirCAAAQBAJ&pg=PA223&lpg=PA223&dq=malleable+symmetric+schemes&source=bl&ots=3oszTtlOhU&sig=evzVsQk3DbLMdkZLVY_O6RD5BfQ&hl=en&sa=X&ved=0ahUKEwjrh4XU2rPPAhUFox4KHY-UAS0Q6AEIKjAD#v=onepage&q=malleable%20symmetric%20schemes&f=false), edited by Ronald Cramer.
@@ -220,13 +238,36 @@
 * [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
 * [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
 * [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
+* [Multi-dimesional arrays](https://www.tutorialspoint.com/go/go_multi_dimensional_arrays.htm)
 
 ### ForLoop
 * [Control structures - Go for loop, break, continue, range](http://golangtutorials.blogspot.com/2011/06/control-structures-go-for-loop-break.html)
 
 ### Go Check
 * [GoCheck](https://github.com/go-check/check)
+* [Language Specification](https://golang.org/ref/spec#Conversions)
 
+### Type Assertions
+* [Language Specification](https://golang.org/ref/spec#Type_assertions)
+
+### Conversions
+* [A Guide to Types and Casting in Golang](http://blog.stoneriverelearning.com/a-guide-to-types-and-casting-in-golang/) by Gerard Millares
+* [GoLang interface{} - 2 type conversions, type assertions, type switches](http://golang-basic.blogspot.com/2014/06/golang-interface-2-type-conversions.html) by Swati Soni
+
+### Constants
+* [iota: Elegant Constants in Golang](https://splice.com/blog/iota-elegant-constants-golang/) 
+* [constants](https://blog.golang.org/constants)
+
+----------------------------------------------------------------------------
+
+# Design
+
+## Css
+* [You don't need javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+
+## Vim
+* [Xterm256 color names for console Vim](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim)
+ 
 ----------------------------------------------------------------------------
 # Useful
 * [ADR tools](https://github.com/npryce/adr-tools)
