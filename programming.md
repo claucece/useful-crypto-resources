@@ -15,6 +15,9 @@
 * [What Every Programmer Should Know About Floating-Point Arithmetic or Why don’t my numbers add up?](http://floating-point-gui.de/)
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
+### Duck Typing
+* [General](https://en.wikipedia.org/wiki/Duck_typing)
+
 ## Padding
 * [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
 
@@ -34,6 +37,9 @@
 
 ### Books
 * [An Introduction to Go Programming](https://www.golang-book.com/books/intro)
+
+### Data Structures
+* [Go Data Structures](http://research.swtch.com/godata)
 
 ### Strings
 * [Access to the unicode and convert to string](http://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value)
@@ -76,7 +82,11 @@
 ### Errors
 * [Illegal octal digit error](http://www.perlmonks.org/?node_id=768999)
 
+### Reflection
+* [The Laws of Reflection](https://blog.golang.org/laws-of-reflection)
 
+### Interfaces
+* [Go Data Structures: Interfaces](http://research.swtch.com/interfaces)
 ### Talks
 * [General](https://talks.golang.org/)
 * [5 things I love (or why you should learn Go)](https://www.youtube.com/watch?v=fsTOOPB1TBY) by Andrew Gerrand
@@ -104,6 +114,8 @@
 # Useful
 * [ADR tools](https://github.com/npryce/adr-tools)
 * Topological math: [Topological phase transitions and topological phases of matter](https://www.nobelprize.org/nobel_prizes/physics/laureates/2016/advanced-physicsprize2016.pdf)
+* [dirEnv](https://github.com/direnv/direnv)
+* [lint](https://github.com/golang/lint)
 
 ----------------------------------------------------------------------------
 # Code for Tor Browser High Security Mode
