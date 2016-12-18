@@ -21,6 +21,12 @@
 ## Padding
 * [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
 
+## Bits
+* [Multiplication of Binary Integers](http://www4.wittenberg.edu/academics/mathcomp/shelburne/comp255/notes/binarymultiplication)
+* [Binary Arithmetic](https://www.swarthmore.edu/NatSci/echeeve1/Ref/BinaryMath/BinaryMath.html)
+* [Multiplication in binary](http://www.xilinx.com/univ/teaching_materials/dsp_primer/sample/lecture_notes/FPGAArithmetic_mult.pdf)
+* [Lecture 8: Binary Multiplication & Division](https://www.cs.utah.edu/~rajeev/cs3810/slides/3810-08.pdf)
+
 ## Golang
 
 ### General
