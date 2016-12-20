@@ -25,7 +25,12 @@
 * [Multiplication of Binary Integers](http://www4.wittenberg.edu/academics/mathcomp/shelburne/comp255/notes/binarymultiplication)
 * [Binary Arithmetic](https://www.swarthmore.edu/NatSci/echeeve1/Ref/BinaryMath/BinaryMath.html)
 * [Multiplication in binary](http://www.xilinx.com/univ/teaching_materials/dsp_primer/sample/lecture_notes/FPGAArithmetic_mult.pdf)
+* [Binary Multiply - Repeated Shift and Add](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/multiply.040.html)
 * [Lecture 8: Binary Multiplication & Division](https://www.cs.utah.edu/~rajeev/cs3810/slides/3810-08.pdf)
+* [Bit field](https://en.wikipedia.org/wiki/Bit_field)
+* [Masking](https://en.wikipedia.org/wiki/Mask_(computing))
+* [Least significant bit](https://en.wikipedia.org/wiki/Least_significant_bit)
+* [Ancient Egyptian multiplication](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication)
 
 ## Golang
 
@@ -73,6 +78,7 @@
 ### Go Check
 * [GoCheck](https://github.com/go-check/check)
 * [Language Specification](https://golang.org/ref/spec#Conversions)
+* [Checkers](https://github.com/go-check/check/blob/v1/checkers.go)
 
 ### Type Assertions
 * [Language Specification](https://golang.org/ref/spec#Type_assertions)
@@ -87,12 +93,21 @@
 
 ### Errors
 * [Illegal octal digit error](http://www.perlmonks.org/?node_id=768999)
+* [Error handling and Go](https://blog.golang.org/error-handling-and-go) by Andrew Gerrand
 
 ### Reflection
 * [The Laws of Reflection](https://blog.golang.org/laws-of-reflection)
 
 ### Interfaces
 * [Go Data Structures: Interfaces](http://research.swtch.com/interfaces)
+
+### Useful commands
+* [Command vet](https://golang.org/cmd/vet/)
+* [errcheck](https://github.com/kisielk/errcheck)
+
+### Mistakes
+* [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) by Kyle Quest
+
 ### Talks
 * [General](https://talks.golang.org/)
 * [5 things I love (or why you should learn Go)](https://www.youtube.com/watch?v=fsTOOPB1TBY) by Andrew Gerrand
@@ -104,7 +119,12 @@
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by Sameer Ajmani 
 * [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide#1) Slides, by David Crawshaw
 
+## C
 
+### Inline
+* [An Inline Function is As Fast As a Macro](https://gcc.gnu.org/onlinedocs/gcc/Inline.html)
+* [C Programming/Pointers and arrays](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays)
+* [Bitwise Operators in C Programming](https://www.programiz.com/c-programming/bitwise-operators)
 
 ----------------------------------------------------------------------------
 
