@@ -8,9 +8,17 @@
 * [Algorithms](https://www.amazon.com/gp/product/032157351X/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=algs4-coursera-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=032157351X) by Robert Sedgewick and Kevin Wayne.
 * [The Art of problem solving](https://www.amazon.com/Art-Problem-Solving-Vol-Basics/dp/0977304566) by Sandor Lehoczky and Richard Rusczyk.
 * [Post-Quantum Cryptography](http://www.springer.com/la/book/9783540887010) by Bernstein, Daniel J., Buchmann, Johannes, Dahmen, Erik (Eds.)
+* [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.amazon.com/gp/product/0201558025/ref=pe_355360_220209680_em_1p_6_lm) by Ronald L. Graham (Author), Donald E. Knuth (Author), Oren Patashnik (Author)
 
 ## Papers:
 
 * [The state of elliptic curve cryptography, towards a quarter-century of public key cryptography](http://link.springer.com/chapter/10.1007%2F978-1-4757-6856-5_5#page-1) by N. Koblitz, A. Menezes, and S. Vanstone.
 * [Sequences and Their Applications](https://books.google.com.ec/books?id=wDZqCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) by SETA 2010
 * [Codes and designs](https://books.google.com.ec/books?id=E62qwfwLJpsC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by De Gruyter
+
+## Challenges
+
+* [The cryptopals crypto challenges](https://cryptopals.com/)
+
+## To Apply (some day)
+* [Budapest semester in math](https://www.budapestsemesters.com/apply-2/)

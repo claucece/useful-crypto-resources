@@ -182,6 +182,7 @@
 
 ### Square Root
 * [Faster Square Roots in Annoying Finite Fields](http://cr.yp.to/papers/sqroot.pdf) by Daniel Bernstein
+* [Inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root#cite_note-21)
 
 ### Multiplication
 * [Analyzing and Comparing Montgomery Multiplication Algorithms](http://dl.acm.org/citation.cfm?id=624011) by Çetin Kaya Koç, Tolga Acar and Burton S. Kaliski, Jr.	
@@ -225,6 +226,7 @@
 ### General
 * [Crypto++ 5.6.5](https://www.cryptopp.com/release565.html)
 * [cryptopp](https://github.com/weidai11/cryptopp)
+* [The Apache Milagro Cryptographic Library](https://github.com/MIRACL/amcl)
 
 ## PostQuantum Crypto
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
