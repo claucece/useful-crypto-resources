@@ -84,6 +84,13 @@
 ### Type Assertions
 * [Language Specification](https://golang.org/ref/spec#Type_assertions)
 
+### Shift
+* [Constant literal](http://stackoverflow.com/questions/38806491/why-doesnt-left-bit-shifting-by-64-overflow-in-golang)
+* [Go << and >> operators](http://stackoverflow.com/questions/5801008/go-and-operators)
+* [What does the >>= operator do in golang?](http://stackoverflow.com/questions/32933333/what-does-the-operator-do-in-golang)
+* [What does a >> mean in Go language?](http://stackoverflow.com/questions/9797431/what-does-a-mean-in-go-language)
+* [Invalid operation: shift of type float64](http://stackoverflow.com/questions/24865339/invalid-operation-shift-of-type-float64)
+
 ### Conversions
 * [A Guide to Types and Casting in Golang](http://blog.stoneriverelearning.com/a-guide-to-types-and-casting-in-golang/) by Gerard Millares
 * [GoLang interface{} - 2 type conversions, type assertions, type switches](http://golang-basic.blogspot.com/2014/06/golang-interface-2-type-conversions.html) by Swati Soni
@@ -131,6 +138,10 @@
 ### ForLoops
 * [Skip](http://stackoverflow.com/questions/22211209/are-there-reasons-to-skip-the-initialization-of-the-for-loop)
 * [Syntax](http://stackoverflow.com/questions/276512/what-is-the-full-for-loop-syntax-in-c-and-others-in-case-they-are-compatible)
+
+### Print in formats
+* [printf](http://www.cplusplus.com/reference/cstdio/printf/)
+* [unsigned long hex representation](http://stackoverflow.com/questions/19478509/unsigned-long-hex-representation)
 
 ----------------------------------------------------------------------------
 

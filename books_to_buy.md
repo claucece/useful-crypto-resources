@@ -22,3 +22,6 @@
 
 ## To Apply (some day)
 * [Budapest semester in math](https://www.budapestsemesters.com/apply-2/)
+
+## Literature
+* [Borges and Mathematics](https://www.amazon.com/Borges-Mathematics-Guillermo-Martz/dp/1557536325)
