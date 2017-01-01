@@ -107,8 +107,14 @@
 ### Reflection
 * [The Laws of Reflection](https://blog.golang.org/laws-of-reflection)
 
+### Types
+* [How to find a type of a object in Golang?](http://stackoverflow.com/questions/20170275/how-to-find-a-type-of-a-object-in-golang)
+
 ### Interfaces
 * [Go Data Structures: Interfaces](http://research.swtch.com/interfaces)
+
+### Struct
+* [struct Type is not an expression](http://stackoverflow.com/questions/27455170/error-struct-type-is-not-an-expression)
 
 ### Useful commands
 * [Command vet](https://golang.org/cmd/vet/)
