@@ -174,6 +174,11 @@
 
 ### Modular Arithmetic
 * [Barret Reduction](https://en.wikipedia.org/wiki/Barrett_reduction) in Wikipedia.
+* [Modular addition and subtraction](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction) by khanacademy.
+* [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic). Good example of mul. 
+* [Chapter 3. Modular Arithmetic](http://www.doc.ic.ac.uk/~mrh/330tutor/ch03.html) 
+* [Math in Network Security: A Crash Course](http://www.doc.ic.ac.uk/~mrh/330tutor/)
+* [Modular Arithmetic](http://www.math.cornell.edu/~putnam/modular.pdf)
 
 ### Exponentiation
 * [On the evaluation of powers and related problems](http://diyhpl.us/~bryan/papers2/paperbot/4567910.pdf) by Nicholas Pippenger
