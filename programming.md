@@ -120,6 +120,9 @@
 * [Command vet](https://golang.org/cmd/vet/)
 * [errcheck](https://github.com/kisielk/errcheck)
 
+### Operations
+* [Difference](http://stackoverflow.com/questions/28432398/difference-between-some-operators-golang) 
+
 ### Mistakes
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) by Kyle Quest
 
@@ -148,6 +151,7 @@
 ### Print in formats
 * [printf](http://www.cplusplus.com/reference/cstdio/printf/)
 * [unsigned long hex representation](http://stackoverflow.com/questions/19478509/unsigned-long-hex-representation)
+* [unsigned int](http://stackoverflow.com/questions/15736497/how-to-print-an-unsigned-char-in-c) 
 
 ----------------------------------------------------------------------------
 

@@ -9,7 +9,7 @@
 * [Secure Off-the-Record Messaging](https://www.dmi.unict.it/diraimondo/web/wp-content/uploads/papers/otr.pdf) by Mario Di Raimondo, Rosario Gennaro and Hugo Krawczyk
 
 ### Multiparty
-* [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al. 
+* [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al.
 
 ## Zero Knowledge Proof
 * [Multiple Non-Interactive Zero Knowledge Proofs Based on a Single Random String](https://www.computer.org/csdl/proceedings/focs/1990/2082/00/089549.pdf) by Uriel Feige, Dror Lapidot and Adi Shamir.
@@ -72,16 +72,18 @@
 * [Rigid Parameter Generation for Elliptic Curve Cryptography](https://tools.ietf.org/html/draft-black-rpgecc-01#page-6) by B. Black
 * [Tutorial](https://www.youtube.com/watch?v=w2V2dyL1LO8) by Tanja Lange
 * [ECC hacks](https://www.youtube.com/watch?v=vEt-D8xZmgE) by Tanja Lange
+* [Curves Formulas](http://www.hyperelliptic.org/EFD/) by Tanja Lange
 
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
 * [Elliptic Curves for Security](https://tools.ietf.org/html/rfc7748) by A. Langley and M. Hamburg.
 * [A brief discussion on selecting new elliptic curves](http://csrc.nist.gov/groups/ST/ecc-workshop-2015/papers/session4-costello-craig.pdf) by Craig Costello, Patrick Longa, and Michael Naehrig
 * [Curve41417: Karatsuba revisited](http://eprint.iacr.org/2014/526.pdf) by Daniel J. Bernstein, Chitchanok Chuengsatiansup, and Tanja Lange
+* [Cryptography in NaCl](https://cr.yp.to/highspeed/naclcrypto-20090310.pdf) by Daniel J. Bernstein. Pretty interesnting for sage.
 
 #### Ideas
 * [DNS Curves](https://dnscurve.org/index.html)
- 
+
 #### EC255219
 * [Curve25519: new Diffie-Hellman speed records](https://cr.yp.to/ecdh/curve25519-20060209.pdf) by Daniel J. Bernstein
 * [A state-of-the-art Diffie-Hellman function](https://cr.yp.to/ecdh.html#curve25519-paper) by Daniel J. Bernstein
@@ -89,7 +91,10 @@
 
 ### Edwards Curve
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
-
+* [Faster Addition and Doubling on Elliptic Curves](http://download.springer.com/static/pdf/846/chp%253A10.1007%252F978-3-540-76900-2_3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-76900-2_3&token2=exp=1483841050~acl=%2Fstatic%2Fpdf%2F846%2Fchp%25253A10.1007%25252F978-3-540-76900-2_3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-76900-2_3*~hmac=06e0fd268cf19d93fc5ef5f63da7b76ee9a37f84e1700968eed20c8142f77f04) by Daniel J. Bernstein and Tanja Lange.
+* [Twisted Edwards Curves](https://eprint.iacr.org/2008/013.pdf) by Daniel J. Bernstein, Peter Birkner, Marc Joye, Tanja Lange, and Christiane Peters
+* [Twisted Edwards Curves Revisited](http://iacr.org/archive/asiacrypt2008/53500329/53500329.pdf) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter, and Ed Dawson.
+*
 #### Theory
 
 #### Encoding
@@ -104,12 +109,17 @@
 * [Ed448-Goldilocks, a new elliptic curve](http://eprint.iacr.org/2015/625) by Cryptology ePrint Archive
 * [Decaf: Eliminating cofactors through point compression](https://eprint.iacr.org/2015/673.pdf) by Mike Hamburg
 * [Implementation on C, on github](https://github.com/coruus/ed448-goldilocks/tree/decaf/include)
+* [Fast and compact elliptic-curve cryptography](https://shiftleft.org/papers/fff/fff.pdf) by Mike Hamburg
 
 #### elligator
 * [Mike Hamburg's explanation](https://moderncrypto.org/mail-archive/curves/2015/000424.html)
 
 #### ed225519
 * [Implementation](https://ed25519.cr.yp.to/python/ed25519.py) by Daniel J. Bernstein.
+
+#### Attacks
+* [New algorithm for the discrete logarithm problem on elliptic curves](http://eprint.iacr.org/2015/310.pdf) by Igor Semaev.
+
 
 ## Hash Functions
 * [Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance](http://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) by P. Rogaway and T. Shrimpton
@@ -175,8 +185,8 @@
 ### Modular Arithmetic
 * [Barret Reduction](https://en.wikipedia.org/wiki/Barrett_reduction) in Wikipedia.
 * [Modular addition and subtraction](https://www.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/modular-addition-and-subtraction) by khanacademy.
-* [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic). Good example of mul. 
-* [Chapter 3. Modular Arithmetic](http://www.doc.ic.ac.uk/~mrh/330tutor/ch03.html) 
+* [Modular arithmetic](https://en.wikipedia.org/wiki/Modular_arithmetic). Good example of mul.
+* [Chapter 3. Modular Arithmetic](http://www.doc.ic.ac.uk/~mrh/330tutor/ch03.html)
 * [Math in Network Security: A Crash Course](http://www.doc.ic.ac.uk/~mrh/330tutor/)
 * [Modular Arithmetic](http://www.math.cornell.edu/~putnam/modular.pdf)
 
@@ -189,8 +199,12 @@
 * [Faster Square Roots in Annoying Finite Fields](http://cr.yp.to/papers/sqroot.pdf) by Daniel Bernstein
 * [Inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root#cite_note-21)
 
+### Inverse Square Root
+* [Algorithm](http://martin-weusten.de/wp-content/uploads/2011/03/carmack.c)
+* [Fast inverse square root](https://en.wikipedia.org/wiki/Fast_inverse_square_root)
+
 ### Multiplication
-* [Analyzing and Comparing Montgomery Multiplication Algorithms](http://dl.acm.org/citation.cfm?id=624011) by Çetin Kaya Koç, Tolga Acar and Burton S. Kaliski, Jr.	
+* [Analyzing and Comparing Montgomery Multiplication Algorithms](http://dl.acm.org/citation.cfm?id=624011) by Çetin Kaya Koç, Tolga Acar and Burton S. Kaliski, Jr.
 
 ### Sieve
 * [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf) by Melissa E. O’Neill
@@ -237,6 +251,7 @@
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
 * [Towards quantum-resistance cryptosystems from supersingular elliptic curve isogenies](http://eprint.iacr.org/2011/506.pdf) by Luca de Feo, David Jao and Jerome Plut.
 * [Quantum computers are coming!](https://www.youtube.com/watch?v=c7OHv-L-x50) by Tanja Lange and Daniel J. Bernstein
+* [Ring learning with errors](https://en.wikipedia.org/wiki/Ring_learning_with_errors)
 
 ## Mailing List
 * [Modern Crypto](https://moderncrypto.org/mail-archive/)
