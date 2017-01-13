@@ -9,6 +9,7 @@ To read on daily basic
 * [Geeks for geeks](http://www.geeksforgeeks.org/)
 * [The Go blog](https://blog.golang.org/)
 * [Math ∩ Programming](https://jeremykun.com/2014/12/08/a-motivation-for-quantum-computing/)
+* [All things Seth Mason](http://sethmason.com/)
 
 ## Explanations
 * [Numerical Computation Guide](http://docs.oracle.com/cd/E19957-01/806-3568/)
