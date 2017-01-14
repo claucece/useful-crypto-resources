@@ -229,6 +229,9 @@
 * [Fast reduction](http://www.acsel-lab.com/arithmetic/arith18/papers/ARITH18_Hasenplaugh.pdf)
 * [Reduction (mathematics)](https://en.wikipedia.org/wiki/Reduction_(mathematics))
 
+### Information Theory
+* [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) by Shannon. 
+* [Unicity points in cryptanalysis](http://www.tandfonline.com/doi/abs/10.1080/0161-117791832797?journalCode=ucry20) by C.A Devavours.
 ## Compendia
 * [Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012](https://books.google.com.ec/books?id=iWirCAAAQBAJ&pg=PA223&lpg=PA223&dq=malleable+symmetric+schemes&source=bl&ots=3oszTtlOhU&sig=evzVsQk3DbLMdkZLVY_O6RD5BfQ&hl=en&sa=X&ved=0ahUKEwjrh4XU2rPPAhUFox4KHY-UAS0Q6AEIKjAD#v=onepage&q=malleable%20symmetric%20schemes&f=false), edited by Ronald Cramer.
 * [Recommendation for Key Management](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf) by Elaine Barker in NIST.
