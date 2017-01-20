@@ -25,4 +25,18 @@
 * [Budapest semester in math](https://www.budapestsemesters.com/apply-2/)
 
 ## Literature
+
 * [Borges and Mathematics](https://www.amazon.com/Borges-Mathematics-Guillermo-Martz/dp/1557536325)
+
+## Philosophy
+
+* [Wittgenstein on Rules and Private Language](https://www.amazon.com/Wittgenstein-Rules-Private-Language-Elementary/dp/0674954017/ref=sr_1_1?ie=UTF8&qid=1484551426&sr=8-1&keywords=Wittgenstein+on+Rules+and+Private+Language) by Saul Kripke // Summary: [wikipedia](https://en.wikipedia.org/wiki/Wittgenstein_on_Rules_and_Private_Language)
+* [Name and necessity](https://www.amazon.com/Wittgenstein-Rules-Private-Language-Elementary/dp/0674954017/ref=sr_1_1?ie=UTF8&qid=1484551426&sr=8-1&keywords=Wittgenstein+on+Rules+and+Private+Language) by Saul Kripke
+* [The Unreality of Time](https://www.amazon.com/Unreality-Time-John-McTaggart-Ellis-ebook/dp/B018IY44WY/ref=sr_1_1?ie=UTF8&qid=1484666334&sr=8-1&keywords=The+Unreality+of+Time) by 	John McTaggart Ellis McTaggart
+* [The principles of mathematics] by Bertrand Russell
+* [The Foundations of Arithmetic] by Gottlob Frege
+* [Tractatus Logico-Philosophicus] by Wittgenstein
+
+## Maybe interesting
+
+* John Searle
