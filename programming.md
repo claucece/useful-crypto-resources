@@ -3,6 +3,9 @@
 
 ## General
 
+### Words
+* [Word](https://en.wikipedia.org/wiki/Word_(computer_architecture))
+
 ### ExpMod
 * [David Neto's code page](http://www.cs.utoronto.ca/~neto/code/fastexp.scm): Scheme and Ideal Turing
 * [Bitwise operators (Python)](https://wiki.python.org/moin/BitwiseOperators)
@@ -18,6 +21,9 @@
 ### Duck Typing
 * [General](https://en.wikipedia.org/wiki/Duck_typing)
 
+### Multiplication
+* [Efficient Arithmetic on Koblitz Curves](http://computacion.cs.cinvestav.mx/~armfaz/res/soli2000.pdf) by Solinas
+
 ## Padding
 * [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
 
@@ -31,6 +37,9 @@
 * [Masking](https://en.wikipedia.org/wiki/Mask_(computing))
 * [Least significant bit](https://en.wikipedia.org/wiki/Least_significant_bit)
 * [Ancient Egyptian multiplication](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication)
+* [Binary Arithmetic](http://courseweb.stthomas.edu/tpsturm/private/notes/qm300/ARITH.html) 
+* [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
+* [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
 
 ## Golang
 
