@@ -12,7 +12,7 @@
 
 ### Floating point
 * [Gustavo's IEEE-754 Brain Teaser](https://www.goinggo.net/2013/08/gustavos-ieee-754-brain-teaser.html) by William Kennedy
-* [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html) by Steve Hollasch 
+* [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html) by Steve Hollasch
 * [Comparing Floating Point Numbers, 2012 Edition](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) by randomASCII
 * [Example: Converting to Float](http://class.ece.iastate.edu/arun/CprE281_F05/ieee754/ie5.html)
 * [What Every Programmer Should Know About Floating-Point Arithmetic or Why don’t my numbers add up?](http://floating-point-gui.de/)
@@ -28,7 +28,7 @@
 * [Variadic function](https://en.wikipedia.org/wiki/Variadic_function)
 
 ## Padding
-* [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
+* [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/)
 
 ## Bits
 * [Multiplication of Binary Integers](http://www4.wittenberg.edu/academics/mathcomp/shelburne/comp255/notes/binarymultiplication)
@@ -40,14 +40,14 @@
 * [Masking](https://en.wikipedia.org/wiki/Mask_(computing))
 * [Least significant bit](https://en.wikipedia.org/wiki/Least_significant_bit)
 * [Ancient Egyptian multiplication](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication)
-* [Binary Arithmetic](http://courseweb.stthomas.edu/tpsturm/private/notes/qm300/ARITH.html) 
+* [Binary Arithmetic](http://courseweb.stthomas.edu/tpsturm/private/notes/qm300/ARITH.html)
 * [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
 
 ### Constant Time
 * [Golang](https://golang.org/src/crypto/subtle/constant_time.go)
 * [Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
-* [Time Bounds for Selection](http://people.csail.mit.edu/rivest/pubs/BFPRT73.pdf) by Manuel Blum, Robert W. Floyd, Vaughan Pratt, Ronald L. Rivest, and Robert E. Tarjan. 
+* [Time Bounds for Selection](http://people.csail.mit.edu/rivest/pubs/BFPRT73.pdf) by Manuel Blum, Robert W. Floyd, Vaughan Pratt, Ronald L. Rivest, and Robert E. Tarjan.
 
 ## ANSI
 * [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
@@ -65,7 +65,7 @@
 * [What's in a name?](https://talks.golang.org/2014/names.slide#1) by Andrew Gerrand
 * [Name](https://golang.org/doc/effective_go.html#names) by Effective Go
 * [Package names](https://blog.golang.org/package-names)
-* [Some questions](http://stackoverflow.com/questions/38616687/which-way-to-name-a-function-in-go-camelcase-or-semi-camelcase) 
+* [Some questions](http://stackoverflow.com/questions/38616687/which-way-to-name-a-function-in-go-camelcase-or-semi-camelcase)
 
 ### Books
 * [An Introduction to Go Programming](https://www.golang-book.com/books/intro)
@@ -79,6 +79,8 @@
 
 ### Types
 * [Understanding Type in Go](https://www.goinggo.net/2013/07/understanding-type-in-go.html)
+* [Understanding Golang Type System](https://thenewstack.io/understanding-golang-type-system/) by shiju varghese
+* [Type identity](https://golang.org/ref/spec#Type_identity)
 
 ### Convert
 * [Rune to Int](http://stackoverflow.com/questions/21322173/convert-rune-to-int)
@@ -116,7 +118,7 @@
 * [GoLang interface{} - 2 type conversions, type assertions, type switches](http://golang-basic.blogspot.com/2014/06/golang-interface-2-type-conversions.html) by Swati Soni
 
 ### Constants
-* [iota: Elegant Constants in Golang](https://splice.com/blog/iota-elegant-constants-golang/) 
+* [iota: Elegant Constants in Golang](https://splice.com/blog/iota-elegant-constants-golang/)
 * [constants](https://blog.golang.org/constants)
 * [why arrays are not constants](https://groups.google.com/forum/#!topic/golang-nuts/5aynucvg96I)
 
@@ -142,9 +144,12 @@
 * [errcheck](https://github.com/kisielk/errcheck)
 
 ### Operations
-* [Difference](http://stackoverflow.com/questions/28432398/difference-between-some-operators-golang) 
+* [Difference](http://stackoverflow.com/questions/28432398/difference-between-some-operators-golang)
 
-### Assenbly
+### Compiling
+* [Conditional compilation in Golang](http://blog.ralch.com/tutorial/golang-conditional-compilation/) by Svetlin Ralchev
+
+### Assembly
 * [Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)
 * [Generating code](https://blog.golang.org/generate)
 * [A Quick Guide to Go's Assembler](https://golang.org/doc/asm)
@@ -155,6 +160,7 @@
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) by Kyle Quest
 * [When in Go, do as Gophers do](https://talks.golang.org/2014/readability.slide#1)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments#Variable_Names)
+* [Things I Wish Someone Had Told Me About Golang](http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/)
 
 ### Talks
 * [General](https://talks.golang.org/)
@@ -164,7 +170,7 @@
 * [Stupid Gopher Tricks](https://www.youtube.com/watch?v=UECh7X07m6E) by Andrew Gerrand
 * [The path to Go 1](https://www.youtube.com/watch?v=bj9T2c2Xk_s) by Rob Pike and Andrew Gerrand
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by Rob Pike. [Slides](https://talks.golang.org/2012/concurrency.slide#2)
-* [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by Sameer Ajmani 
+* [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by Sameer Ajmani
 * [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide#1) Slides, by David Crawshaw
 
 ## C
@@ -181,10 +187,11 @@
 ### Print in formats
 * [printf](http://www.cplusplus.com/reference/cstdio/printf/)
 * [unsigned long hex representation](http://stackoverflow.com/questions/19478509/unsigned-long-hex-representation)
-* [unsigned int](http://stackoverflow.com/questions/15736497/how-to-print-an-unsigned-char-in-c) 
+* [unsigned int](http://stackoverflow.com/questions/15736497/how-to-print-an-unsigned-char-in-c)
 
 ### Pointerss
 * [Pointers](http://augustcouncil.com/~tgibson/tutorial/ptr.html)
+* [Don't Get Bitten by Pointer vs Non-Pointer Method Receivers in Golang](https://nathanleclaire.com/blog/2014/08/09/dont-get-bitten-by-pointer-vs-non-pointer-method-receivers-in-golang/) by Nathan Leclaire
 
 ### Constants
 * [References and Constants](http://www.augustcouncil.com/~tgibson/tutorial/constref.html)
@@ -201,7 +208,7 @@
 
 ## Vim
 * [Xterm256 color names for console Vim](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim)
- 
+
 ----------------------------------------------------------------------------
 # Useful
 * [ADR tools](https://github.com/npryce/adr-tools)
