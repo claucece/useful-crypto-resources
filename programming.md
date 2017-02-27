@@ -116,6 +116,7 @@
 ### Conversions
 * [A Guide to Types and Casting in Golang](http://blog.stoneriverelearning.com/a-guide-to-types-and-casting-in-golang/) by Gerard Millares
 * [GoLang interface{} - 2 type conversions, type assertions, type switches](http://golang-basic.blogspot.com/2014/06/golang-interface-2-type-conversions.html) by Swati Soni
+* [From reader to string](http://stackoverflow.com/questions/9644139/from-io-reader-to-string-in-go)
 
 ### Constants
 * [iota: Elegant Constants in Golang](https://splice.com/blog/iota-elegant-constants-golang/)
@@ -149,6 +150,10 @@
 ### Compiling
 * [Conditional compilation in Golang](http://blog.ralch.com/tutorial/golang-conditional-compilation/) by Svetlin Ralchev
 
+### Structs
+* [How to initialize members in Go struct](http://stackoverflow.com/questions/4498998/how-to-initialize-members-in-go-struct)
+* [Struct's Zero value in golang](http://stackoverflow.com/questions/28625794/structs-zero-value-in-golang)
+
 ### Assembly
 * [Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)
 * [Generating code](https://blog.golang.org/generate)
@@ -172,6 +177,10 @@
 * [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by Rob Pike. [Slides](https://talks.golang.org/2012/concurrency.slide#2)
 * [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by Sameer Ajmani
 * [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide#1) Slides, by David Crawshaw
+* [10 things you (probably) don't know about Go](https://talks.golang.org/2012/10things.slide#1)
+
+### Tools
+* [The cover story](https://blog.golang.org/cover) by Rob Pike
 
 ## C
 
