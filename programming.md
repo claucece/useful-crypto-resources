@@ -27,6 +27,13 @@
 ### Functions
 * [Variadic function](https://en.wikipedia.org/wiki/Variadic_function)
 
+### Algorithms
+* [The Yacas Book of Algorithms](http://yacas.sourceforge.net/Algo.book.pdf) by the Yacas team
+
+### Data representation
+* [Hexadecimal Floating-Point Constants](http://www.exploringbinary.com/hexadecimal-floating-point-constants/) by Rick Regan 
+* [A Tutorial on Data Representation: Integers, Floating-point Numbers, and Characters](https://www3.ntu.edu.sg/home/ehchua/programming/java/datarepresentation.html)
+
 ## Padding
 * [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/)
 
@@ -43,6 +50,7 @@
 * [Binary Arithmetic](http://courseweb.stthomas.edu/tpsturm/private/notes/qm300/ARITH.html)
 * [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
+* [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by By Sean Eron Anderson
 
 ### Constant Time
 * [Golang](https://golang.org/src/crypto/subtle/constant_time.go)
@@ -136,6 +144,7 @@
 ### Interfaces
 * [Go Data Structures: Interfaces](http://research.swtch.com/interfaces)
 * [Demystifying Golang's io.Reader and io.Writer Interfaces](https://nathanleclaire.com/blog/2014/07/19/demystifying-golangs-io-dot-reader-and-io-dot-writer-interfaces/) by Nathan LeClaire.
+* [Go Data Structures: Interfaces](https://research.swtch.com/interfaces) by Russ Cox
 
 ### Struct
 * [struct Type is not an expression](http://stackoverflow.com/questions/27455170/error-struct-type-is-not-an-expression)
@@ -166,6 +175,7 @@
 * [When in Go, do as Gophers do](https://talks.golang.org/2014/readability.slide#1)
 * [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments#Variable_Names)
 * [Things I Wish Someone Had Told Me About Golang](http://openmymind.net/Things-I-Wish-Someone-Had-Told-Me-About-Go/)
+* [Everyday hassles in Go](http://crufter.com/@crufter/everyday-hassles-in-go) by crufter
 
 ### Talks
 * [General](https://talks.golang.org/)
@@ -217,6 +227,8 @@
 
 ## Vim
 * [Xterm256 color names for console Vim](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim)
+* [Use Vim](https://medium.com/usevim/) by Alex R. Young
+* [Being sorta useful in vim](https://kivikakk.ee/2014/04/19/being-sorta-useful-in-vim.html#normal)
 
 ----------------------------------------------------------------------------
 # Useful
