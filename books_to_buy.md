@@ -16,6 +16,7 @@
 * [The state of elliptic curve cryptography, towards a quarter-century of public key cryptography](http://link.springer.com/chapter/10.1007%2F978-1-4757-6856-5_5#page-1) by N. Koblitz, A. Menezes, and S. Vanstone.
 * [Sequences and Their Applications](https://books.google.com.ec/books?id=wDZqCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) by SETA 2010
 * [Codes and designs](https://books.google.com.ec/books?id=E62qwfwLJpsC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by De Gruyter
+* [Binary Arithmetic](http://www.sciencedirect.com/science/article/pii/S0065245808606105?np=y&npKey=6d6b4e76e7539ace948e93c0cdce662ad3cb10a25a870feadfddd0ce6cd5624e) by George W. Reitwiesner
 
 ## Challenges
 
