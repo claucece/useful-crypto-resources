@@ -58,6 +58,7 @@
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by By Sean Eron Anderson
 * [Binary Arithmetic](http://www.sciencedirect.com/science/article/pii/S0065245808606105?np=y&npKey=6d6b4e76e7539ace948e93c0cdce662ad3cb10a25a870feadfddd0ce6cd5624e) by George W. Reitwiesner
+* [Encoding](https://developers.google.com/protocol-buffers/docs/encoding)
 
 ### Constant Time
 * [Golang](https://golang.org/src/crypto/subtle/constant_time.go)
