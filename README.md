@@ -53,6 +53,7 @@
 * [Diffie-Hellman parameters](https://wiki.openssl.org/index.php/Diffie-Hellman_parameters) by OpenSSL
 * [Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice](https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf) by David Adrian et al
 * [Diffie-hellman](https://www.cryptopp.com/wiki/Diffie-hellman#Key_Agreement_and_Transport) by Crypto++
+* [Public key parameters](http://cacr.uwaterloo.ca/hac/about/chap4.pdf#page=164)
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
@@ -103,10 +104,15 @@
 * [Subtraction](http://crypto.stackexchange.com/questions/11316/subtracting-a-point-in-elliptic-curve-cryptography)
 * [Elliptic curve point multiplication](https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication) in Wikipedia.
 * [Explicit Addition Formulae](https://crypto.stanford.edu/pbc/notes/elliptic/explicit.html)
+* [Elliptic curve point multiplication](https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication#Point_multiplication)
 
 #### Conversions
 * [Fault Attacks on Projective-to-Affine Coordinates Conversion](https://cosade.telecom-paristech.fr/cosade13/presentations/session2_b.pdf) by Diana Maimut, C´edric Murdica, David Naccache and  Mehdi Tibouchi. Presentation
 * [Fault Attacks on Projective-to-Affine Coordinates Conversion](https://books.google.com.ec/books?id=c_y5BQAAQBAJ&pg=PA46&lpg=PA46&dq=toaffine+ecc&source=bl&ots=twi-3g-Ea7&sig=UWNbVQLkW-DSKAk0E2Bw-bG5I4s&hl=en&sa=X&ved=0ahUKEwjajLqVh6LSAhUp04MKHVWZDQUQ6AEISzAI#v=onepage&q=toaffine%20ecc&f=false) by Diana Maimut, C´edric Murdica, David Naccache and  Mehdi Tibouchi. Pdf
+
+### wNafs
+* [wNAF*, an Efficient Left-to-Right Signed Digit Recoding Algorithm](https://link.springer.com/chapter/10.1007/978-3-540-68914-0_26) by Brian King
+* [Signed Binary Representations Revisited](https://www.iacr.org/archive/crypto2004/31520122/crypto04_camready2.pdf) by Katsuyuki Okeya, Katja Schmidt-Samoa, Christian Spahn, and Tsuyoshi Takagi
 
 #### Ideas
 * [DNS Curves](https://dnscurve.org/index.html)
@@ -138,6 +144,8 @@
 * [Decaf: Eliminating cofactors through point compression](https://eprint.iacr.org/2015/673.pdf) by Mike Hamburg
 * [Implementation on C, on github](https://github.com/coruus/ed448-goldilocks/tree/decaf/include)
 * [Fast and compact elliptic-curve cryptography](https://shiftleft.org/papers/fff/fff.pdf) by Mike Hamburg
+* [Ed448-Goldilocks, a new elliptic curve](http://csrc.nist.gov/groups/ST/ecc-workshop-2015/papers/session7-hamburg-michael.pdf) by Mike Hamburg
+* [Some simple ECC tricks](https://www.math.u-bordeaux.fr/~aenge/ecc2015/documents/hamburg.pdf) by Mike Hamburg
 
 #### elligator
 * [Mike Hamburg's explanation](https://moderncrypto.org/mail-archive/curves/2015/000424.html)
@@ -179,6 +187,7 @@
 * [Proving tight security for Rabin–Williams signatures](https://cr.yp.to/sigs/rwtight-20080201.pdf) by Daniel J. Bernstein.
 * [Short signatures from the Weil pairing](https://www.iacr.org/archive/asiacrypt2001/22480516.pdf) by Dan Boneh, Ben Lynn, and Hovav Shacham.
 * [A Provably Secure Nyberg-Rueppel Signature Variant with Applications](https://eprint.iacr.org/2004/093.pdf) by Giuseppe Ateniese and Breno de Medeiros.
+* [Performance of Batch-based Digital Signatures](http://bourbon.usc.edu/iml/bistro/papers/mascots2k2-pub.pdf) by William C. Cheng, Cheng-Fu Chou and Leana Golubchik
 
 ### Schnorr signatures
 * [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md) by Christopher Allen.
@@ -190,9 +199,14 @@
 * [EdDSA notes](http://lukas-prokop.at/proj/eddsa/)
 * [High-speed high-security signatures](https://ed25519.cr.yp.to/ed25519-20110705.pdf) by Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 * [EdDSA for more curves](https://ed25519.cr.yp.to/eddsa-20150704.pdf) by Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe and Bo-Yin Yang
+* [The Elliptic Curve Digital Signature Algorithm (ECDSA)](https://www.security-audit.com/files/x9-62-09-20-98.pdf) by American National Standards
+* [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-08) by S. Josefsson and I. Liusvaara
 
 ### XEdDSA
 * [The XEdDSA and VXEdDSA Signature Schemes](https://whispersystems.org/docs/specifications/xeddsa/#curve448) by Trevor Perrin.
+
+## Validations
+* [Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography](http://csrc.nist.gov/publications/nistpubs/800-56A/SP800-56A_Revision1_Mar08-2007.pdf) by NIST
 
 ## Models
 
@@ -237,6 +251,7 @@
 * [Crypto++ 5.6.5](https://www.cryptopp.com/release565.html)
 * [cryptopp](https://github.com/weidai11/cryptopp)
 * [The Apache Milagro Cryptographic Library](https://github.com/MIRACL/amcl)
+* [DeDiS Advanced Crypto Library for Go](https://github.com/dedis/crypto)
 
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)

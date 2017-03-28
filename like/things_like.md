@@ -44,3 +44,8 @@ To read on daily basic
 
 * [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson)
 * [Programming in Martin-Löf ’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) by Bengt Nordström, Kent Petersson and Jan M. Smith
+
+## Summer school
+* [Summer School on real-world crypto and privacy](https://summerschool-croatia.cs.ru.nl/2017/) in Šibenik, Croatia
+* [Summer School on Post-Quantum Cryptography 2017](https://2017.pqcrypto.org/school/index.html) in Eindhoven, the Netherlands
+* [Spring School on Lattice-Based Cryptography](https://www.maths.ox.ac.uk/groups/cryptography/spring-school-lattice-based-cryptography) at University of Oxford

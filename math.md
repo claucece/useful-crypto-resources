@@ -12,6 +12,7 @@
 * [Chapter 3. Modular Arithmetic](http://www.doc.ic.ac.uk/~mrh/330tutor/ch03.html)
 * [Math in Network Security: A Crash Course](http://www.doc.ic.ac.uk/~mrh/330tutor/)
 * [Modular Arithmetic](http://www.math.cornell.edu/~putnam/modular.pdf)
+* [Multiplicative order](http://rosettacode.org/wiki/Multiplicative_order)
 
 #### Barrett Reduction
 * [Barret Reduction](https://en.wikipedia.org/wiki/Barrett_reduction) in Wikipedia.
@@ -38,6 +39,9 @@
 
 ### Elementary Computer Mathematics
 * [Computer Maths](http://kias.dyndns.org/comath/text.html) by Kenneth R. Koehler.
+
+### Montgomery Ladder
+* [The Montgomery Powering Ladder](https://cr.yp.to/bib/2003/joye-ladder.pdf) by Marc Joye and Sung-Ming Yen
 
 ## Group Theory
 * [Introduction to Group Theory](http://dogschool.tripod.com/) 	by Dog School of Mathematics
