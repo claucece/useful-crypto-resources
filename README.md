@@ -1,5 +1,9 @@
 # Useful Crypto-related Resources
 
+### AKE
+* [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
+* [Two-party authenticated key exchange protocol using lattice-based cryptography](https://eprint.iacr.org/2016/761.pdf) by Xiaopeng Yang and Wenping Ma
+
 ## OTR
 
 ### OTRv2
@@ -45,6 +49,7 @@
 ### Degenerate
 * [Degenerate Keys for RSA Encryption](https://pdfs.semanticscholar.org/2a2e/6585b83949cc13e58444f7b4435cf76d2920.pdf) by Seth D. Bergmann.
 * [Info](https://books.google.de/books?id=amW5BQAAQBAJ&pg=PA205&lpg=PA205&dq=check+for+degenerate+key+crypto&source=bl&ots=IChUHyW5O8&sig=WC1JF6QumuLoX_k9lnql_5Aee8c&hl=es-419&sa=X&sqi=2&ved=0ahUKEwjQybzEsZDSAhVnwYMKHfjFDHsQ6AEILDAC#v=onepage&q=check%20for%20degenerate%20key%20crypto&f=false)
+* [Degenerate Curve Attacks](https://eprint.iacr.org/2015/1233.pdf) by Samuel Neves and Mehdi Tibouchi
 
 ### Diffie Hellman
 * [New directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Diffie and Hellman.
@@ -54,12 +59,13 @@
 * [Imperfect Forward Secrecy: How Diffie-Hellman Fails in Practice](https://weakdh.org/imperfect-forward-secrecy-ccs15.pdf) by David Adrian et al
 * [Diffie-hellman](https://www.cryptopp.com/wiki/Diffie-hellman#Key_Agreement_and_Transport) by Crypto++
 * [Public key parameters](http://cacr.uwaterloo.ca/hac/about/chap4.pdf#page=164)
+* [A One Round Protocol for Tripartite Diffie–Hellman](https://pdfs.semanticscholar.org/845e/96c20e5a5ff3b03f4caf72c3cb817a7fa542.pdf) by Antoine Joux
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
 
 #### Attacks
-* [Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems](https://42xtjqm0qj0382ac91ye9exr-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/TimingAttacks.pdf) by Paul C. Kocher
+* [Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems](https://42xtjqm0qj0382ac91ye9exr-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/TimingAttacks.pdf) by Paul C. Kocher
 * [On reusing ephemeral keys in Diffie-Hellman key agreement protocols](http://cacr.uwaterloo.ca/techreports/2008/cacr2008-24.pdf) by Alfred Menezes and Berkant Ustaoglu
 
 ### Cramer-Shoup
@@ -93,7 +99,15 @@
 * [Elliptic Curves, Lattices, and the Upper Half-Plane](https://www.hdevalence.ca/blog/2012-10-31-elliptic-curves-lattices-and-the-upper-half-plane)
 * [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) by Andrea Corbellini
 * [Curves with a Twist](https://ripple.com/dev-blog/curves-with-a-twist/)
+* [Elliptic vs Hyperelliptic](https://www.yumpu.com/en/document/view/51546701/tanja-lange) by Tanja Lange
+* [Sign Change Fault Attacks On Elliptic Curve Cryptosystems](https://eprint.iacr.org/2004/227.pdf) by Johannes Blömer, Martin Otto and Jean-Pierre Seifert
+* [An exploration of affine group laws for elliptic curves](https://www.degruyter.com/view/j/jmc.2011.5.issue-1/jmc.2011.005/jmc.2011.005.xml) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter and Ed Dawson
 
+#### Twist
+* [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
+
+#### Jacobic
+* [The Jacobi Model of an Elliptic Curve and Side-Channel Analysis](https://eprint.iacr.org/2002/125.pdf) by Olivier Billet and Marc Joye
 
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
@@ -121,6 +135,9 @@
 * [Curve25519: new Diffie-Hellman speed records](https://cr.yp.to/ecdh/curve25519-20060209.pdf) by Daniel J. Bernstein
 * [A state-of-the-art Diffie-Hellman function](https://cr.yp.to/ecdh.html#curve25519-paper) by Daniel J. Bernstein
 * [Usage](https://ianix.com/pub/curve25519-deployment.html)
+* [A state-of-the-art Diffie-Hellman function - Code](http://cr.yp.to/ecdh.html) by Daniel J. Bernstein
+* [Benchmark](http://bench.cr.yp.to/impl-scalarmult/curve25519.html)
+* [Toy implementatio](https://sourceforge.net/p/strobe/code/ci/master/tree/x25519.c)
 
 ### Edwards Curve
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -146,6 +163,7 @@
 * [Fast and compact elliptic-curve cryptography](https://shiftleft.org/papers/fff/fff.pdf) by Mike Hamburg
 * [Ed448-Goldilocks, a new elliptic curve](http://csrc.nist.gov/groups/ST/ecc-workshop-2015/papers/session7-hamburg-michael.pdf) by Mike Hamburg
 * [Some simple ECC tricks](https://www.math.u-bordeaux.fr/~aenge/ecc2015/documents/hamburg.pdf) by Mike Hamburg
+* [Spec](http://ed448goldilocks.sourceforge.net/spec/) by Mike Hamburg
 
 #### elligator
 * [Mike Hamburg's explanation](https://moderncrypto.org/mail-archive/curves/2015/000424.html)
@@ -155,10 +173,16 @@
 
 #### ed225519
 * [Implementation](https://ed25519.cr.yp.to/python/ed25519.py) by Daniel J. Bernstein.
+* [Donna-edition](https://github.com/agl/curve25519-donna) by Adam Langley
 
 #### Attacks
 * [New algorithm for the discrete logarithm problem on elliptic curves](http://eprint.iacr.org/2015/310.pdf) by Igor Semaev.
 
+#### BenchMarking
+* [eBACS: ECRYPT Benchmarking of Cryptographic Systems: SUPERCOP](http://bench.cr.yp.to/supercop.html)
+
+#### extra
+* [Hierarchical Deterministic keys over non-linear Keyspace](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust-fall2016/blob/master/topics-and-advance-readings/HDKeys-Ed25519.pdf) by Khovratovich and Law
 
 ## Hash Functions
 * [Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance](http://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) by P. Rogaway and T. Shrimpton
@@ -192,6 +216,7 @@
 ### Schnorr signatures
 * [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md) by Christopher Allen.
 * [Multi-user Schnorr security, revisited](https://ed25519.cr.yp.to/multischnorr-20151012.pdf) by Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe and Bo-Yin Yang
+* [Fast and compact elliptic-curve cryptography](https://eprint.iacr.org/2012/309.pdf) by Mike Hamburg
 
 ### EdDSA
 * [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-05): The elliptic curve signature scheme Edwards-curve Digital Signature Algorithm (EdDSA) is described by S. Josefsson.
