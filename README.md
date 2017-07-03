@@ -328,7 +328,7 @@ The three bears](https://www.shiftleft.org/papers/threebears/threebears-draft1.p
 * [On Agnostic Boosting and Parity Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/2008-On_Agnostic_Boosting-and_Parity_Learning.pdf) by Adam Tauman Kalai, Yishay Mansour and Elad Verbin
 * [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) by Daniel Bernstein and Johannes Buchmann
 * [A Simple Provably Secure Key Exchange Scheme Based on the
-Learning with Errors Problem] (https://eprint.iacr.org/2012/688.pdf) by Jintai Ding, Xiang Xie and Xiaodong Lin
+Learning with Errors Problem](https://eprint.iacr.org/2012/688.pdf) by Jintai Ding, Xiang Xie and Xiaodong Lin
 * [The Learning with Errors Problem](http://www.cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 * [Quantum theory, the Church-Turing principle and the universal
 quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.org/oldsite/resource/deutsch85.pdf) by David Deutsch
