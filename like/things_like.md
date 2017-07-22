@@ -71,6 +71,8 @@ To read on daily basic
 * [Computational Applied Mathematics](http://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=935)
 * [Algebra & Number Theory](http://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=509)
 * [Mathematical Physics](http://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=513)
+* [String math 2017](https://stringmath2017.desy.de/)
+* [Pre-StringMath Summer School](http://grk1670.math.uni-hamburg.de/sms2017/)
 
 ## To take now
 * [Cryptography II by Dan Boneh](http://online.stanford.edu/course/cryptography-2-2014)
@@ -79,4 +81,3 @@ To read on daily basic
 * [Cyber Security Graduate Certificate](http://online.stanford.edu/course/cyber-security-graduate-certificate)
 * [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 * [Using Cryptography Correctly](http://online.stanford.edu/course/using-cryptography-correctly)
-*
