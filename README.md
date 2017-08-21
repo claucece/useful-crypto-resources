@@ -1,7 +1,7 @@
 # Useful Crypto-related Resources
 
 ## General
-* [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
+* [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
 by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ## AKE
@@ -25,6 +25,12 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ### Multiparty
 * [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al.
+
+## Signal Protocol
+
+* [A Formal Security Analysis of the Signal Messaging Protocol](https://eprint.iacr.org/2016/1013.pdf) by Katriel Cohn-Gordon, Cas Cremers, Benjamin Dowling, Luke Garratt and Douglas Stebila.
+* [How Secure is TextSecure?](https://eprint.iacr.org/2014/904.pdf) by Tilman Frosch, Christian Mainka, Christoph Bader, Florian Bergsma, Jorg Schwenk and Thorsten Holz.
+
 
 ## Zero Knowledge Proof
 * [Multiple Non-Interactive Zero Knowledge Proofs Based on a Single Random String](https://www.computer.org/csdl/proceedings/focs/1990/2082/00/089549.pdf) by Uriel Feige, Dror Lapidot and Adi Shamir.
@@ -75,14 +81,18 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Public key parameters](http://cacr.uwaterloo.ca/hac/about/chap4.pdf#page=164)
 * [A One Round Protocol for Tripartite Diffie–Hellman](https://pdfs.semanticscholar.org/845e/96c20e5a5ff3b03f4caf72c3cb817a7fa542.pdf) by Antoine Joux
 * [The Decision Die-Hellman Problem](http://crypto.stanford.edu/~dabo/pubs/papers/DDH.pdf) by Dan Boneh
+* [On Diffie-Hellman key agreement with short exponents](https://www.google.com.ec/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitwcqf_ObVAhVE5iYKHZ3VA0IQFggkMAA&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F2b39%2F13d1dfcb1dc90463a37edfe606922f093e97.pdf&usg=AFQjCNEm-aBpKhd81J4NHqA81MLS0DOK9g) by P. C. van Oorschot and M. J. Wiener
+* [Diffie-Hellman Key Agreement Method](https://tools.ietf.org/html/rfc2631) by E. Rescorla
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
+* [Methods for Avoiding the "Small-Subgroup" Attacks on the Diffie-Hellman Key Agreement Method for S/MIME](https://tools.ietf.org/html/rfc2785) by R. Zuccherato
 
 #### Attacks
 * [Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems](https://42xtjqm0qj0382ac91ye9exr-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/TimingAttacks.pdf) by Paul C. Kocher
 * [On reusing ephemeral keys in Diffie-Hellman key agreement protocols](http://cacr.uwaterloo.ca/techreports/2008/cacr2008-24.pdf) by Alfred Menezes and Berkant Ustaoglu
 * [A lesson in timing attacks](https://codahale.com/a-lesson-in-timing-attacks/) by codahale
+* [Measuring small subgroup attacks against Diffie-Hellman](https://eprint.iacr.org/2016/995.pdf) by Luke Valenta, David Adrian, Antonio Sanso, Shaanan Cohney, Joshua Fried, Marcella Hastings, J. Alex Halderman and Nadia Heninger. [Slides](https://www.seas.upenn.edu/~lukev/files/subgroup-slides.pdf)
 
 ### Cramer-Shoup
 * [Cramer Shoup Cryto-System Java implementation](https://github.com/omoeller/cramshou) by omoeller (not audited).
