@@ -309,6 +309,10 @@ René Struik and Scott Vanstone
 ### STROBE
 * [The Strobe Protocol](http://eprint.iacr.org/2017/003.pdf) by Mike Hamburg
 
+### [The OAKLEY Key Determination Protocol]
+* [The OAKLEY Key Determination Protocol](https://tools.ietf.org/html/rfc2412)
+by H. Orman
+
 ## Schemes
 
 * [Folklore, Practice and Theory of Robust Combiners](http://eprint.iacr.org/2002/135.pdf) by Amir Herzberg.

@@ -81,3 +81,9 @@ To read on daily basic
 * [Cyber Security Graduate Certificate](http://online.stanford.edu/course/cyber-security-graduate-certificate)
 * [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 * [Using Cryptography Correctly](http://online.stanford.edu/course/using-cryptography-correctly)
+* [Introduction to Differential Equations and the MATLAB® ODE Suite](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) by MIT
+
+## Currently
+* [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c) by MIT
+* [Mathematics for Computer Science](https://www.youtube.com/watch?v=wIq4CssPoO0&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ) by MIT
+
