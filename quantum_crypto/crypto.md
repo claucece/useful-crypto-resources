@@ -69,7 +69,7 @@
 
   * 1, 9, 14
 
-	* [A Reaction Attack on the QC-LDPC McEliece Cryptosystem](https://eprint.iacr.org/2017/494.pdf) Tomas Fabsic, Viliam Hromada, Paul Stankovski,
+* [A Reaction Attack on the QC-LDPC McEliece Cryptosystem](https://eprint.iacr.org/2017/494.pdf) by Tomas Fabsic, Viliam Hromada, Paul Stankovski,
 Pavol Zajac, Qian Guo and Thomas Johansson.
 
   Presented by Tomas Fabsic
@@ -94,3 +94,14 @@ Pavol Zajac, Qian Guo and Thomas Johansson.
     Springer, Berlin (2008)
   * BitPunch, https://github.com/FrUh/BitPunch
 
+* [Quantum Information Set Decoding Algorithms](https://eprint.iacr.org/2017/213.pdf) by Ghazal Kachigar and Jean-Pierre Tillich.
+
+  Presented by Ghazal Kachigar
+
+  Interesting references:
+
+  * Prange, E. The use of information sets in decoding cyclic codes. IRE
+    Transactions on Information Theory 8, 5 (1962).
+  * Bernstein, D. J. Grover vs. McEliece. In Post-Quantum Cryptography 2010
+    (2010), N. Sendrier, Ed., vol. 6061 of Lecture Notes in Comput. Sci.,
+    Springer.
