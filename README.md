@@ -31,6 +31,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 * [A Formal Security Analysis of the Signal Messaging Protocol](https://eprint.iacr.org/2016/1013.pdf) by Katriel Cohn-Gordon, Cas Cremers, Benjamin Dowling, Luke Garratt and Douglas Stebila.
 * [How Secure is TextSecure?](https://eprint.iacr.org/2014/904.pdf) by Tilman Frosch, Christian Mainka, Christoph Bader, Florian Bergsma, Jorg Schwenk and Thorsten Holz.
+* [Technology preview: Private contact discovery for Signal](https://signal.org/blog/private-contact-discovery/)
 
 
 ## Zero Knowledge Proof
@@ -84,6 +85,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [The Decision Die-Hellman Problem](http://crypto.stanford.edu/~dabo/pubs/papers/DDH.pdf) by Dan Boneh
 * [On Diffie-Hellman key agreement with short exponents](https://www.google.com.ec/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitwcqf_ObVAhVE5iYKHZ3VA0IQFggkMAA&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F2b39%2F13d1dfcb1dc90463a37edfe606922f093e97.pdf&usg=AFQjCNEm-aBpKhd81J4NHqA81MLS0DOK9g) by P. C. van Oorschot and M. J. Wiener
 * [Diffie-Hellman Key Agreement Method](https://tools.ietf.org/html/rfc2631) by E. Rescorla
+* [Additional Diffie-Hellman Groups for Use with IETF Standards](https://tools.ietf.org/html/rfc5114) by M. Lepinski and S. Kent
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
@@ -140,6 +142,10 @@ Robert Granger
 * [Validation of Elliptic Curve Public Keys](https://www.iacr.org/archive/pkc2003/25670211/25670211.pdf) by Adrian Antipa, Daniel Brown, Alfred Menezes,
 René Struik and Scott Vanstone
 * [Fast genus 2 arithmetic based on Theta functions](https://eprint.iacr.org/2005/314.ps) by P. Gaudry
+* [Point Generation And Base Point Selection In ECC: An Overview](https://www.ijarcce.com/upload/2014/may/IJARCCE7J%20%20a%20moumita%20Point%20Generation%20And%20Base.pdf) by Moumita Roy, Nabamita Deb and Amar Jyoti Kumar
+* [Fundamental Elliptic Curve Cryptography Algorithms](https://tools.ietf.org/html/rfc6090#section-8) by D. McGrew, K. Igoe and  M. Salter
+* [Elliptic Curve Groups modulo a Prime (ECP Groups) for IKE and IKEv2](https://tools.ietf.org/html/rfc5903) by D. Fu and J. Solinas
+* [Elliptic Curve Cryptography in Practice](https://eprint.iacr.org/2013/734.pdf) by Joppe W. Bos, J. Alex Halderman, Nadia Heninger, Jonathan Moore, Michael Naehrig and Eric Wustrow
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -182,6 +188,8 @@ René Struik and Scott Vanstone
 * [Benchmark](http://bench.cr.yp.to/impl-scalarmult/curve25519.html)
 * [Toy implementatio](https://sourceforge.net/p/strobe/code/ci/master/tree/x25519.c)
 * [High-speed Curve25519 on 8-bit, 16-bit, and 32-bit microcontrollers](http://eprint.iacr.org/2015/343.pdf) by Michael Düll, Björn Haase, Gesine Hinterwälder, Michael Hutter, Christof Paar and Ana Helena Sánchez
+* [May the Fourth Be With You: A Microarchitectural Side Channel
+Attack on Several Real-World Applications of Curve25519](https://eprint.iacr.org/2017/806.pdf) by Daniel Genkin, Luke Valenta and Yuval Yarom
 
 ### Edwards Curve
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -350,6 +358,8 @@ by H. Orman
 * [Libsodium: helpers](https://download.libsodium.org/doc/helpers/)
 * [TweetNaCl](http://tweetnacl.cr.yp.to/tweetnacl-20140917.pdf) by Daniel J. Bernstein1, Bernard van Gastel, Wesley Janssen, Tanja Lange, Peter Schwabe3 and Sjaak Smetsers
 * [NaCl: internals](https://nacl.cr.yp.to/internals.html)
+* [HACL: A Verified Modern Cryptographic Library](https://eprint.iacr.org/2017/536.pdf) by Jean Karim Zinzindohoué, Karthikeyan Bhargavan, Jonathan Protzenko and Benjamin Beurdouche
+* [Several](https://cryptojedi.org/crypto)
 
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
@@ -383,6 +393,7 @@ quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.or
 * [TESLA: Tightly-Secure Efficient Signatures from Standard Lattices](https://cryptojedi.org/papers/tesla-20160802.pdf) by Erdem Alkim, Nina Bindel, Johannes
 Buchmann, Özgür Dagdelen and Peter Schwabe
 * [An improved compression technique for signatures based on learning with errors](https://eprint.iacr.org/2013/838.pdf) by Shi Bai and Steven D. Galbraith
+* [NTRU Prime](https://ntruprime.cr.yp.to/ntruprime-20160511.pdf) by Daniel J. Bernstein, Chitchanok Chuengsatiansup, Tanja Lange and Christine van Vredendaal
 
 ## Searchable symmetric encryption
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
