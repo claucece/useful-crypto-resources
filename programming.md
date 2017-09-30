@@ -247,7 +247,7 @@
 * [unsigned long hex representation](http://stackoverflow.com/questions/19478509/unsigned-long-hex-representation)
 * [unsigned int](http://stackoverflow.com/questions/15736497/how-to-print-an-unsigned-char-in-c)
 
-### Pointerss
+### Pointers
 * [Pointers](http://augustcouncil.com/~tgibson/tutorial/ptr.html)
 * [Don't Get Bitten by Pointer vs Non-Pointer Method Receivers in Golang](https://nathanleclaire.com/blog/2014/08/09/dont-get-bitten-by-pointer-vs-non-pointer-method-receivers-in-golang/) by Nathan Leclaire
 
@@ -257,9 +257,44 @@
 ### Conversion
 * [deprecated conversion from string constant to 'char*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
 
+### Libraries
+
+#### Libgcrypt
+* [Libgcrypt Library](https://www.gnupg.org/documentation/manuals/gcrypt/index.html#SEC_Contents)
+* [gcry_mpi](https://www.gnupg.org/documentation/manuals/gcrypt/Basic-functions.html)
+* [AM_DEFAULT_VERBOSITY](https://lists.gnu.org/archive/html/bug-autoconf/2012-01/msg00007.html)
+
+#### Autotools
+* [automake](https://www.gnu.org/software/automake/manual/html_node/index.html#SEC_Contents)
+* [Automake silence](https://www.gnu.org/software/automake/manual/html_node/Automake-Silent-Rules.html#index-AM_005fDEFAULT_005fVERBOSITY)
+
+#### Glib
+* [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
+
+#### Valgrind
+* [on osx](https://stackoverflow.com/questions/35308274/valgrind-errors-on-mac-os-x-for-printf-a-double)
+* [Checking C code with Valgrind on Yosemite](http://kalapun.com/posts/checking-c-code-with-valgrind-on-yosemite/)
+* [errors on os](https://stackoverflow.com/questions/34573039/possible-memory-leak-valgrind-in-osx-el-capitan)
+* [Using Valgrind to Find Memory Leaks and Invalid Memory Use](http://www.cprogramming.com/debugging/valgrind.html) by Alex Allain
+* [Memcheck: a memory error detector](http://valgrind.org/docs/manual/mc-manual.html#mc-manual.options)
+
+
 ## GTK
 * [glade tutorial](http://blog.borovsak.si/2009/09/glade3-tutorial-1-introduction.html)
 * [Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.io/en/latest/install.html)
+
+## Haskell
+* [Stephen Diehl](https://github.com/sdiehl)
+* [Write a compiler](https://github.com/sdiehl/write-you-a-haskell)
+* [Write a compiler 2](http://dev.stephendiehl.com/fun/000_introduction.html)
+
+
+
+----------------------------------------------------------------------------
+
+# Theory
+
+* [On computable numbers, with an application to the entscheidungsproblem](https://www.cs.virginia.edu/~robins/Turing_Paper_1936.pdf) by Alan Turing
 
 ----------------------------------------------------------------------------
 
@@ -281,6 +316,7 @@
 
 ----------------------------------------------------------------------------
 # Useful
+
 * [ADR tools](https://github.com/npryce/adr-tools)
 * Topological math: [Topological phase transitions and topological phases of matter](https://www.nobelprize.org/nobel_prizes/physics/laureates/2016/advanced-physicsprize2016.pdf)
 * [dirEnv](https://github.com/direnv/direnv)
@@ -292,6 +328,7 @@
 
 ----------------------------------------------------------------------------
 # Code for Tor Browser High Security Mode
+
 In high security mode, Tor only allows PNG images to be available.
 
 If your website must support non-PNG images like SVG, you can set up a fallback image

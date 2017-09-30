@@ -1,8 +1,9 @@
 # Useful Crypto-related Resources
 
-### AKE
+## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
 * [Two-party authenticated key exchange protocol using lattice-based cryptography](https://eprint.iacr.org/2016/761.pdf) by Xiaopeng Yang and Wenping Ma
+* [The X3DH Key Agreement Protocol](https://whispersystems.org/docs/specifications/x3dh/x3dh.pdf) by Moxie Marlinspike and Trevor Perrin
 
 ## OTR
 
@@ -303,9 +304,17 @@ René Struik and Scott Vanstone
 * [cryptopp](https://github.com/weidai11/cryptopp)
 * [The Apache Milagro Cryptographic Library](https://github.com/MIRACL/amcl)
 * [DeDiS Advanced Crypto Library for Go](https://github.com/dedis/crypto)
+* [Relic](https://github.com/relic-toolkit/relic)
+* [Libsodium docs](https://github.com/jedisct1/libsodium-doc)
 
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
+
+## Quatum computing
+* [Quantum Computing: Lecture Notes](http://homepages.cwi.nl/~rdewolf/qcnotes.pdf) by Ronald de Wolf
+* [Polynomial time algorithms for prime discrete logarithms on a quantum computer](http://www.if.pwr.wroc.pl/~biegansk/PS.pdf) by Peter W. Shor
+* [Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf) by Richard Feynman
+* [Quantum Mechanical Computers](http://www.quantum-dynamic.eu/doc/feynman85_qmc_optics_letters.pdf) by Richard Feynman
 
 ## PostQuantum Crypto
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
@@ -313,6 +322,16 @@ René Struik and Scott Vanstone
 * [Quantum computers are coming!](https://www.youtube.com/watch?v=c7OHv-L-x50) by Tanja Lange and Daniel J. Bernstein
 * [Ring learning with errors](https://en.wikipedia.org/wiki/Ring_learning_with_errors)
 * [A low-resource quantum factoring algorithm](https://eprint.iacr.org/2017/352.pdf) by Daniel J. Bernstein, Jean-François Biasse, and Michele Mosca
+* [Module-LWE key exchange and encryption:
+The three bears](https://www.shiftleft.org/papers/threebears/threebears-draft1.pdf) by Mike Hamburg
+* [On Lattices, Learning with Errors, Random Linear Codes, and Cryptography](http://www.cims.nyu.edu/~regev/papers/qcrypto.pdf) by Oded Regev
+* [On Agnostic Boosting and Parity Learning](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/11/2008-On_Agnostic_Boosting-and_Parity_Learning.pdf) by Adam Tauman Kalai, Yishay Mansour and Elad Verbin
+* [Post-Quantum Cryptography](https://www.researchgate.net/profile/Nicolas_Sendrier/publication/226115302_Code-Based_Cryptography/links/540d62d50cf2df04e7549388/Code-Based-Cryptography.pdf) by Daniel Bernstein and Johannes Buchmann
+* [A Simple Provably Secure Key Exchange Scheme Based on the
+Learning with Errors Problem] (https://eprint.iacr.org/2012/688.pdf) by Jintai Ding, Xiang Xie and Xiaodong Lin
+* [The Learning with Errors Problem](http://www.cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
+* [Quantum theory, the Church-Turing principle and the universal
+quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.org/oldsite/resource/deutsch85.pdf) by David Deutsch
 
 ## Malware
 * [Encrypted Viruses](http://www.cs.virginia.edu/~ww6r/CS4630/lectures/Encrypted_Virus.pdf)
@@ -332,3 +351,4 @@ René Struik and Scott Vanstone
 ## Various
 * [Rebooting the Web-of-Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust)
 * [Tor Browser Bundle - iSEC Deliverable 1.3](https://github.com/iSECPartners/publications/blob/052caf9c9c683ec0bed55782714df4d35c38f107/reports/Tor%20Browser%20Bundle/Tor%20Browser%20Bundle%20-%20iSEC%20Deliverable%201.3.pdf)
+* [Privacy Enhancement for Internet Electronic Mail: Part I -- Message Encipherment and Authentication Procedures](https://tools.ietf.org/html/rfc1113)
