@@ -153,6 +153,12 @@
 * [unsigned long hex representation](http://stackoverflow.com/questions/19478509/unsigned-long-hex-representation)
 * [unsigned int](http://stackoverflow.com/questions/15736497/how-to-print-an-unsigned-char-in-c) 
 
+### Pointerss
+* [Pointers](http://augustcouncil.com/~tgibson/tutorial/ptr.html)
+
+### Constants
+* [References and Constants](http://www.augustcouncil.com/~tgibson/tutorial/constref.html)
+
 ----------------------------------------------------------------------------
 
 # Design
