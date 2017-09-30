@@ -94,7 +94,7 @@
 * [Faster Addition and Doubling on Elliptic Curves](http://download.springer.com/static/pdf/846/chp%253A10.1007%252F978-3-540-76900-2_3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-76900-2_3&token2=exp=1483841050~acl=%2Fstatic%2Fpdf%2F846%2Fchp%25253A10.1007%25252F978-3-540-76900-2_3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-76900-2_3*~hmac=06e0fd268cf19d93fc5ef5f63da7b76ee9a37f84e1700968eed20c8142f77f04) by Daniel J. Bernstein and Tanja Lange.
 * [Twisted Edwards Curves](https://eprint.iacr.org/2008/013.pdf) by Daniel J. Bernstein, Peter Birkner, Marc Joye, Tanja Lange, and Christiane Peters
 * [Twisted Edwards Curves Revisited](http://iacr.org/archive/asiacrypt2008/53500329/53500329.pdf) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter, and Ed Dawson.
-*
+
 #### Theory
 
 #### Encoding
@@ -113,6 +113,8 @@
 
 #### elligator
 * [Mike Hamburg's explanation](https://moderncrypto.org/mail-archive/curves/2015/000424.html)
+* [Elligator: Elliptic-curve points indistinguishable from uniform random strings](http://elligator.cr.yp.to/elligator-20130828.pdf) by Daniel J. Bernstein, Mike Hamburg, Anna Krasnova and Tanja Lange
+* [Implementing Elligator for Curve25519](https://www.imperialviolet.org/2013/12/25/elligator.html) by Adam Langley
 
 #### ed225519
 * [Implementation](https://ed25519.cr.yp.to/python/ed25519.py) by Daniel J. Bernstein.
@@ -123,6 +125,8 @@
 
 ## Hash Functions
 * [Cryptographic Hash-Function Basics: Definitions, Implications, and Separations for Preimage Resistance, Second-Preimage Resistance, and Collision Resistance](http://web.cs.ucdavis.edu/~rogaway/papers/relates.pdf) by P. Rogaway and T. Shrimpton
+* [The Sponge Functions Corner](http://sponge.noekeon.org/) by Guido Bertoni, Joan Daemen, Michaël Peeters and Gilles Van Assche 
+* [The Keccak SHA-3 submission](http://keccak.noekeon.org/Keccak-submission-3.pdf) by by Guido Bertoni, Joan Daemen, Michaël Peeters and Gilles Van Assche 
 
 ## Message Authentification Code (MAC)
 * [SHA3-based MACs](http://csrc.nist.gov/groups/ST/hash/sha-3/Aug2014/documents/perlner_kmac.pdf) by Ray Perlner.
@@ -235,6 +239,7 @@
 ### Information Theory
 * [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) by Shannon. 
 * [Unicity points in cryptanalysis](http://www.tandfonline.com/doi/abs/10.1080/0161-117791832797?journalCode=ucry20) by C.A Devavours.
+
 ## Compendia
 * [Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012](https://books.google.com.ec/books?id=iWirCAAAQBAJ&pg=PA223&lpg=PA223&dq=malleable+symmetric+schemes&source=bl&ots=3oszTtlOhU&sig=evzVsQk3DbLMdkZLVY_O6RD5BfQ&hl=en&sa=X&ved=0ahUKEwjrh4XU2rPPAhUFox4KHY-UAS0Q6AEIKjAD#v=onepage&q=malleable%20symmetric%20schemes&f=false), edited by Ronald Cramer.
 * [Recommendation for Key Management](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf) by Elaine Barker in NIST.
@@ -270,4 +275,3 @@
 ## Various
 * [Rebooting the Web-of-Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust)
 * [Tor Browser Bundle - iSEC Deliverable 1.3](https://github.com/iSECPartners/publications/blob/052caf9c9c683ec0bed55782714df4d35c38f107/reports/Tor%20Browser%20Bundle/Tor%20Browser%20Bundle%20-%20iSEC%20Deliverable%201.3.pdf)
-
