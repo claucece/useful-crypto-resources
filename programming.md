@@ -51,6 +51,7 @@
 * [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by By Sean Eron Anderson
+* [Binary Arithmetic](http://www.sciencedirect.com/science/article/pii/S0065245808606105?np=y&npKey=6d6b4e76e7539ace948e93c0cdce662ad3cb10a25a870feadfddd0ce6cd5624e) by George W. Reitwiesner
 
 ### Constant Time
 * [Golang](https://golang.org/src/crypto/subtle/constant_time.go)
@@ -89,6 +90,11 @@
 * [Understanding Type in Go](https://www.goinggo.net/2013/07/understanding-type-in-go.html)
 * [Understanding Golang Type System](https://thenewstack.io/understanding-golang-type-system/) by shiju varghese
 * [Type identity](https://golang.org/ref/spec#Type_identity)
+
+### Params
+* [Optional Parameters?](http://stackoverflow.com/questions/2032149/optional-parameters)
+* [Trigger error with number of params](http://stackoverflow.com/questions/37270743/is-it-possible-to-trigger-compile-time-error-with-custom-library-in-golang)
+* [Self-referential functions and the design of options](https://commandcenter.blogspot.com.au/2014/01/self-referential-functions-and-design.html) by Rob Pike
 
 ### Convert
 * [Rune to Int](http://stackoverflow.com/questions/21322173/convert-rune-to-int)
@@ -236,6 +242,10 @@
 * Topological math: [Topological phase transitions and topological phases of matter](https://www.nobelprize.org/nobel_prizes/physics/laureates/2016/advanced-physicsprize2016.pdf)
 * [dirEnv](https://github.com/direnv/direnv)
 * [lint](https://github.com/golang/lint)
+
+# Tools
+* [Principle](http://principleformac.com/)
+* [Proto.io](https://proto.io/)
 
 ----------------------------------------------------------------------------
 # Code for Tor Browser High Security Mode
