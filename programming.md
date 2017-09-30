@@ -168,6 +168,9 @@
 ### Constants
 * [References and Constants](http://www.augustcouncil.com/~tgibson/tutorial/constref.html)
 
+### Conversion
+* [deprecated conversion from string constant to 'char*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
+
 ----------------------------------------------------------------------------
 
 # Design
