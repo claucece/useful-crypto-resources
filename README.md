@@ -117,6 +117,7 @@ Robert Granger
 * [Explicit-Formulas Database](https://hyperelliptic.org/EFD/) by Tanja Lange
 * [Validation of Elliptic Curve Public Keys](https://www.iacr.org/archive/pkc2003/25670211/25670211.pdf) by Adrian Antipa, Daniel Brown, Alfred Menezes,
 René Struik and Scott Vanstone
+* [Fast genus 2 arithmetic based on Theta functions](https://eprint.iacr.org/2005/314.ps) by P. Gaudry
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -124,6 +125,9 @@ René Struik and Scott Vanstone
 
 #### Jacobic
 * [The Jacobi Model of an Elliptic Curve and Side-Channel Analysis](https://eprint.iacr.org/2002/125.pdf) by Olivier Billet and Marc Joye
+
+#### Kummer varieties
+* [Arithmetic on Abelian and Kummer Varieties](https://eprint.iacr.org/2014/493.pdf) by David Lubicz And Damien Robert
 
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
@@ -135,6 +139,7 @@ René Struik and Scott Vanstone
 * [Elliptic curve point multiplication](https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication) in Wikipedia.
 * [Explicit Addition Formulae](https://crypto.stanford.edu/pbc/notes/elliptic/explicit.html)
 * [Elliptic curve point multiplication](https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication#Point_multiplication)
+* [Elliptic vs. hyperelliptic](https://cr.yp.to/talks/2006.09.20/slides.pdf) by Daniel Bernstein
 
 #### Conversions
 * [Fault Attacks on Projective-to-Affine Coordinates Conversion](https://cosade.telecom-paristech.fr/cosade13/presentations/session2_b.pdf) by Diana Maimut, C´edric Murdica, David Naccache and  Mehdi Tibouchi. Presentation
@@ -253,6 +258,9 @@ René Struik and Scott Vanstone
 
 ### XEdDSA
 * [The XEdDSA and VXEdDSA Signature Schemes](https://whispersystems.org/docs/specifications/xeddsa/#curve448) by Trevor Perrin.
+
+### qDSA
+* [qDSA: Small and Secure Digital Signatures with Curve-based Diffie–Hellman Key Pairs](http://eprint.iacr.org/2017/518.pdf) by Joost Renes and Benjamin Smith
 
 ## Validations
 * [Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography](http://csrc.nist.gov/publications/nistpubs/800-56A/SP800-56A_Revision1_Mar08-2007.pdf) by NIST

@@ -68,3 +68,6 @@
 
 ## Algebra
 * [College Algebra](http://www.mathsisfun.com/algebra/index-college.html)
+
+## Courses
+* [Several from Hausdorff Center for Mathematics](https://www.youtube.com/channel/UC2F-j2KMho0zVWIPFKWoXoA)
