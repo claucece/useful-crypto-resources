@@ -140,3 +140,24 @@
 
 ## Hacking (in general)
 * [Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+----------------------------------------------------------------------------
+# Programming
+
+## Golang
+
+### General
+* [The Go Blog](https://blog.golang.org/)
+* [Open My Mind](http://openmymind.net/) by Karl Seguin.
+
+### Books
+* [An Introduction to Go Programming](https://www.golang-book.com/books/intro) 
+
+### Arrays and slices
+* [Controlling Array Growth in Golang](http://openmymind.net/Controlling-Array-Growth-In-Golang/) by Karl Seguin
+* [Arrays, Slices and Maps](https://www.golang-book.com/books/intro/6)
+* [Arrays, slices (and strings): The mechanics of 'append'](https://blog.golang.org/slices)
+* [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals)
+
+### ForLoop
+* [Control structures - Go for loop, break, continue, range](http://golangtutorials.blogspot.com/2011/06/control-structures-go-for-loop-break.html)
