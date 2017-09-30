@@ -2,6 +2,7 @@
 
 ## PQCrypto 2017
 
+
 * [A new rank metric codes based encryption scheme](https://eprint.iacr.org/2017/236.pdf) by Pierre Loidreau. [*]
 
   Presented by [Pierre Loidreau](https://perso.univ-rennes1.fr/pierre.loidreau/)
@@ -105,3 +106,46 @@ Pavol Zajac, Qian Guo and Thomas Johansson.
   * Bernstein, D. J. Grover vs. McEliece. In Post-Quantum Cryptography 2010
     (2010), N. Sendrier, Ed., vol. 6061 of Lecture Notes in Comput. Sci.,
     Springer.
+
+* [Loop-abort faults on supersingular isogeny cryptosystems](https://eprint.iacr.org/2017/374.pdf) by Alexandre Gélin and Benjamin Wesolowski.
+
+  Presented by Alexandre Gélin
+
+  Interesting references:
+
+  * Charles, D., Goren, E., Lauter, K.: Cryptographic hash functions from
+    expander graphs. Cryptology ePrint Archive, Report 2006/021 (2006),
+    http://eprint.iacr.org/2006/021
+  * Jao, D., De Feo, L.: Towards quantum-resistant cryptosystems from
+    supersingular elliptic curve isogenies. In: Post-Quantum Cryptography - 4th
+    International Workshop, PQCrypto 2011. Proceedings. (2011)
+  * Galbraith, S.D., Petit, C., Shani, B., Ti, Y.B.: On the security of
+    supersingular isogeny cryptosystems. In: Advances in Cryptology -
+    ASIACRYPT 2016. Proceedings, Part I. (2016)
+  * Kirkwood, D., Lackey, B.C., McVey, J., Motley, M., Solinas, J.A., Tuller,
+    D.: Failure is not an option: Standardization issues for post-quantum key
+    agreement on the security of supersingular isogeny cryptosystems. Workshop
+    on Cybersecurity in a Post-Quantum World (2015),
+    http://csrc.nist.gov/groups/ST/post-quantum-2015/presentations/session7-
+    motley-mark.pdf
+  * Page, D., Vercauteren, F.: A fault attack on pairing-based cryptography.
+    IEEE Transactions on Computers 55(9), (2006)
+  * Tate, J.: Endomorphisms of abelian varieties over finite fields. Inventiones
+    mathematicae 2(2), (1966)
+  * Costello, C., Longa, P., Naehrig, M.: Ecient algorithms for supersingular
+    isogeny Diffie-Hellman. In: Advances in Cryptology - CRYPTO 2016.
+    Proceedings, Part I. (2016)
+  * Galbraith, S.D., Petit, C., Shani, B., Ti, Y.B.: On the security of
+    supersingular isogeny cryptosystems. In: Advances in Cryptology -
+    ASIACRYPT 2016. Proceedings, Part I. (2016)
+  * Espitau, T., Fouque, P.A., Gerard, B., Tibouchi, M.: Loop-abort faults on
+    lattice based Fiat-Shamir and hash-and-sign signatures. Cryptology ePrint
+    Archive, Report 2016/449 (2016), http://eprint.iacr.org/2016/449
+  * Blomer, J., Gomes da Silva, R., Gunther, P., Kramer, J., Seifert, J.: A
+    practical second-order fault attack against a real-world pairing
+    implementation. In: 2014 Workshop on Fault Diagnosis and Tolerance in
+    Cryptography, FDTC 2014. (2014)
+
+* [Fault Attack on Supersingular Isogeny Cryptosystems](https://link.springer.com/chapter/10.1007/978-3-319-59879-6_7) by Yan Bo Ti.
+
+  Presented by Yan Bo Ti
