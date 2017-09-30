@@ -31,3 +31,6 @@ To read on daily basic
 
 ## Contests
 * [The Underhanded C Contest](http://underhanded-c.org/_page_id_5.html)
+
+## To investigate
+* [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson)
