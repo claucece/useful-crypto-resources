@@ -10,6 +10,8 @@ To read on daily basic
 * [The Go blog](https://blog.golang.org/)
 * [Math ∩ Programming](https://jeremykun.com/2014/12/08/a-motivation-for-quantum-computing/)
 * [All things Seth Mason](http://sethmason.com/)
+* [Svetlin Ralchev blog](http://blog.ralch.com/tutorial/design-patterns/golang-decorator/)
+* [nathan leclaire blog](https://nathanleclaire.com/)
 
 ## Explanations
 * [Numerical Computation Guide](http://docs.oracle.com/cd/E19957-01/806-3568/)
