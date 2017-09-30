@@ -24,6 +24,9 @@
 ### Multiplication
 * [Efficient Arithmetic on Koblitz Curves](http://computacion.cs.cinvestav.mx/~armfaz/res/soli2000.pdf) by Solinas
 
+### Functions
+* [Variadic function](https://en.wikipedia.org/wiki/Variadic_function)
+
 ## Padding
 * [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
 
@@ -40,6 +43,9 @@
 * [Binary Arithmetic](http://courseweb.stthomas.edu/tpsturm/private/notes/qm300/ARITH.html) 
 * [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
+
+## ANSI
+* [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
 
 ## Golang
 
@@ -132,8 +138,17 @@
 ### Operations
 * [Difference](http://stackoverflow.com/questions/28432398/difference-between-some-operators-golang) 
 
+### Assenbly
+* [Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)
+* [Generating code](https://blog.golang.org/generate)
+* [A Quick Guide to Go's Assembler](https://golang.org/doc/asm)
+* [How to Use the Plan 9 C Compiler](http://doc.cat-v.org/plan_9/4th_edition/papers/comp)
+* [A Manual for the Plan 9 assembler](https://9p.io/sys/doc/asm.html)
+
 ### Mistakes
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) by Kyle Quest
+* [When in Go, do as Gophers do](https://talks.golang.org/2014/readability.slide#1)
+* [CodeReviewComments](https://github.com/golang/go/wiki/CodeReviewComments#Variable_Names)
 
 ### Talks
 * [General](https://talks.golang.org/)
