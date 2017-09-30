@@ -77,9 +77,13 @@
 * [A brief discussion on selecting new elliptic curves](http://csrc.nist.gov/groups/ST/ecc-workshop-2015/papers/session4-costello-craig.pdf) by Craig Costello, Patrick Longa, and Michael Naehrig
 * [Curve41417: Karatsuba revisited](http://eprint.iacr.org/2014/526.pdf) by Daniel J. Bernstein, Chitchanok Chuengsatiansup, and Tanja Lange
 
+#### Ideas
+* [DNS Curves](https://dnscurve.org/index.html)
+ 
 #### EC255219
 * [Curve25519: new Diffie-Hellman speed records](https://cr.yp.to/ecdh/curve25519-20060209.pdf) by Daniel J. Bernstein
 * [A state-of-the-art Diffie-Hellman function](https://cr.yp.to/ecdh.html#curve25519-paper) by Daniel J. Bernstein
+* [Usage](https://ianix.com/pub/curve25519-deployment.html)
 
 ### Edwards Curve
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -97,6 +101,10 @@
 * [Ed448-Goldilocks, a new elliptic curve](https://eprint.iacr.org/2015/625.pdf) by Mike Hamburg.
 * [Ed448-Goldilocks, a new elliptic curve](http://eprint.iacr.org/2015/625) by Cryptology ePrint Archive
 * [Decaf: Eliminating cofactors through point compression](https://eprint.iacr.org/2015/673.pdf) by Mike Hamburg
+* [Implementation on C, on github](https://github.com/coruus/ed448-goldilocks/tree/decaf/include)
+
+#### elligator
+* [Mike Hamburg's explanation](https://moderncrypto.org/mail-archive/curves/2015/000424.html)
 
 #### ed225519
 * [Implementation](https://ed25519.cr.yp.to/python/ed25519.py) by Daniel J. Bernstein.
@@ -153,6 +161,7 @@
 ## Security
 
 * [Chosen-Ciphertext Security of Multiple Encryption](https://www.cs.nyu.edu/~dodis/ps/2enc.pdf) by Yevgeniy Dodis and Jonathan Katz.
+* [Encryption Works](https://github.com/freedomofpress/encryption-works/blob/master/original/encryption_works.pdf) by FOPsF
 
 ## Maths
 
@@ -184,6 +193,9 @@
 ### Sequences
 * [Sequences and Their Applications](https://books.google.com.ec/books?id=wDZqCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) by SETA 2010
 * [Codes and designs](https://books.google.com.ec/books?id=E62qwfwLJpsC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by De Gruyter
+
+#### Implementation
+* [Jacobi and sqrt](https://github.com/dedis/crypto/tree/master/math)
 
 ## Compendia
 * [Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012](https://books.google.com.ec/books?id=iWirCAAAQBAJ&pg=PA223&lpg=PA223&dq=malleable+symmetric+schemes&source=bl&ots=3oszTtlOhU&sig=evzVsQk3DbLMdkZLVY_O6RD5BfQ&hl=en&sa=X&ved=0ahUKEwjrh4XU2rPPAhUFox4KHY-UAS0Q6AEIKjAD#v=onepage&q=malleable%20symmetric%20schemes&f=false), edited by Ronald Cramer.
