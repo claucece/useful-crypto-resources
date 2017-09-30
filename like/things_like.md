@@ -41,5 +41,6 @@ To read on daily basic
 * [The Underhanded C Contest](http://underhanded-c.org/_page_id_5.html)
 
 ## To investigate
+
 * [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson)
 * [Programming in Martin-Löf ’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) by Bengt Nordström, Kent Petersson and Jan M. Smith

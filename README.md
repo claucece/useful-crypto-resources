@@ -82,6 +82,10 @@
 * Programming: [Sage: Elliptic curves over a general field](http://doc.sagemath.org/html/en/reference/curves/sage/schemes/elliptic_curves/ell_field.html)
 * [Weierstrass coefficients of the canonical lifting](https://www.math.utk.edu/~finotti/papers/wcoef.pdf) by Luis R. A. Finotti
 * [Weierstrass equation or model](http://www.lmfdb.org/knowledge/show/ec.weierstrass_coeffs)
+* [Elliptic Curves, Lattices, and the Upper Half-Plane](https://www.hdevalence.ca/blog/2012-10-31-elliptic-curves-lattices-and-the-upper-half-plane)
+* [Elliptic Curve Cryptography: a gentle introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/) by Andrea Corbellini
+* [Curves with a Twist](https://ripple.com/dev-blog/curves-with-a-twist/)
+
 
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
@@ -195,6 +199,9 @@
 
 ### Double Ratchet
 * [The Double Ratchet Algorithm](https://whispersystems.org/docs/specifications/doubleratchet/) by Trevor Perrin (editor) and Moxie Marlinspike.
+
+### STROBE
+* [The Strobe Protocol](http://eprint.iacr.org/2017/003.pdf) by Mike Hamburg
 
 ## Schemes
 
