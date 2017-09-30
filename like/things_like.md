@@ -12,9 +12,15 @@ To read on daily basic
 * [All things Seth Mason](http://sethmason.com/)
 * [Svetlin Ralchev blog](http://blog.ralch.com/tutorial/design-patterns/golang-decorator/)
 * [nathan leclaire blog](https://nathanleclaire.com/)
+* [research!rsc](https://research.swtch.com/]) by Russ Cox (really nice)
+* [Understanding the Montgomery reduction algorithm](https://alicebob.cryptoland.net/understanding-the-montgomery-reduction-algorithm/) by Alice and Bob in Cryptoland
+* [Use Vim](https://medium.com/usevim/) by Alex R. Young and [more](https://github.com/alexyoung/usevim/tree/master/_posts)
+* [Dave Cheney Blog](https://dave.cheney.net) by Dave Cheney
 
 ## Explanations
 * [Numerical Computation Guide](http://docs.oracle.com/cd/E19957-01/806-3568/)
+* [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by By Sean Eron Anderson
+* [The Yacas Book of Algorithms](http://yacas.sourceforge.net/Algo.book.pdf) by the Yacas team
 
 ## Tutorials
 * [A vim Tutorial and Primer](https://danielmiessler.com/study/vim)
@@ -36,3 +42,4 @@ To read on daily basic
 
 ## To investigate
 * [Ted Nelson](https://en.wikipedia.org/wiki/Ted_Nelson)
+* [Programming in Martin-Löf ’s Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf) by Bengt Nordström, Kent Petersson and Jan M. Smith

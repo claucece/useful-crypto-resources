@@ -79,6 +79,9 @@
 * [ECC hacks](https://www.youtube.com/watch?v=vEt-D8xZmgE) by Tanja Lange
 * [Curves Formulas](http://www.hyperelliptic.org/EFD/) by Tanja Lange
 * [512-bit twisted Edwards curve and curve generation methods in Russian standardization](https://www.ietf.org/mail-archive/web/cfrg/current/msg05975.html) by Stanislav V. Smyshlyaev
+* Programming: [Sage: Elliptic curves over a general field](http://doc.sagemath.org/html/en/reference/curves/sage/schemes/elliptic_curves/ell_field.html)
+* [Weierstrass coefficients of the canonical lifting](https://www.math.utk.edu/~finotti/papers/wcoef.pdf) by Luis R. A. Finotti
+* [Weierstrass equation or model](http://www.lmfdb.org/knowledge/show/ec.weierstrass_coeffs)
 
 #### In general
 * [Elliptic Curves for Security draft-irtf-cfrg-curves-02](https://tools.ietf.org/html/draft-irtf-cfrg-curves-02#section-6.2): an algorithm for deterministically generating parameters for elliptic curves over prime fields by A. Langley.
@@ -107,6 +110,7 @@
 * [Faster Addition and Doubling on Elliptic Curves](http://download.springer.com/static/pdf/846/chp%253A10.1007%252F978-3-540-76900-2_3.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-3-540-76900-2_3&token2=exp=1483841050~acl=%2Fstatic%2Fpdf%2F846%2Fchp%25253A10.1007%25252F978-3-540-76900-2_3.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-3-540-76900-2_3*~hmac=06e0fd268cf19d93fc5ef5f63da7b76ee9a37f84e1700968eed20c8142f77f04) by Daniel J. Bernstein and Tanja Lange.
 * [Twisted Edwards Curves](https://eprint.iacr.org/2008/013.pdf) by Daniel J. Bernstein, Peter Birkner, Marc Joye, Tanja Lange, and Christiane Peters
 * [Twisted Edwards Curves Revisited](http://iacr.org/archive/asiacrypt2008/53500329/53500329.pdf) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter, and Ed Dawson.
+* [On isogeny classes of Edwards curves over finite fields](https://eprint.iacr.org/2011/135.pdf) by Omran Ahmadi and Robert Granger
 
 #### Theory
 
@@ -257,6 +261,7 @@
 ### Reduction
 * [Fast reduction](http://www.acsel-lab.com/arithmetic/arith18/papers/ARITH18_Hasenplaugh.pdf)
 * [Reduction (mathematics)](https://en.wikipedia.org/wiki/Reduction_(mathematics))
+* [Understanding the Montgomery reduction algorithm](https://alicebob.cryptoland.net/understanding-the-montgomery-reduction-algorithm/) by Alice and Bob in Cryptoland
 
 ### Information Theory
 * [Communication Theory of Secrecy Systems](http://netlab.cs.ucla.edu/wiki/files/shannon1949.pdf) by Shannon.
