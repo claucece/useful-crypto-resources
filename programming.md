@@ -12,6 +12,8 @@
 * [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html) by Steve Hollasch 
 * [Comparing Floating Point Numbers, 2012 Edition](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) by randomASCII
 * [Example: Converting to Float](http://class.ece.iastate.edu/arun/CprE281_F05/ieee754/ie5.html)
+* [What Every Programmer Should Know About Floating-Point Arithmetic or Why don’t my numbers add up?](http://floating-point-gui.de/)
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 ## Padding
 * [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
@@ -80,6 +82,12 @@
 * [5 things I love (or why you should learn Go)](https://www.youtube.com/watch?v=fsTOOPB1TBY) by Andrew Gerrand
 * [How go was made (or why you should learn Go)](https://www.youtube.com/watch?v=0ht89TxZZnk) by Andrew Gerrand
 * [Closing day keynote](https://www.youtube.com/watch?v=dKGmK_Z1Zl0) by Andrew Gerrand
+* [Stupid Gopher Tricks](https://www.youtube.com/watch?v=UECh7X07m6E) by Andrew Gerrand
+* [The path to Go 1](https://www.youtube.com/watch?v=bj9T2c2Xk_s) by Rob Pike and Andrew Gerrand
+* [Go Concurrency Patterns](https://www.youtube.com/watch?v=f6kdp27TYZs) by Rob Pike. [Slides](https://talks.golang.org/2012/concurrency.slide#2)
+* [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw) by Sameer Ajmani 
+* [Organizing Go Code](https://talks.golang.org/2014/organizeio.slide#1) Slides, by David Crawshaw
+
 
 
 ----------------------------------------------------------------------------
