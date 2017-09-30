@@ -13,6 +13,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [A non-interactive deniable authentication scheme in the standard model](https://pdfs.semanticscholar.org/61bb/605cba4226c15b2733e6e8ee22d900a9200b.pdf?_ga=2.69522008.931186499.1496171578-1355135719.1496171572) by Bin Wang, Qing Zhao and Ke Dai
 * [A non-interactive deniable authentication scheme in the standard model](https://www.semanticscholar.org/paper/A-non-interactive-deniable-authentication-scheme-i-Wang-Zhao/61bb605cba4226c15b2733e6e8ee22d900a9200b) by Bin Wang, Qing Zhao and Ke Dai
 
+
 ## OTR
 
 ### OTRv2
