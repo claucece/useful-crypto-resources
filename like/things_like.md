@@ -28,3 +28,6 @@ To read on daily basic
 * [Not Even Wrong](http://www.math.columbia.edu/~woit/wordpress/)
 * [backreaction](http://backreaction.blogspot.com/)
 * [Of Particular Significance](https://profmattstrassler.com/)
+
+## Contests
+* [The Underhanded C Contest](http://underhanded-c.org/_page_id_5.html)

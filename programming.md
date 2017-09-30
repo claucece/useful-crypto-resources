@@ -44,6 +44,11 @@
 * [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
 
+### Constant Time
+* [Golang](https://golang.org/src/crypto/subtle/constant_time.go)
+* [Selection algorithm](https://en.wikipedia.org/wiki/Selection_algorithm)
+* [Time Bounds for Selection](http://people.csail.mit.edu/rivest/pubs/BFPRT73.pdf) by Manuel Blum, Robert W. Floyd, Vaughan Pratt, Ronald L. Rivest, and Robert E. Tarjan. 
+
 ## ANSI
 * [ANSI C](https://en.wikipedia.org/wiki/ANSI_C)
 
@@ -127,6 +132,7 @@
 
 ### Interfaces
 * [Go Data Structures: Interfaces](http://research.swtch.com/interfaces)
+* [Demystifying Golang's io.Reader and io.Writer Interfaces](https://nathanleclaire.com/blog/2014/07/19/demystifying-golangs-io-dot-reader-and-io-dot-writer-interfaces/) by Nathan LeClaire.
 
 ### Struct
 * [struct Type is not an expression](http://stackoverflow.com/questions/27455170/error-struct-type-is-not-an-expression)
