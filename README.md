@@ -380,6 +380,9 @@ quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.or
 * [Post-quantum cryptography –dealing with the fallout of physics success](https://eprint.iacr.org/2017/314.pdf) by Daniel J. Bernstein and Tanja Lange
 * [A Post-Quantum Digital Signature Scheme Based on Supersingular Isogenies](https://eprint.iacr.org/2017/186) by Youngho Yoo, Reza Azarderakhsh, Amir Jalali, David Jao and Vladimir Soukharev
 * [Quantum Erasure Cryptography](https://arxiv.org/pdf/1512.00808.pdf) by Hatim Salih
+* [TESLA: Tightly-Secure Efficient Signatures from Standard Lattices](https://cryptojedi.org/papers/tesla-20160802.pdf) by Erdem Alkim, Nina Bindel, Johannes
+Buchmann, Özgür Dagdelen and Peter Schwabe
+* [An improved compression technique for signatures based on learning with errors](https://eprint.iacr.org/2013/838.pdf) by Shi Bai and Steven D. Galbraith
 
 ## Searchable symmetric encryption
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
