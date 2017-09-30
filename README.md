@@ -194,8 +194,12 @@
 * [Sequences and Their Applications](https://books.google.com.ec/books?id=wDZqCQAAQBAJ&printsec=frontcover#v=onepage&q&f=false) by SETA 2010
 * [Codes and designs](https://books.google.com.ec/books?id=E62qwfwLJpsC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by De Gruyter
 
-#### Implementation
+### Implementation
 * [Jacobi and sqrt](https://github.com/dedis/crypto/tree/master/math)
+
+### Reduction
+* [Fast reduction](http://www.acsel-lab.com/arithmetic/arith18/papers/ARITH18_Hasenplaugh.pdf)
+* [Reduction (mathematics)](https://en.wikipedia.org/wiki/Reduction_(mathematics))
 
 ## Compendia
 * [Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012](https://books.google.com.ec/books?id=iWirCAAAQBAJ&pg=PA223&lpg=PA223&dq=malleable+symmetric+schemes&source=bl&ots=3oszTtlOhU&sig=evzVsQk3DbLMdkZLVY_O6RD5BfQ&hl=en&sa=X&ved=0ahUKEwjrh4XU2rPPAhUFox4KHY-UAS0Q6AEIKjAD#v=onepage&q=malleable%20symmetric%20schemes&f=false), edited by Ronald Cramer.
