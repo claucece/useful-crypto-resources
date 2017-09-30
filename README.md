@@ -1,9 +1,16 @@
 # Useful Crypto-related Resources
 
+## General
+* [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
+by Danny Dolev, Cynthia Dwork, Moni Naor
+
 ## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
 * [Two-party authenticated key exchange protocol using lattice-based cryptography](https://eprint.iacr.org/2016/761.pdf) by Xiaopeng Yang and Wenping Ma
 * [The X3DH Key Agreement Protocol](https://whispersystems.org/docs/specifications/x3dh/x3dh.pdf) by Moxie Marlinspike and Trevor Perrin
+* [Deniable Authentication and Key Exchange](https://eprint.iacr.org/2006/280.ps) by Mario Di Raimondo, Rosario Gennaro and Hugo Krawczyk
+* [A non-interactive deniable authentication scheme in the standard model](https://pdfs.semanticscholar.org/61bb/605cba4226c15b2733e6e8ee22d900a9200b.pdf?_ga=2.69522008.931186499.1496171578-1355135719.1496171572) by Bin Wang, Qing Zhao and Ke Dai
+* [A non-interactive deniable authentication scheme in the standard model](https://www.semanticscholar.org/paper/A-non-interactive-deniable-authentication-scheme-i-Wang-Zhao/61bb605cba4226c15b2733e6e8ee22d900a9200b) by Bin Wang, Qing Zhao and Ke Dai
 
 ## OTR
 
@@ -12,6 +19,9 @@
 * [Finite-State Security Analysis of OTR Version 2](http://www.jbonneau.com/doc/BM06-OTR_v2_analysis.pdf) by Joseph Bonneau and Andrew Morrison.
 * [Protocol](https://otr.cypherpunks.ca/Protocol-2.0.2.txt) by Nikita Borisov and Ian Goldberg.
 * [Secure Off-the-Record Messaging](https://www.dmi.unict.it/diraimondo/web/wp-content/uploads/papers/otr.pdf) by Mario Di Raimondo, Rosario Gennaro and Hugo Krawczyk
+
+### OTRv3
+* [Timeframe](https://bugs.otr.im/lib/libotr/blob/master/src/message.h#L259)
 
 ### Multiparty
 * [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al.
@@ -72,6 +82,7 @@
 #### Attacks
 * [Timing Attacks on Implementations of Diffie-Hellman, RSA, DSS, and Other Systems](https://42xtjqm0qj0382ac91ye9exr-wpengine.netdna-ssl.com/wp-content/uploads/2015/08/TimingAttacks.pdf) by Paul C. Kocher
 * [On reusing ephemeral keys in Diffie-Hellman key agreement protocols](http://cacr.uwaterloo.ca/techreports/2008/cacr2008-24.pdf) by Alfred Menezes and Berkant Ustaoglu
+* [A lesson in timing attacks](https://codahale.com/a-lesson-in-timing-attacks/) by codahale
 
 ### Cramer-Shoup
 * [Cramer Shoup Cryto-System Java implementation](https://github.com/omoeller/cramshou) by omoeller (not audited).
@@ -159,6 +170,7 @@ René Struik and Scott Vanstone
 * [A state-of-the-art Diffie-Hellman function - Code](http://cr.yp.to/ecdh.html) by Daniel J. Bernstein
 * [Benchmark](http://bench.cr.yp.to/impl-scalarmult/curve25519.html)
 * [Toy implementatio](https://sourceforge.net/p/strobe/code/ci/master/tree/x25519.c)
+* [High-speed Curve25519 on 8-bit, 16-bit, and 32-bit microcontrollers](http://eprint.iacr.org/2015/343.pdf) by Michael Düll, Björn Haase, Gesine Hinterwälder, Michael Hutter, Christof Paar and Ana Helena Sánchez
 
 ### Edwards Curve
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -166,6 +178,8 @@ René Struik and Scott Vanstone
 * [Twisted Edwards Curves](https://eprint.iacr.org/2008/013.pdf) by Daniel J. Bernstein, Peter Birkner, Marc Joye, Tanja Lange, and Christiane Peters
 * [Twisted Edwards Curves Revisited](http://iacr.org/archive/asiacrypt2008/53500329/53500329.pdf) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter, and Ed Dawson.
 * [On isogeny classes of Edwards curves over finite fields](https://eprint.iacr.org/2011/135.pdf) by Omran Ahmadi and Robert Granger
+* [Collective Edwards-Curve Digital Signature Algorithm](https://datatracker.ietf.org/doc/draft-ford-cfrg-cosi/)
+* [Multiquadratics](https://multiquad.cr.yp.to/software.html)
 
 ### X448
 * [Implementation](https://git.schwanenlied.me/yawning/x448)
@@ -262,6 +276,10 @@ René Struik and Scott Vanstone
 ### qDSA
 * [qDSA: Small and Secure Digital Signatures with Curve-based Diffie–Hellman Key Pairs](http://eprint.iacr.org/2017/518.pdf) by Joost Renes and Benjamin Smith
 
+## Zero-Knowledge
+* [Concurrent Zero-Knowledge](http://web.cs.ucla.edu/~sahai/work/web/1998%20Publications/STOC_C.Dwork1998.pdf) by Cynthia Dlvork, Moni Naori and Amit Sahai
+* [Efficient and Non-Malleable Proofs of Plaintext Knowledge and Applications](https://www.google.com.ec/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjDsvG--YzVAhUTxCYKHfzIBxcQFggkMAA&url=https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F3-540-39200-9_13&usg=AFQjCNFE-emSo_CQP1XMWj6kYq5jVXsijw) by Jonathan Katz
+
 ## Validations
 * [Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography](http://csrc.nist.gov/publications/nistpubs/800-56A/SP800-56A_Revision1_Mar08-2007.pdf) by NIST
 
@@ -314,6 +332,9 @@ René Struik and Scott Vanstone
 * [DeDiS Advanced Crypto Library for Go](https://github.com/dedis/crypto)
 * [Relic](https://github.com/relic-toolkit/relic)
 * [Libsodium docs](https://github.com/jedisct1/libsodium-doc)
+* [Libsodium: helpers](https://download.libsodium.org/doc/helpers/)
+* [TweetNaCl](http://tweetnacl.cr.yp.to/tweetnacl-20140917.pdf) by Daniel J. Bernstein1, Bernard van Gastel, Wesley Janssen, Tanja Lange, Peter Schwabe3 and Sjaak Smetsers
+* [NaCl: internals](https://nacl.cr.yp.to/internals.html)
 
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
@@ -323,6 +344,7 @@ René Struik and Scott Vanstone
 * [Polynomial time algorithms for prime discrete logarithms on a quantum computer](http://www.if.pwr.wroc.pl/~biegansk/PS.pdf) by Peter W. Shor
 * [Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf) by Richard Feynman
 * [Quantum Mechanical Computers](http://www.quantum-dynamic.eu/doc/feynman85_qmc_optics_letters.pdf) by Richard Feynman
+* [Worst-Case to Average-Case Reductions for Module Lattices](http://perso.ens-lyon.fr/damien.stehle/downloads/MSIS.pdf)
 
 ## PostQuantum Crypto
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
@@ -340,6 +362,11 @@ Learning with Errors Problem](https://eprint.iacr.org/2012/688.pdf) by Jintai Di
 * [The Learning with Errors Problem](http://www.cims.nyu.edu/~regev/papers/lwesurvey.pdf) by Oded Regev
 * [Quantum theory, the Church-Turing principle and the universal
 quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.org/oldsite/resource/deutsch85.pdf) by David Deutsch
+* [Post-quantum cryptography –dealing with the fallout of physics success](https://eprint.iacr.org/2017/314.pdf) by Daniel J. Bernstein and Tanja Lange
+* [A Post-Quantum Digital Signature Scheme Based on Supersingular Isogenies](https://eprint.iacr.org/2017/186) by Youngho Yoo, Reza Azarderakhsh, Amir Jalali, David Jao and Vladimir Soukharev
+
+## Searchable symmetric encryption
+* [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
 
 ## Malware
 * [Encrypted Viruses](http://www.cs.virginia.edu/~ww6r/CS4630/lectures/Encrypted_Virus.pdf)
@@ -347,6 +374,11 @@ quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.or
 * [The Art of Computer Virus](https://books.google.com.ec/books?id=XE-ddYF6uhYC&pg=PT89&lpg=PT89&dq=cascade+virus+source+code&source=bl&ots=GgNOdq_PJY&sig=Zp9naiUWg7U-MtHunpNQELgGWFI&hl=en&sa=X&ved=0ahUKEwizwr_5o-PTAhUr5oMKHZVSCH4Q6AEITDAH#v=onepage&q=cascade%20virus%20source%20code&f=false)
 * [Examples of Malicious Computer Programs](http://www.rbs2.com/cvirus.htm#anchor222250) by Ronald B. Standler
 * [Malwaretech](https://www.malwaretech.com/)
+* [Common Patterns of Virus Research](http://computervirus.uw.hu/ch02lev1sec1.html)
+* [Automatic Transfer Systems (ATS) for Beginners](https://www.malwaretech.com/2016/08/automatic-transfer-systems-ats-for-beginners.html) by MalwareTech
+
+## Passwords
+* [SPHINX: A Password Store that Perfectly Hides from ItselfSPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
 
 ## Mailing List
 * [Modern Crypto](https://moderncrypto.org/mail-archive/)

@@ -3,6 +3,9 @@
 
 ## General
 
+### Turing
+* [Computer Machinery and Intelligece](https://www.csee.umbc.edu/courses/471/papers/turing.pdf) by Alan Turing
+
 ### Words
 * [Word](https://en.wikipedia.org/wiki/Word_(computer_architecture))
 
@@ -89,7 +92,6 @@
 ### Init
 * [Init functions in Go](https://medium.com/golangspec/init-functions-in-go-eac191b3860a#.otult17d4) by Michał Łowicki
 
-
 ### Data Structures
 * [Go Data Structures](http://research.swtch.com/godata)
 
@@ -127,6 +129,9 @@
 * [GoCheck](https://github.com/go-check/check)
 * [Language Specification](https://golang.org/ref/spec#Conversions)
 * [Checkers](https://github.com/go-check/check/blob/v1/checkers.go)
+
+### Go Vendor
+* [Govendor CheatSheet](https://github.com/kardianos/govendor/wiki/Govendor-CheatSheet)
 
 ### Type Assertions
 * [Language Specification](https://golang.org/ref/spec#Type_assertions)
@@ -186,6 +191,9 @@
 * [A Quick Guide to Go's Assembler](https://golang.org/doc/asm)
 * [How to Use the Plan 9 C Compiler](http://doc.cat-v.org/plan_9/4th_edition/papers/comp)
 * [A Manual for the Plan 9 assembler](https://9p.io/sys/doc/asm.html)
+* [Tutorial](http://win32assembly.programminghorizon.com/tut2.html)
+* [The MASM32 SDK](http://www.masm32.com/)
+* [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
 
 #### x86
 * [x86 Instruction Set Reference](http://x86.renejeschke.de/)
@@ -233,6 +241,13 @@
 
 ## C
 
+### General
+* [C Libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
+* [GDB](https://sourceware.org/gdb/wiki/BuildingOnDarwin)
+* [make](https://ftp.gnu.org/old-gnu/Manuals/make-3.79.1/html_chapter/make_11.html)
+* [shell](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
+* [constant time](https://cryptocoding.net/index.php/Coding_rules)
+
 ### Inline
 * [An Inline Function is As Fast As a Macro](https://gcc.gnu.org/onlinedocs/gcc/Inline.html)
 * [C Programming/Pointers and arrays](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays)
@@ -257,6 +272,9 @@
 ### Conversion
 * [deprecated conversion from string constant to 'char*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
 
+### Macros
+*[How to Use C Macros and C Inline Functions with C Code Examples](http://www.thegeekstuff.com/2013/04/c-macros-inline-functions/)
+
 ### Libraries
 
 #### Libgcrypt
@@ -266,10 +284,12 @@
 
 #### Autotools
 * [automake](https://www.gnu.org/software/automake/manual/html_node/index.html#SEC_Contents)
+* [automake: tutorial](https://www.gnu.org/software/automake/manual/html_node/Examples.html#Examples)
 * [Automake silence](https://www.gnu.org/software/automake/manual/html_node/Automake-Silent-Rules.html#index-AM_005fDEFAULT_005fVERBOSITY)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
+* [macros](https://developer.gnome.org/glib/stable/glib-Miscellaneous-Macros.html)
 
 #### Valgrind
 * [on osx](https://stackoverflow.com/questions/35308274/valgrind-errors-on-mac-os-x-for-printf-a-double)
@@ -278,6 +298,11 @@
 * [Using Valgrind to Find Memory Leaks and Invalid Memory Use](http://www.cprogramming.com/debugging/valgrind.html) by Alex Allain
 * [Memcheck: a memory error detector](http://valgrind.org/docs/manual/mc-manual.html#mc-manual.options)
 
+#### Autoconf
+* [Manual](https://www.gnu.org/software/autoconf/manual/autoconf-2.60/)
+* [Archive](http://hackster.ericsbasementoffice.com/gnu-soft/www.gnu.org/software/autoconf-archive/)
+* [Archive 2](https://www.gnu.org/software/autoconf-archive/)
+* [Introduction](https://www.gnu.org/software/autoconf/autoconf.html)
 
 ## GTK
 * [glade tutorial](http://blog.borovsak.si/2009/09/glade3-tutorial-1-introduction.html)
