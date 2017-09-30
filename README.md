@@ -102,6 +102,7 @@
 * [Elliptic vs Hyperelliptic](https://www.yumpu.com/en/document/view/51546701/tanja-lange) by Tanja Lange
 * [Sign Change Fault Attacks On Elliptic Curve Cryptosystems](https://eprint.iacr.org/2004/227.pdf) by Johannes Blömer, Martin Otto and Jean-Pierre Seifert
 * [An exploration of affine group laws for elliptic curves](https://www.degruyter.com/view/j/jmc.2011.5.issue-1/jmc.2011.005/jmc.2011.005.xml) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter and Ed Dawson
+* [A Las Vegas algorithm to solve the elliptic curve discrete logarithm problem](https://arxiv.org/pdf/1703.07544.pdf) by Ayan Mahalanobis and Vivek Mallick
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -190,6 +191,8 @@
 * [The Keccak SHA-3 submission](http://keccak.noekeon.org/Keccak-submission-3.pdf) by by Guido Bertoni, Joan Daemen, Michaël Peeters and Gilles Van Assche
 * [Stribog](https://github.com/okazymyrov/stribog)
 * [FIPS 202 and KeccakDerived Functions](http://csrc.nist.gov/news_events/cif_2015/research/day1_research_200-250pt1.pdf) by John Kelsey
+* [SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash](http://csrc.nist.gov/publications/drafts/800-185/sp800_185_draft.pdf) by NIST
+* [A new Design Criteria for Hash-Functions](http://www.cs.nyu.edu/~puniya/papers/nist.pdf) by Jean-Sebastien Coron, Yevgeniy Dodis, , Cecile Malinaud, and Prashant Puniya
 
 ## Random Number Generators
 * [Recommendation for Random Number Generation Using Deterministic Random Bit Generators](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf) by NIST
@@ -212,6 +215,7 @@
 * [Short signatures from the Weil pairing](https://www.iacr.org/archive/asiacrypt2001/22480516.pdf) by Dan Boneh, Ben Lynn, and Hovav Shacham.
 * [A Provably Secure Nyberg-Rueppel Signature Variant with Applications](https://eprint.iacr.org/2004/093.pdf) by Giuseppe Ateniese and Breno de Medeiros.
 * [Performance of Batch-based Digital Signatures](http://bourbon.usc.edu/iml/bistro/papers/mascots2k2-pub.pdf) by William C. Cheng, Cheng-Fu Chou and Leana Golubchik
+* [How To Prove Yourself: Practical Solutions to Identification and Signature Problems](http://www.math.uni-frankfurt.de/~dmst/teaching/SS2012/Vorlesung/Fiat.Shamir.pdf) by Amos Fiat and Adi Shamir
 
 ### Schnorr signatures
 * [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md) by Christopher Allen.
@@ -225,7 +229,9 @@
 * [High-speed high-security signatures](https://ed25519.cr.yp.to/ed25519-20110705.pdf) by Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 * [EdDSA for more curves](https://ed25519.cr.yp.to/eddsa-20150704.pdf) by Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 * [The Elliptic Curve Digital Signature Algorithm (ECDSA)](https://www.security-audit.com/files/x9-62-09-20-98.pdf) by American National Standards
-* [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-08) by S. Josefsson and I. Liusvaara
+* [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-08) by S. Josefsson and I. Liusvaara (draft)
+* [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-00) by S. Josefsson and I. Liusvaara (draft)
+* [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
 
 ### XEdDSA
 * [The XEdDSA and VXEdDSA Signature Schemes](https://whispersystems.org/docs/specifications/xeddsa/#curve448) by Trevor Perrin.
