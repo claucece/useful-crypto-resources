@@ -344,6 +344,7 @@ by H. Orman
 
 ### Pairing-based cryptography
 * [The PBC (Pairing-Based Cryptography) library](https://crypto.stanford.edu/pbc/) by Ben Lynn.
+* [A Practical Second-Order Fault Attack against a Real-World Pairing Implementation](https://eprint.iacr.org/2014/543.pdf) by Johannes Blomer, Ricardo Gomes da Silva, Peter Gunther, Juliane Kramer and Jean-Pierre Seifert
 
 ### Nik Unger otr implementation
 * [Off-the-Record Messaging](https://crysp.uwaterloo.ca/software/) by Ian Goldberg.
@@ -394,6 +395,7 @@ quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.or
 Buchmann, Özgür Dagdelen and Peter Schwabe
 * [An improved compression technique for signatures based on learning with errors](https://eprint.iacr.org/2013/838.pdf) by Shi Bai and Steven D. Galbraith
 * [NTRU Prime](https://ntruprime.cr.yp.to/ntruprime-20160511.pdf) by Daniel J. Bernstein, Chitchanok Chuengsatiansup, Tanja Lange and Christine van Vredendaal
+* [An Efficient Quantum Collision Search Algorithm and Implications on Symmetric Cryptography](https://eprint.iacr.org/2017/847.pdf) by André Chailloux, María Naya-Plasencia, and André Schrottenloher
 
 ## Searchable symmetric encryption
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky

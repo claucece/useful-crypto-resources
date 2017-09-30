@@ -273,7 +273,12 @@
 * [deprecated conversion from string constant to 'char*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
 
 ### Macros
-*[How to Use C Macros and C Inline Functions with C Code Examples](http://www.thegeekstuff.com/2013/04/c-macros-inline-functions/)
+* [How to Use C Macros and C Inline Functions with C Code Examples](http://www.thegeekstuff.com/2013/04/c-macros-inline-functions/)
+
+### GCC
+* [6.30 Declaring Attributes of Functions](https://gcc.gnu.org/onlinedocs/gcc-4.7.1/gcc/Function-Attributes.html)
+* [3.8 Options to Request or Suppress Warnings](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#Warning-Options)
+
 
 ### Libraries
 
@@ -308,6 +313,10 @@
 ## GTK
 * [glade tutorial](http://blog.borovsak.si/2009/09/glade3-tutorial-1-introduction.html)
 * [Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.io/en/latest/install.html)
+* [Other Advanced and Specific Guides](https://people.gnome.org/~newren/tutorials/developing-with-gnome/html/ch06.html)
+* [Tutorials](https://wiki.gnome.org/GnomeArt/Tutorials/)
+* [FAQ](http://www.geany.org/manual/gtk/gtk-faq/x492.html)
+* [Beautiful Buttons](https://wiki.gnome.org/HowDoI/Buttons)
 
 ## Haskell
 * [Stephen Diehl](https://github.com/sdiehl)
