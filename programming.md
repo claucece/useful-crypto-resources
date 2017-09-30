@@ -39,6 +39,7 @@
 * [Open My Mind](http://openmymind.net/) by Karl Seguin.
 * [Go Playground](https://play.golang.org/)
 * [Useful resources](https://github.com/golang/go/wiki#getting-started-with-go)
+* [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet)
 
 ### Naming
 * [What's in a name?](https://talks.golang.org/2014/names.slide#1) by Andrew Gerrand
