@@ -3,6 +3,7 @@
 ## General
 * [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
 by Danny Dolev, Cynthia Dwork, Moni Naor
+* [Challenges in Authenticated Encryption](https://chae.cr.yp.to/chae-20170301.pdf) by Daniel J. Bernstein
 
 ## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
@@ -378,6 +379,7 @@ Learning with Errors Problem](https://eprint.iacr.org/2012/688.pdf) by Jintai Di
 quantum computer](https://web.archive.org/web/20030915061044/http://www.qubit.org/oldsite/resource/deutsch85.pdf) by David Deutsch
 * [Post-quantum cryptography –dealing with the fallout of physics success](https://eprint.iacr.org/2017/314.pdf) by Daniel J. Bernstein and Tanja Lange
 * [A Post-Quantum Digital Signature Scheme Based on Supersingular Isogenies](https://eprint.iacr.org/2017/186) by Youngho Yoo, Reza Azarderakhsh, Amir Jalali, David Jao and Vladimir Soukharev
+* [Quantum Erasure Cryptography](https://arxiv.org/pdf/1512.00808.pdf) by Hatim Salih
 
 ## Searchable symmetric encryption
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
