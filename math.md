@@ -42,6 +42,7 @@
 
 ### Montgomery Ladder
 * [The Montgomery Powering Ladder](https://cr.yp.to/bib/2003/joye-ladder.pdf) by Marc Joye and Sung-Ming Yen
+* [Explanation by D.J.B](https://www.ietf.org/mail-archive/web/cfrg/current/msg05004.html)
 
 ## Group Theory
 * [Introduction to Group Theory](http://dogschool.tripod.com/) 	by Dog School of Mathematics
