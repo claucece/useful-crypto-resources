@@ -9,6 +9,7 @@
 * [The Art of problem solving](https://www.amazon.com/Art-Problem-Solving-Vol-Basics/dp/0977304566) by Sandor Lehoczky and Richard Rusczyk.
 * [Post-Quantum Cryptography](http://www.springer.com/la/book/9783540887010) by Bernstein, Daniel J., Buchmann, Johannes, Dahmen, Erik (Eds.)
 * [Concrete Mathematics: A Foundation for Computer Science (2nd Edition)](https://www.amazon.com/gp/product/0201558025/ref=pe_355360_220209680_em_1p_6_lm) by Ronald L. Graham (Author), Donald E. Knuth (Author), Oren Patashnik (Author)
+* [Information Theory and Reliable Communication](https://www.amazon.com/Information-Theory-Reliable-Communication-Gallager/dp/0471290483/ref=sr_1_1?s=books&ie=UTF8&qid=1484436547&sr=1-1&keywords=information+theory+and+reliable+communication) by R. G. Gallager.
 
 ## Papers:
 
