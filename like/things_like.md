@@ -82,6 +82,10 @@ To read on daily basic
 * [Programming MAX: Structuring Interactive Software for Digital Arts](http://online.stanford.edu/course/programming-max-structuring-interactive-software-digital-arts)
 * [Using Cryptography Correctly](http://online.stanford.edu/course/using-cryptography-correctly)
 * [Introduction to Differential Equations and the MATLAB® ODE Suite](https://www.youtube.com/watch?v=ZvL88xqYSak&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG) by MIT
+* [Mathematics for Computer Science](https://www.youtube.com/watch?v=wfr4XbR5VP8&list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ&index=3) by MIT
+* [Computer Systems Security](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) by MIT
+* [Summer school of PQC](https://videos.2017.pqcrypto.org/school/#lange)
+* [Introduction to MATLAB Programming](https://www.youtube.com/playlist?list=PLUl4u3cNGP62bMZx9A3DR7V5myByt48CC) by MIT
 
 ## Currently
 * [MIT 18.06 Linear Algebra](https://www.youtube.com/watch?v=ZK3O402wf1c) by MIT
