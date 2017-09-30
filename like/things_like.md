@@ -3,9 +3,10 @@
 To read on daily basic
 
 ## Blogs
+
 * [Random ASCII](https://randomascii.wordpress.com/)
 * [Going go programming](https://www.goinggo.net/)
-* [Geeks for geeks](http://www.geeksforgeeks.org/
+* [Geeks for geeks](http://www.geeksforgeeks.org/)
 * [The Go blog](https://blog.golang.org/)
 
 ## Explanations
