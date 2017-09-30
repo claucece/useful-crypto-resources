@@ -149,3 +149,41 @@ Pavol Zajac, Qian Guo and Thomas Johansson.
 * [Fault Attack on Supersingular Isogeny Cryptosystems](https://link.springer.com/chapter/10.1007/978-3-319-59879-6_7) by Yan Bo Ti.
 
   Presented by Yan Bo Ti
+
+* [Fast Lattice-Based Encryption: Stretching Spring](https://link.springer.com/chapter/10.1007/978-3-319-59879-6_8) by Charles Bouillaguet, Claire Delaplace, Pierre-Alain Fouque and Paul Kirchner
+
+  Presented by Claire Delaplace
+
+  Interesting references:
+
+  * BPR12
+
+* [Revisiting TESLA in the quantum random oracle model](https://eprint.iacr.org/2015/755) by Erdem Alkim and Nina Bindel and Johannes Buchmann and Özgür Dagdelen and Edward Eaton and Gus Gutoski and Juliane Krämer and Filip Pawlega [*]
+
+  Presented by Erdem Alkim
+
+  Interesting references:
+
+  * Shi Bai and Steven D. Galbraith. An Improved Compression Technique for
+    Signatures Based on Learning with Errors. In Topics in Cryptology – CT-RSA
+    2014, volume 8366 of LNCS. Springer, 2014.
+  * Erdem Alkim, Nina Bindel, Johannes Buchmann, Özgür Dagdelen, and Peter
+    Schwabe. TESLA: Tightly-Secure Efficient Signatures from Standard Lattices.
+    Cryptology ePrint Archive, Report 2015/755, version 20161117:055833, 2015.
+  * Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner,
+    and Mark Zhandry. Random Oracles in a Quantum World. In ASIACRYPT 2011,
+    volume 7073 of LNCS. Springer, 2011.
+  * Charles H. Bennett, Ethan Bernstein, Gilles Brassard, and Umesh Vazirani.
+    Strengths and Weaknesses of Quantum Computing. SIAM J. Comput., 26(5),    1997.
+  * Jonathan Katz and Nan Wang. Efficiency Improvements for Signature Schemes
+    with Tight Security Reductions. In CCS 2003. ACM, 2003.
+  * Vadim Lyubashevsky. Lattice Signatures without Trapdoors. In EUROCRYPT
+    2012, volume 7237 of LNCS. Springer, 2012.
+  * Oded Regev. On Lattices, Learning with Errors, Random Linear Codes, and
+    Cryptography. In STOC 2005. ACM, 2005.
+  * Chris Peikert. A Decade of Lattice Cryptography. Cryptology ePrint Archive,
+    Report 2015/939, 2015.
+  * Phillip Kaye, Raymond Laflamme, and Michele Mosca. An Introduction to
+    Quantum Computing. Oxford University Press, Inc., New York, NY, USA, 2007.
+  * Michael A. Nielsen and Isaac L. Chuang. Quantum Computation and Quantum
+    Information. Cambridge University Press, Cambridge, New York, 2000.
