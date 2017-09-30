@@ -187,6 +187,28 @@
 * [How to Use the Plan 9 C Compiler](http://doc.cat-v.org/plan_9/4th_edition/papers/comp)
 * [A Manual for the Plan 9 assembler](https://9p.io/sys/doc/asm.html)
 
+#### x86
+* [x86 Instruction Set Reference](http://x86.renejeschke.de/)
+* [Instructions](https://en.wikipedia.org/wiki/X86_instruction_listings)
+* [INT (x86 instruction)](https://en.wikipedia.org/wiki/INT_(x86_instruction))
+* [EQU](http://www.keil.com/support/man/docs/armasm/armasm_dom1361290008953.htm)
+* [TEST](https://en.wikipedia.org/wiki/TEST_(x86_instruction))
+* [x86 memory segmentation](https://en.wikipedia.org/wiki/X86_memory_segmentation)
+* [Intel x86 JUMP quick reference](http://unixwiz.net/techtips/x86-jumps.html) by Steve Friedl
+* [X86 Assembly/X86 Architecture](https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture)
+* [db, dw, dd](http://stackoverflow.com/questions/10168743/x86-assembly-which-variable-size-to-use-db-dw-dd)
+* [X86 Assembly/X86 Architecture](https://en.wikibooks.org/wiki/X86_Assembly/X86_Architecture)
+* [Assembly - Registers](https://www.tutorialspoint.com/assembly_programming/assembly_registers.htm)
+* [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
+* [Yasm User Manual](https://www.tortall.net/projects/yasm/manual/html/index.html)
+
+#### Flags
+* [Zero flag](https://en.wikipedia.org/wiki/Zero_flag)
+* [FLAGS register](https://en.wikipedia.org/wiki/FLAGS_register)
+
+### Ports
+* [PORTS	Common I/O Port Addresses](http://stanislavs.org/helppc/ports.html)
+
 ### Mistakes
 * [50 Shades of Go: Traps, Gotchas, and Common Mistakes for New Golang Devs](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) by Kyle Quest
 * [When in Go, do as Gophers do](https://talks.golang.org/2014/readability.slide#1)

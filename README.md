@@ -51,6 +51,9 @@
 * [Info](https://books.google.de/books?id=amW5BQAAQBAJ&pg=PA205&lpg=PA205&dq=check+for+degenerate+key+crypto&source=bl&ots=IChUHyW5O8&sig=WC1JF6QumuLoX_k9lnql_5Aee8c&hl=es-419&sa=X&sqi=2&ved=0ahUKEwjQybzEsZDSAhVnwYMKHfjFDHsQ6AEILDAC#v=onepage&q=check%20for%20degenerate%20key%20crypto&f=false)
 * [Degenerate Curve Attacks](https://eprint.iacr.org/2015/1233.pdf) by Samuel Neves and Mehdi Tibouchi
 
+### Fault Attacks
+* [Fault-resistant calculcations on elliptic curves](https://www.google.com/patents/US8457303) by Marc Joye
+
 ### Diffie Hellman
 * [New directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Diffie and Hellman.
 * [Diffie-Hellman key exchange](http://www.math.ucla.edu/~baker/40/handouts/rev_DH/node1.html) by Nikos Drakos
@@ -60,6 +63,7 @@
 * [Diffie-hellman](https://www.cryptopp.com/wiki/Diffie-hellman#Key_Agreement_and_Transport) by Crypto++
 * [Public key parameters](http://cacr.uwaterloo.ca/hac/about/chap4.pdf#page=164)
 * [A One Round Protocol for Tripartite Diffie–Hellman](https://pdfs.semanticscholar.org/845e/96c20e5a5ff3b03f4caf72c3cb817a7fa542.pdf) by Antoine Joux
+* [The Decision Die-Hellman Problem](http://crypto.stanford.edu/~dabo/pubs/papers/DDH.pdf) by Dan Boneh
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
@@ -71,6 +75,10 @@
 ### Cramer-Shoup
 * [Cramer Shoup Cryto-System Java implementation](https://github.com/omoeller/cramshou) by omoeller (not audited).
 * [Cramer Shoup Cryto-System Python implementation](https://github.com/benkreuter/cca2python) by benkreuter.
+
+### ElGamal
+* [A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms](http://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf) by Taher ElGamal
+* [ElGamal:Public-Key Cryptosystem](http://cs.indstate.edu/~jgrewal/steps.pdf) by Jaspreet Kaur Grewal
 
 ### Elliptic Curve
 
@@ -88,7 +96,7 @@
 * [Extended coordinates with a=-1 for twisted Edwards curves](http://www.hyperelliptic.org/EFD/g1p/auto-twisted-extended-1.html)
 * [Elliptic Curves Suitable for Cryptosystems](https://grampus.jaist.ac.jp/miyaji-lab/member/PaperPS/SCIS93-10B.pdf) by Atsuko Miyaji
 * [Elliptic curves](http://library.msri.org/books/Book44/files/07poonen.pdf) by Bjorn Poonen
-* [Rigid Parameter Generation for Elliptic Curve Cryptography](https://tools.ietf.org/html/draft-black-rpgecc-01#page-6) by B. Black
+* [Rigid Parameter Generation for Elliptic Curve Cryptography](https://tools.ietf.org/html/draft-black-rpgecc-01#page-6) by B. Black, J. Bos, C. Costello, A. Langley, P. Longa and M. Naehrig
 * [Tutorial](https://www.youtube.com/watch?v=w2V2dyL1LO8) by Tanja Lange
 * [ECC hacks](https://www.youtube.com/watch?v=vEt-D8xZmgE) by Tanja Lange
 * [Curves Formulas](http://www.hyperelliptic.org/EFD/) by Tanja Lange
@@ -103,9 +111,15 @@
 * [Sign Change Fault Attacks On Elliptic Curve Cryptosystems](https://eprint.iacr.org/2004/227.pdf) by Johannes Blömer, Martin Otto and Jean-Pierre Seifert
 * [An exploration of affine group laws for elliptic curves](https://www.degruyter.com/view/j/jmc.2011.5.issue-1/jmc.2011.005/jmc.2011.005.xml) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter and Ed Dawson
 * [A Las Vegas algorithm to solve the elliptic curve discrete logarithm problem](https://arxiv.org/pdf/1703.07544.pdf) by Ayan Mahalanobis and Vivek Mallick
+* [On isogeny classes of Edwards curves over finite fields](http://www.sciencedirect.com/science/article/pii/S0022314X1200025X) by Omran Ahmadi and
+Robert Granger
+* [Explicit-Formulas Database](https://hyperelliptic.org/EFD/) by Tanja Lange
+* [Validation of Elliptic Curve Public Keys](https://www.iacr.org/archive/pkc2003/25670211/25670211.pdf) by Adrian Antipa, Daniel Brown, Alfred Menezes,
+René Struik and Scott Vanstone
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
+* [Twist security](http://safecurves.cr.yp.to/twist.html)
 
 #### Jacobic
 * [The Jacobi Model of an Elliptic Curve and Side-Channel Analysis](https://eprint.iacr.org/2002/125.pdf) by Olivier Billet and Marc Joye
@@ -146,6 +160,9 @@
 * [Twisted Edwards Curves](https://eprint.iacr.org/2008/013.pdf) by Daniel J. Bernstein, Peter Birkner, Marc Joye, Tanja Lange, and Christiane Peters
 * [Twisted Edwards Curves Revisited](http://iacr.org/archive/asiacrypt2008/53500329/53500329.pdf) by Huseyin Hisil, Kenneth Koon-Ho Wong, Gary Carter, and Ed Dawson.
 * [On isogeny classes of Edwards curves over finite fields](https://eprint.iacr.org/2011/135.pdf) by Omran Ahmadi and Robert Granger
+
+### X448
+* [Implementation](https://git.schwanenlied.me/yawning/x448)
 
 #### Theory
 
@@ -270,6 +287,9 @@
 * [Recommendation for Key Management](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57pt1r4.pdf) by Elaine Barker in NIST.
 * [Recommendation for Pair-Wise Key Establishment Schemes Using Discrete Logarithm Cryptography](http://csrc.nist.gov/groups/ST/toolkit/documents/SP800-56Arev1_3-8-07.pdf) by Elaine Barker, Don Johnson, and Miles Smid in NIST.
 
+## School
+* [Workshop on Elliptic Curve Cryptography (ECC)](https://hyperelliptic.org/ECC/index.html)
+
 ## Library
 
 ### Pairing-based cryptography
@@ -292,6 +312,14 @@
 * [Towards quantum-resistance cryptosystems from supersingular elliptic curve isogenies](http://eprint.iacr.org/2011/506.pdf) by Luca de Feo, David Jao and Jerome Plut.
 * [Quantum computers are coming!](https://www.youtube.com/watch?v=c7OHv-L-x50) by Tanja Lange and Daniel J. Bernstein
 * [Ring learning with errors](https://en.wikipedia.org/wiki/Ring_learning_with_errors)
+* [A low-resource quantum factoring algorithm](https://eprint.iacr.org/2017/352.pdf) by Daniel J. Bernstein, Jean-François Biasse, and Michele Mosca
+
+## Malware
+* [Encrypted Viruses](http://www.cs.virginia.edu/~ww6r/CS4630/lectures/Encrypted_Virus.pdf)
+* [Official (ISC)2 Guide to the SSCP CBK, Second Edition](https://books.google.com.ec/books?id=42g1BNUSYPwC&pg=PA98&lpg=PA98&dq=cascade+virus+source+code&source=bl&ots=giqHBUTgnI&sig=HPjGmlzyzbvPpVBad5I0U6drxDI&hl=en&sa=X&ved=0ahUKEwi4yJ-GpOPTAhVr4oMKHeTMA_c4ChDoAQguMAU#v=onepage&q&f=false)
+* [The Art of Computer Virus](https://books.google.com.ec/books?id=XE-ddYF6uhYC&pg=PT89&lpg=PT89&dq=cascade+virus+source+code&source=bl&ots=GgNOdq_PJY&sig=Zp9naiUWg7U-MtHunpNQELgGWFI&hl=en&sa=X&ved=0ahUKEwizwr_5o-PTAhUr5oMKHZVSCH4Q6AEITDAH#v=onepage&q=cascade%20virus%20source%20code&f=false)
+* [Examples of Malicious Computer Programs](http://www.rbs2.com/cvirus.htm#anchor222250) by Ronald B. Standler
+* [Malwaretech](https://www.malwaretech.com/)
 
 ## Mailing List
 * [Modern Crypto](https://moderncrypto.org/mail-archive/)

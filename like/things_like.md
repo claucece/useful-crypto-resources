@@ -16,6 +16,7 @@ To read on daily basic
 * [Understanding the Montgomery reduction algorithm](https://alicebob.cryptoland.net/understanding-the-montgomery-reduction-algorithm/) by Alice and Bob in Cryptoland
 * [Use Vim](https://medium.com/usevim/) by Alex R. Young and [more](https://github.com/alexyoung/usevim/tree/master/_posts)
 * [Dave Cheney Blog](https://dave.cheney.net) by Dave Cheney
+* [Steve Friedl's Tech Tips] by Steve Friedl
 
 ## Explanations
 * [Numerical Computation Guide](http://docs.oracle.com/cd/E19957-01/806-3568/)
@@ -36,6 +37,7 @@ To read on daily basic
 * [Not Even Wrong](http://www.math.columbia.edu/~woit/wordpress/)
 * [backreaction](http://backreaction.blogspot.com/)
 * [Of Particular Significance](https://profmattstrassler.com/)
+* [Quanta Magazine](https://www.quantamagazine.org/)
 
 ## Contests
 * [The Underhanded C Contest](http://underhanded-c.org/_page_id_5.html)
