@@ -8,6 +8,8 @@
 * [Protocol](https://otr.cypherpunks.ca/Protocol-2.0.2.txt) by Nikita Borisov and Ian Goldberg.
 * [Secure Off-the-Record Messaging](https://www.dmi.unict.it/diraimondo/web/wp-content/uploads/papers/otr.pdf) by Mario Di Raimondo, Rosario Gennaro and Hugo Krawczyk
 
+### Multiparty
+* [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al. 
 
 ## Zero Knowledge Proof
 * [Multiple Non-Interactive Zero Knowledge Proofs Based on a Single Random String](https://www.computer.org/csdl/proceedings/focs/1990/2082/00/089549.pdf) by Uriel Feige, Dror Lapidot and Adi Shamir.
@@ -177,6 +179,12 @@
 * [On the evaluation of powers and related problems](http://diyhpl.us/~bryan/papers2/paperbot/4567910.pdf) by Nicholas Pippenger
 * [Fast Exponentiation with Precomputation: Algorithms and Lower Bounds](https://www.ccrwest.org/gordon/fast.pdf) by Ernest F. Brickell, Daniel M. Gordon, Kevin S. McCurley, and David B. Wilson
 * [More Flexible Exponentiation with Precomputation](https://pdfs.semanticscholar.org/8602/62b900a1493688e96a41b4545d8c50a0a86f.pdf) by Chae Hoon Lim and Pil Joong Lee
+
+### Square Root
+* [Faster Square Roots in Annoying Finite Fields](http://cr.yp.to/papers/sqroot.pdf) by Daniel Bernstein
+
+### Multiplication
+* [Analyzing and Comparing Montgomery Multiplication Algorithms](http://dl.acm.org/citation.cfm?id=624011) by Çetin Kaya Koç, Tolga Acar and Burton S. Kaliski, Jr.	
 
 ### Sieve
 * [The Genuine Sieve of Eratosthenes](https://www.cs.hmc.edu/~oneill/papers/Sieve-JFP.pdf) by Melissa E. O’Neill
