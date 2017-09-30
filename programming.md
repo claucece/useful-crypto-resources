@@ -7,6 +7,15 @@
 * [David Neto's code page](http://www.cs.utoronto.ca/~neto/code/fastexp.scm): Scheme and Ideal Turing
 * [Bitwise operators (Python)](https://wiki.python.org/moin/BitwiseOperators)
 
+### Floating point
+* [Gustavo's IEEE-754 Brain Teaser](https://www.goinggo.net/2013/08/gustavos-ieee-754-brain-teaser.html) by William Kennedy
+* [IEEE Standard 754 Floating Point Numbers](http://steve.hollasch.net/cgindex/coding/ieeefloat.html) by Steve Hollasch 
+* [Comparing Floating Point Numbers, 2012 Edition](https://randomascii.wordpress.com/2012/02/25/comparing-floating-point-numbers-2012-edition/) by randomASCII
+* [Example: Converting to Float](http://class.ece.iastate.edu/arun/CprE281_F05/ieee754/ie5.html)
+
+## Padding
+* [Structure Member Alignment, Padding and Data Packing](http://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/) 
+
 ## Golang
 
 ### General
@@ -15,6 +24,12 @@
 * [Go Playground](https://play.golang.org/)
 * [Useful resources](https://github.com/golang/go/wiki#getting-started-with-go)
 
+### Naming
+* [What's in a name?](https://talks.golang.org/2014/names.slide#1) by Andrew Gerrand
+* [Name](https://golang.org/doc/effective_go.html#names) by Effective Go
+* [Package names](https://blog.golang.org/package-names)
+* [Some questions](http://stackoverflow.com/questions/38616687/which-way-to-name-a-function-in-go-camelcase-or-semi-camelcase) 
+
 ### Books
 * [An Introduction to Go Programming](https://www.golang-book.com/books/intro)
 
@@ -22,9 +37,13 @@
 * [Access to the unicode and convert to string](http://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value)
 * [Count](https://golang.org/src/strings/strings.go?s=1960:1989#L67)
 
+### Types
+* [Understanding Type in Go](https://www.goinggo.net/2013/07/understanding-type-in-go.html)
+
 ### Convert
 * [Rune to Int](http://stackoverflow.com/questions/21322173/convert-rune-to-int)
 * [strconv](https://golang.org/pkg/strconv/)
+* [Don't abuse math.Max / math.Min](http://mrekucci.blogspot.com/2015/07/dont-abuse-mathmax-mathmin.html)
 
 ### Arrays and slices
 * [Controlling Array Growth in Golang](http://openmymind.net/Controlling-Array-Growth-In-Golang/) by Karl Seguin
@@ -51,6 +70,17 @@
 ### Constants
 * [iota: Elegant Constants in Golang](https://splice.com/blog/iota-elegant-constants-golang/) 
 * [constants](https://blog.golang.org/constants)
+
+### Errors
+* [Illegal octal digit error](http://www.perlmonks.org/?node_id=768999)
+
+
+### Talks
+* [General](https://talks.golang.org/)
+* [5 things I love (or why you should learn Go)](https://www.youtube.com/watch?v=fsTOOPB1TBY) by Andrew Gerrand
+* [How go was made (or why you should learn Go)](https://www.youtube.com/watch?v=0ht89TxZZnk) by Andrew Gerrand
+* [Closing day keynote](https://www.youtube.com/watch?v=dKGmK_Z1Zl0) by Andrew Gerrand
+
 
 ----------------------------------------------------------------------------
 
