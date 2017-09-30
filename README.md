@@ -171,6 +171,14 @@
 ### Books
 * [An Introduction to Go Programming](https://www.golang-book.com/books/intro) 
 
+### Strings
+* [Access to the unicode and convert to string](http://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value)
+* [Count](https://golang.org/src/strings/strings.go?s=1960:1989#L67)
+
+### Convert
+* [Rune to Int](http://stackoverflow.com/questions/21322173/convert-rune-to-int)
+* [strconv](https://golang.org/pkg/strconv/)
+
 ### Arrays and slices
 * [Controlling Array Growth in Golang](http://openmymind.net/Controlling-Array-Growth-In-Golang/) by Karl Seguin
 * [Arrays, Slices and Maps](https://www.golang-book.com/books/intro/6)
@@ -183,6 +191,11 @@
 
 ### Go Check
 * [GoCheck](https://github.com/go-check/check)
+
+----------------------------------------------------------------------------
+# Useful
+* [ADR tools](https://github.com/npryce/adr-tools)
+
 
 ----------------------------------------------------------------------------
 # Code for Tor Browser High Security Mode
