@@ -49,6 +49,12 @@
 * [Ancient Egyptian multiplication](https://en.wikipedia.org/wiki/Ancient_Egyptian_multiplication)
 * [Binary Arithmetic](http://courseweb.stthomas.edu/tpsturm/private/notes/qm300/ARITH.html)
 * [Biased Notation](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/ch04s14.html)
+* [Computer Science 315 Lecture Notes](http://www.cs.uwm.edu/classes/cs315/Bacon/Lecture/HTML/)
+* [Bit Manipulation](https://www.hackerearth.com/practice/notes/bit-manipulation/)
+* [Advanced bit manipulation-fu](http://realtimecollisiondetection.net/blog/?p=78)
+* [The bit twiddler](http://bits.stephan-brumme.com/)
+* [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/)
+* [How to "Build" a Computer](http://www.cs.umd.edu/class/sum2003/cmsc311/Notes/)
 * [Binary Subtraction](https://courses.cs.vt.edu/~cs1104/BuildingBlocks/arithmetic.040.html)
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by By Sean Eron Anderson
 * [Binary Arithmetic](http://www.sciencedirect.com/science/article/pii/S0065245808606105?np=y&npKey=6d6b4e76e7539ace948e93c0cdce662ad3cb10a25a870feadfddd0ce6cd5624e) by George W. Reitwiesner
@@ -78,6 +84,10 @@
 
 ### Books
 * [An Introduction to Go Programming](https://www.golang-book.com/books/intro)
+
+### Init
+* [Init functions in Go](https://medium.com/golangspec/init-functions-in-go-eac191b3860a#.otult17d4) by Michał Łowicki
+
 
 ### Data Structures
 * [Go Data Structures](http://research.swtch.com/godata)
@@ -224,6 +234,10 @@
 ### Conversion
 * [deprecated conversion from string constant to 'char*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
 
+## GTK
+* [glade tutorial](http://blog.borovsak.si/2009/09/glade3-tutorial-1-introduction.html)
+* [Python GTK+ 3 Tutorial](http://python-gtk-3-tutorial.readthedocs.io/en/latest/install.html)
+
 ----------------------------------------------------------------------------
 
 # Design
@@ -231,10 +245,16 @@
 ## Css
 * [You don't need javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
 
+## Beautiful Css websites
+* [In Pieces](http://species-in-pieces.com/#)
+* [Quad Notion](http://www.quadnotion.com/)
+
 ## Vim
 * [Xterm256 color names for console Vim](http://vim.wikia.com/wiki/Xterm256_color_names_for_console_Vim)
 * [Use Vim](https://medium.com/usevim/) by Alex R. Young
 * [Being sorta useful in vim](https://kivikakk.ee/2014/04/19/being-sorta-useful-in-vim.html#normal)
+* [Why I use Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/) by Pascal Precht
+
 
 ----------------------------------------------------------------------------
 # Useful
