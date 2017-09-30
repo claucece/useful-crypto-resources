@@ -90,6 +90,7 @@
 ### Constants
 * [iota: Elegant Constants in Golang](https://splice.com/blog/iota-elegant-constants-golang/) 
 * [constants](https://blog.golang.org/constants)
+* [why arrays are not constants](https://groups.google.com/forum/#!topic/golang-nuts/5aynucvg96I)
 
 ### Errors
 * [Illegal octal digit error](http://www.perlmonks.org/?node_id=768999)
@@ -125,6 +126,10 @@
 * [An Inline Function is As Fast As a Macro](https://gcc.gnu.org/onlinedocs/gcc/Inline.html)
 * [C Programming/Pointers and arrays](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays)
 * [Bitwise Operators in C Programming](https://www.programiz.com/c-programming/bitwise-operators)
+
+### ForLoops
+* [Skip](http://stackoverflow.com/questions/22211209/are-there-reasons-to-skip-the-initialization-of-the-for-loop)
+* [Syntax](http://stackoverflow.com/questions/276512/what-is-the-full-for-loop-syntax-in-c-and-others-in-case-they-are-compatible)
 
 ----------------------------------------------------------------------------
 
