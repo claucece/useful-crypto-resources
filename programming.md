@@ -323,7 +323,13 @@
 * [Write a compiler](https://github.com/sdiehl/write-you-a-haskell)
 * [Write a compiler 2](http://dev.stephendiehl.com/fun/000_introduction.html)
 
-
+## Git
+* [Rewrite commits](https://stackoverflow.com/questions/2919878/git-rewrite-previous-commit-usernames-and-emails)
+* [Change author info](https://help.github.com/articles/changing-author-info/)
+* [Backup](https://stackoverflow.com/questions/6403601/purging-file-from-git-repo-failed-unable-to-create-new-backup)
+* [Commit history](https://git-scm.com/book/tr/v2/Git-Basics-Viewing-the-Commit-History)
+* [Rebase and change commits](https://stackoverflow.com/questions/39631983/github-invalid-author-email-commits-no-contribution-activity)
+* [Get author name of commit](https://stackoverflow.com/questions/29876342/how-to-get-only-author-name-or-email-in-git-given-sha1)
 
 ----------------------------------------------------------------------------
 
