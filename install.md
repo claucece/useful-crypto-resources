@@ -46,4 +46,9 @@
 * [Set-up](http://www.antonfagerberg.com/blog/my-perfect-irssi-setup/)
 
 ## SSH
-* [Remeber](https://apple.stackexchange.com/questions/254468/macos-sierra-doesn-t-seem-to-remember-ssh-keys-between-reboots)
+* [Remember](https://apple.stackexchange.com/questions/254468/macos-sierra-doesn-t-seem-to-remember-ssh-keys-between-reboots)
+* [Remove](https://stackoverflow.com/questions/25464930/how-to-remove-a-ssh-key)
+
+// TODO: move
+## Git
+* [Tutorial](https://www.atlassian.com/git/tutorials/git-log)
