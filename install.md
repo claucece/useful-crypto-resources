@@ -44,3 +44,6 @@
 * [Windows](https://superuser.com/questions/657570/irssi-is-simply-ignoring-any-attempt-to-register-of-identify)
 * [Start-up](https://irssi.org/documentation/startup/)
 * [Set-up](http://www.antonfagerberg.com/blog/my-perfect-irssi-setup/)
+
+## SSH
+* [Remeber](https://apple.stackexchange.com/questions/254468/macos-sierra-doesn-t-seem-to-remember-ssh-keys-between-reboots)
