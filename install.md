@@ -1,6 +1,5 @@
 # Install
 
-
 ## XCode
 * [Update](https://stackoverflow.com/questions/15417619/how-do-you-update-xcode-on-osx-to-the-latest-version)
 * [Uninstall](https://stackoverflow.com/questions/31011062/how-to-completely-uninstall-xcode-and-clear-all-settings)
