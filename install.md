@@ -28,3 +28,19 @@
 ## GPG
 * [Backup or transfer your keys](https://gpgtools.tenderapp.com/kb/gpg-keychain-faq/backup-or-transfer-your-keys)
 * [How To Use GPG on the Command Line](http://blog.ghostinthemachines.com/2015/03/01/how-to-use-gpg-command-line/)
+
+## OFTC
+* [SSL](https://www.oftc.net/NickServ/CertFP/#weechat)
+
+## IRC
+* [Instructions](https://meta.wikimedia.org/wiki/IRC/Instructions)
+
+## Weechar
+* [WeeChat Quick Start Guide](https://weechat.org/files/doc/devel/weechat_quickstart.es.html)
+
+## IRSSI
+* [Scripts](https://scripts.irssi.org/)
+* [Themes](https://irssi-import.github.io/themes/)
+* [Windows](https://superuser.com/questions/657570/irssi-is-simply-ignoring-any-attempt-to-register-of-identify)
+* [Start-up](https://irssi.org/documentation/startup/)
+* [Set-up](http://www.antonfagerberg.com/blog/my-perfect-irssi-setup/)
