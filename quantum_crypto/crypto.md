@@ -187,3 +187,12 @@ Pavol Zajac, Qian Guo and Thomas Johansson.
     Quantum Computing. Oxford University Press, Inc., New York, NY, USA, 2007.
   * Michael A. Nielsen and Isaac L. Chuang. Quantum Computation and Quantum
     Information. Cambridge University Press, Cambridge, New York, 2000.
+
+* [Cryptanalysis of RLWE-Based One-Pass Authenticated Key Exchange](https://link.springer.com/chapter/10.1007/978-3-319-59879-6_10) by Boru Gong[*], Yunlei Zhao. [*]
+
+  Presented by [Boru Gong](http://dblp.uni-trier.de/pers/hd/g/Gong:Boru)
+
+  Interesting references:
+
+  * [Authenticated Key Exchange from Ideal Lattices](https://eprint.iacr.org/2014/589.pdf) by Jiang Zhang, Zhenfeng Zhang, Jintai Ding, Michael Snook and Ozgur Dagdelen
+  * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf) by Hugo Krawczyk
