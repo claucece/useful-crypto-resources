@@ -289,6 +289,10 @@ Attack on Several Real-World Applications of Curve25519](https://eprint.iacr.org
 * [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-08) by S. Josefsson and I. Liusvaara (draft)
 * [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-00) by S. Josefsson and I. Liusvaara (draft)
 * [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
+* [Breaking Ed25519 in WolfSSL](https://eprint.iacr.org/2017/985.pdf) by Niels Samwel, Lejla Batina, Guido Bertoni, Joan
+Daemen, and Ruggero Susella
+* [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
+Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 
 ### XEdDSA
 * [The XEdDSA and VXEdDSA Signature Schemes](https://whispersystems.org/docs/specifications/xeddsa/#curve448) by Trevor Perrin.
@@ -397,6 +401,7 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [An improved compression technique for signatures based on learning with errors](https://eprint.iacr.org/2013/838.pdf) by Shi Bai and Steven D. Galbraith
 * [NTRU Prime](https://ntruprime.cr.yp.to/ntruprime-20160511.pdf) by Daniel J. Bernstein, Chitchanok Chuengsatiansup, Tanja Lange and Christine van Vredendaal
 * [An Efficient Quantum Collision Search Algorithm and Implications on Symmetric Cryptography](https://eprint.iacr.org/2017/847.pdf) by André Chailloux, María Naya-Plasencia, and André Schrottenloher
+* [Low-communication parallel quantum multi-target preimage search](https://eprint.iacr.org/2017/789.pdf) by Gustavo Banegas and Daniel J. Bernstein
 
 ## Searchable symmetric encryption
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
