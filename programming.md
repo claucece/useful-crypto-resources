@@ -185,6 +185,12 @@
 * [How to initialize members in Go struct](http://stackoverflow.com/questions/4498998/how-to-initialize-members-in-go-struct)
 * [Struct's Zero value in golang](http://stackoverflow.com/questions/28625794/structs-zero-value-in-golang)
 
+### Runtime
+* [package](https://golang.org/pkg/runtime/#hdr-Environment_Variables)
+
+### gdb
+* [Debuggin code](https://golang.org/doc/gdb)
+
 ### Assembly
 * [Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)
 * [Generating code](https://blog.golang.org/generate)
@@ -330,6 +336,11 @@
 * [Commit history](https://git-scm.com/book/tr/v2/Git-Basics-Viewing-the-Commit-History)
 * [Rebase and change commits](https://stackoverflow.com/questions/39631983/github-invalid-author-email-commits-no-contribution-activity)
 * [Get author name of commit](https://stackoverflow.com/questions/29876342/how-to-get-only-author-name-or-email-in-git-given-sha1)
+
+## GDB
+* [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
+* [Install mac](https://stackoverflow.com/questions/18423124/please-check-gdb-is-codesigned-see-taskgated8-how-to-get-gdb-installed-w)
+* [High Sierra bug](https://stackoverflow.com/questions/39702871/gdb-kind-of-doesnt-work-on-macos-sierra/40437725#40437725)
 
 ----------------------------------------------------------------------------
 
