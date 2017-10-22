@@ -297,6 +297,9 @@
 * [automake](https://www.gnu.org/software/automake/manual/html_node/index.html#SEC_Contents)
 * [automake: tutorial](https://www.gnu.org/software/automake/manual/html_node/Examples.html#Examples)
 * [Automake silence](https://www.gnu.org/software/automake/manual/html_node/Automake-Silent-Rules.html#index-AM_005fDEFAULT_005fVERBOSITY)
+* [Creating an Open-source Program in C With Autotools](http://blog.fourthbit.com/2013/06/18/creating-an-open-source-program-in-c-with-autotools-part-1-of-2)
+* [AM_CONDITIONAL](https://www.gnu.org/software/automake/manual/html_node/Usage-of-Conditionals.html)
+* [Test coverage](https://qualityhour.wordpress.com/2012/01/29/test-coverage-tutorial-for-cc-autotools-projects/)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
