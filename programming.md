@@ -281,6 +281,9 @@
 ### Macros
 * [How to Use C Macros and C Inline Functions with C Code Examples](http://www.thegeekstuff.com/2013/04/c-macros-inline-functions/)
 
+### Variable arguments
+* [How Variable Argument Lists Work in C](http://blog.aaronballman.com/2012/06/how-variable-argument-lists-work-in-c/)
+
 ### GCC
 * [6.30 Declaring Attributes of Functions](https://gcc.gnu.org/onlinedocs/gcc-4.7.1/gcc/Function-Attributes.html)
 * [3.8 Options to Request or Suppress Warnings](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#Warning-Options)
