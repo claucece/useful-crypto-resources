@@ -94,6 +94,7 @@
 
 ### Data Structures
 * [Go Data Structures](http://research.swtch.com/godata)
+* [Collection Functions](https://gobyexample.com/collection-functions)
 
 ### Strings
 * [Access to the unicode and convert to string](http://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value)
@@ -253,6 +254,7 @@
 * [make](https://ftp.gnu.org/old-gnu/Manuals/make-3.79.1/html_chapter/make_11.html)
 * [shell](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
 * [constant time](https://cryptocoding.net/index.php/Coding_rules)
+* [size_t](https://www.embedded.com/electronics-blogs/programming-pointers/4026076/Why-size-t-matters)
 
 ### Inline
 * [An Inline Function is As Fast As a Macro](https://gcc.gnu.org/onlinedocs/gcc/Inline.html)
@@ -288,6 +290,12 @@
 * [6.30 Declaring Attributes of Functions](https://gcc.gnu.org/onlinedocs/gcc-4.7.1/gcc/Function-Attributes.html)
 * [3.8 Options to Request or Suppress Warnings](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#Warning-Options)
 
+### Clang
+* [Clang format vim](https://gist.github.com/fasiha/8af2a4f719812319934947124bb63afd)
+* [Clang format](https://clang.llvm.org/docs/ClangFormat.html)
+
+### Macro
+* [M4](https://www3.physnet.uni-hamburg.de/physnet/Tru64-Unix/HTML/APS32DTE/M4XXXXXX.HTM)
 
 ### Libraries
 
@@ -303,6 +311,7 @@
 * [Creating an Open-source Program in C With Autotools](http://blog.fourthbit.com/2013/06/18/creating-an-open-source-program-in-c-with-autotools-part-1-of-2)
 * [AM_CONDITIONAL](https://www.gnu.org/software/automake/manual/html_node/Usage-of-Conditionals.html)
 * [Test coverage](https://qualityhour.wordpress.com/2012/01/29/test-coverage-tutorial-for-cc-autotools-projects/)
+* [Gnome Autotools](https://wiki.gnome.org/Projects/GnomeCommon/Migration)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
@@ -329,6 +338,8 @@
 * [Tutorials](https://wiki.gnome.org/GnomeArt/Tutorials/)
 * [FAQ](http://www.geany.org/manual/gtk/gtk-faq/x492.html)
 * [Beautiful Buttons](https://wiki.gnome.org/HowDoI/Buttons)
+* [GTK parasite github](https://github.com/chipx86/gtkparasite)
+* [GTK parasite website](http://chipx86.github.io/gtkparasite/)
 
 ## Haskell
 * [Stephen Diehl](https://github.com/sdiehl)
@@ -347,6 +358,8 @@
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
 * [Install mac](https://stackoverflow.com/questions/18423124/please-check-gdb-is-codesigned-see-taskgated8-how-to-get-gdb-installed-w)
 * [High Sierra bug](https://stackoverflow.com/questions/39702871/gdb-kind-of-doesnt-work-on-macos-sierra/40437725#40437725)
+* [Docs](https://sourceware.org/gdb/current/onlinedocs/gdb/)
+* [Manual](http://kirste.userpage.fu-berlin.de/chemnet/use/info/gdb/gdb_6.html#SEC29)
 
 ----------------------------------------------------------------------------
 
@@ -370,6 +383,9 @@
 * [Use Vim](https://medium.com/usevim/) by Alex R. Young
 * [Being sorta useful in vim](https://kivikakk.ee/2014/04/19/being-sorta-useful-in-vim.html#normal)
 * [Why I use Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/) by Pascal Precht
+
+## Irssi
+* [storing pass](https://github.com/irssi/irssi/issues/6)
 
 
 ----------------------------------------------------------------------------

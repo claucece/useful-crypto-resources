@@ -87,6 +87,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [On Diffie-Hellman key agreement with short exponents](https://www.google.com.ec/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitwcqf_ObVAhVE5iYKHZ3VA0IQFggkMAA&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F2b39%2F13d1dfcb1dc90463a37edfe606922f093e97.pdf&usg=AFQjCNEm-aBpKhd81J4NHqA81MLS0DOK9g) by P. C. van Oorschot and M. J. Wiener
 * [Diffie-Hellman Key Agreement Method](https://tools.ietf.org/html/rfc2631) by E. Rescorla
 * [Additional Diffie-Hellman Groups for Use with IETF Standards](https://tools.ietf.org/html/rfc5114) by M. Lepinski and S. Kent
+* [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf) by Hugo Krawczyk
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
@@ -97,6 +98,8 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [On reusing ephemeral keys in Diffie-Hellman key agreement protocols](http://cacr.uwaterloo.ca/techreports/2008/cacr2008-24.pdf) by Alfred Menezes and Berkant Ustaoglu
 * [A lesson in timing attacks](https://codahale.com/a-lesson-in-timing-attacks/) by codahale
 * [Measuring small subgroup attacks against Diffie-Hellman](https://eprint.iacr.org/2016/995.pdf) by Luke Valenta, David Adrian, Antonio Sanso, Shaanan Cohney, Joshua Fried, Marcella Hastings, J. Alex Halderman and Nadia Heninger. [Slides](https://www.seas.upenn.edu/~lukev/files/subgroup-slides.pdf)
+* [Remote Timing Attacks are Practical](http://crypto.stanford.edu/~dabo/pubs/papers/ssl-timing.pdf) by David Brumley and Dan Boneh
+* [Why Constant-Time Crypto?](https://www.bearssl.org/constanttime.html)
 
 ### Cramer-Shoup
 * [Cramer Shoup Cryto-System Java implementation](https://github.com/omoeller/cramshou) by omoeller (not audited).
@@ -417,6 +420,9 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 
 ## Passwords
 * [SPHINX: A Password Store that Perfectly Hides from ItselfSPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
+
+## Usability
+* [Obstacles to the Adoption of Secure Communication Tools](http://www.jbonneau.com/doc/ASBDNS17-IEEESP-secure_messaging_obstacles.pdf) by Ruba Abu-Salma, Anastasia Danilova, M. Angela Sasse, Alena Naiakshina, Joseph Bonneau and Matthew Smith
 
 ## Mailing List
 * [Modern Crypto](https://moderncrypto.org/mail-archive/)
