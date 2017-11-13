@@ -312,6 +312,8 @@
 * [AM_CONDITIONAL](https://www.gnu.org/software/automake/manual/html_node/Usage-of-Conditionals.html)
 * [Test coverage](https://qualityhour.wordpress.com/2012/01/29/test-coverage-tutorial-for-cc-autotools-projects/)
 * [Gnome Autotools](https://wiki.gnome.org/Projects/GnomeCommon/Migration)
+* [autoconf](https://www.gnu.org/software/autoconf/manual/autoconf.html)
+* [Autotools Mythbuster](https://autotools.io/index.html)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
@@ -369,7 +371,7 @@
 
 ----------------------------------------------------------------------------
 
-# Design
+# Design and configs
 
 ## Css
 * [You don't need javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
@@ -383,6 +385,12 @@
 * [Use Vim](https://medium.com/usevim/) by Alex R. Young
 * [Being sorta useful in vim](https://kivikakk.ee/2014/04/19/being-sorta-useful-in-vim.html#normal)
 * [Why I use Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/) by Pascal Precht
+
+## Tmux and tmate
+* [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course) by Josh Clayton
+* [config](https://searchcode.com/file/112847624/tmate.conf)
+* [config 2](https://github.com/gpakosz/.tmux/blob/master/.tmux.conf)
+* [Remote pairing with tmux and tmate](http://blog.testdouble.com/posts/2017-07-21-remote-pair-tmate-and-tmux)
 
 ## Irssi
 * [storing pass](https://github.com/irssi/irssi/issues/6)
