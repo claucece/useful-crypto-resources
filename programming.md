@@ -255,11 +255,11 @@
 * [shell](http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_03_02.html)
 * [constant time](https://cryptocoding.net/index.php/Coding_rules)
 * [size_t](https://www.embedded.com/electronics-blogs/programming-pointers/4026076/Why-size-t-matters)
+* [Bitwise Operators in C Programming](https://www.programiz.com/c-programming/bitwise-operators)
 
 ### Inline
 * [An Inline Function is As Fast As a Macro](https://gcc.gnu.org/onlinedocs/gcc/Inline.html)
-* [C Programming/Pointers and arrays](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays)
-* [Bitwise Operators in C Programming](https://www.programiz.com/c-programming/bitwise-operators)
+* [Inline Functions In C](https://www.greenend.org.uk/rjk/tech/inline.html)
 
 ### ForLoops
 * [Skip](http://stackoverflow.com/questions/22211209/are-there-reasons-to-skip-the-initialization-of-the-for-loop)
@@ -273,6 +273,7 @@
 ### Pointers
 * [Pointers](http://augustcouncil.com/~tgibson/tutorial/ptr.html)
 * [Don't Get Bitten by Pointer vs Non-Pointer Method Receivers in Golang](https://nathanleclaire.com/blog/2014/08/09/dont-get-bitten-by-pointer-vs-non-pointer-method-receivers-in-golang/) by Nathan Leclaire
+* [C Programming/Pointers and arrays](https://en.wikibooks.org/wiki/C_Programming/Pointers_and_arrays)
 
 ### Constants
 * [References and Constants](http://www.augustcouncil.com/~tgibson/tutorial/constref.html)
@@ -289,6 +290,7 @@
 ### GCC
 * [6.30 Declaring Attributes of Functions](https://gcc.gnu.org/onlinedocs/gcc-4.7.1/gcc/Function-Attributes.html)
 * [3.8 Options to Request or Suppress Warnings](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#Warning-Options)
+* [Options to Request or Suppress Warnings](https://gcc.gnu.org/onlinedocs/gcc-4.8.4/gcc/Warning-Options.html)
 
 ### Clang
 * [Clang format vim](https://gist.github.com/fasiha/8af2a4f719812319934947124bb63afd)
@@ -296,6 +298,9 @@
 
 ### Macro
 * [M4](https://www3.physnet.uni-hamburg.de/physnet/Tru64-Unix/HTML/APS32DTE/M4XXXXXX.HTM)
+
+### Differences
+* [strcpy and stpcpy](https://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
 
 ### Libraries
 
