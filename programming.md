@@ -304,6 +304,9 @@
 
 ### Libraries
 
+#### Tools for C libraries
+* [Tooling](https://developer.gnome.org/programming-guidelines/stable/tooling.html.en)
+
 #### Libgcrypt
 * [Libgcrypt Library](https://www.gnupg.org/documentation/manuals/gcrypt/index.html#SEC_Contents)
 * [gcry_mpi](https://www.gnupg.org/documentation/manuals/gcrypt/Basic-functions.html)
@@ -331,6 +334,12 @@
 * [Using Valgrind to Find Memory Leaks and Invalid Memory Use](http://www.cprogramming.com/debugging/valgrind.html) by Alex Allain
 * [Memcheck: a memory error detector](http://valgrind.org/docs/manual/mc-manual.html#mc-manual.options)
 * [ctgrind](https://github.com/agl/ctgrind) by Adam Langley
+* [Valgrind: introduction](https://accu.org/index.php/journals/1930) by Paul Floyd
+* [Basic Memcheck](https://accu.org/index.php/journals/1913) by Paul Floyd
+* [Advanced memcheck](https://accu.org/index.php/journals/1905) by Paul Floyd
+* [Massif](https://accu.org/index.php/journals/1884) by Paul Floyd
+* [Cachegrind and Callgrind](https://accu.org/index.php/journals/1886) by Paul Floyd
+* [Helgrind and DRD](https://accu.org/index.php/journals/1867) by Paul Floyd
 
 #### Autoconf
 * [Manual](https://www.gnu.org/software/autoconf/manual/autoconf-2.60/)
