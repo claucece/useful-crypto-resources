@@ -253,6 +253,7 @@ Attack on Several Real-World Applications of Curve25519](https://eprint.iacr.org
 * [FIPS 202 and KeccakDerived Functions](http://csrc.nist.gov/news_events/cif_2015/research/day1_research_200-250pt1.pdf) by John Kelsey
 * [SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash](http://csrc.nist.gov/publications/drafts/800-185/sp800_185_draft.pdf) by NIST
 * [A new Design Criteria for Hash-Functions](http://www.cs.nyu.edu/~puniya/papers/nist.pdf) by Jean-Sebastien Coron, Yevgeniy Dodis, , Cecile Malinaud, and Prashant Puniya
+* [BLAKE2: simpler, smaller, fast as MD5](https://eprint.iacr.org/2013/322.pdf) by Jean-Philippe Aumasson, Samuel Neves, Zooko Wilcox-O’Hearn and Christian Winnerlein
 
 ## Random Number Generators
 * [Recommendation for Random Number Generation Using Deterministic Random Bit Generators](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf) by NIST

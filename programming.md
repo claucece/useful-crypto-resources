@@ -322,6 +322,10 @@
 * [Gnome Autotools](https://wiki.gnome.org/Projects/GnomeCommon/Migration)
 * [autoconf](https://www.gnu.org/software/autoconf/manual/autoconf.html)
 * [Autotools Mythbuster](https://autotools.io/index.html)
+* [The Basics of Autotools](https://devmanual.gentoo.org/general-concepts/autotools/index.html)
+* [PKG_CHECK_MODULES Macro](https://autotools.io/pkgconfig/pkg_check_modules.html)
+* [Common Shell Constructs](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Common-Shell-Constructs.html)
+* [Working With External Software](https://www.gnu.org/software/autoconf/manual/autoconf-2.60/html_node/External-Software.html)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
@@ -340,6 +344,10 @@
 * [Massif](https://accu.org/index.php/journals/1884) by Paul Floyd
 * [Cachegrind and Callgrind](https://accu.org/index.php/journals/1886) by Paul Floyd
 * [Helgrind and DRD](https://accu.org/index.php/journals/1867) by Paul Floyd
+* [DRD: a thread error detector](http://valgrind.org/docs/manual/drd-manual.html)
+* [Helgrind: a thread error detector](http://valgrind.org/docs/manual/hg-manual.html)
+* [Cachegrind: a cache and branch-prediction profiler](http://valgrind.org/docs/manual/cg-manual.html)
+* [SGCheck: an experimental stack and global array overrun detector](http://valgrind.org/docs/manual/sg-manual.html)
 
 #### Autoconf
 * [Manual](https://www.gnu.org/software/autoconf/manual/autoconf-2.60/)
@@ -356,6 +364,10 @@
 * [Beautiful Buttons](https://wiki.gnome.org/HowDoI/Buttons)
 * [GTK parasite github](https://github.com/chipx86/gtkparasite)
 * [GTK parasite website](http://chipx86.github.io/gtkparasite/)
+* [Goings on](https://blogs.gnome.org/mclasen/) by Mathias Clasen.
+* [GTK+ Development Blog](https://blog.gtk.org/) by the GTK people.
+* [How Do I do gnome wiki](https://wiki.gnome.org/HowDoI/)
+
 
 ## Haskell
 * [Stephen Diehl](https://github.com/sdiehl)
@@ -376,6 +388,9 @@
 * [High Sierra bug](https://stackoverflow.com/questions/39702871/gdb-kind-of-doesnt-work-on-macos-sierra/40437725#40437725)
 * [Docs](https://sourceware.org/gdb/current/onlinedocs/gdb/)
 * [Manual](http://kirste.userpage.fu-berlin.de/chemnet/use/info/gdb/gdb_6.html#SEC29)
+
+## Travis
+* [Customizing the Build](https://docs.travis-ci.com/user/customizing-the-build/)
 
 ----------------------------------------------------------------------------
 
