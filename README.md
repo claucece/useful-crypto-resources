@@ -66,8 +66,14 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ## Key Exchange
 
+### Theory
+* [Entity Authentication and Key Distribution](https://cseweb.ucsd.edu/~mihir/papers/eakd.pdf) by Mihir Bellare and Phillip Rogaway
+
+### With Anonymous Authentication
+* [Key Exchange with Anonymous Authentication using DAA-SIGMA Protocol](https://eprint.iacr.org/2010/454.pdf) by Jesse Walker and Jiangtao Li
+
 ### Degenerate
-* [Degenerate Keys for RSA Encryption](https://pdfs.semanticscholar.org/2a2e/6585b83949cc13e58444f7b4435cf76d2920.pdf) by Seth D. Bergmann.
+* [Degenerate Keys for RSA Encryption](https://pdfs.semanticscholar.org/2a2e/6585b83949cc13e58444f7b4435cf76d2920.pdf) by Seth D. Bergmann
 * [Info](https://books.google.de/books?id=amW5BQAAQBAJ&pg=PA205&lpg=PA205&dq=check+for+degenerate+key+crypto&source=bl&ots=IChUHyW5O8&sig=WC1JF6QumuLoX_k9lnql_5Aee8c&hl=es-419&sa=X&sqi=2&ved=0ahUKEwjQybzEsZDSAhVnwYMKHfjFDHsQ6AEILDAC#v=onepage&q=check%20for%20degenerate%20key%20crypto&f=false)
 * [Degenerate Curve Attacks](https://eprint.iacr.org/2015/1233.pdf) by Samuel Neves and Mehdi Tibouchi
 
@@ -150,6 +156,7 @@ René Struik and Scott Vanstone
 * [Fundamental Elliptic Curve Cryptography Algorithms](https://tools.ietf.org/html/rfc6090#section-8) by D. McGrew, K. Igoe and  M. Salter
 * [Elliptic Curve Groups modulo a Prime (ECP Groups) for IKE and IKEv2](https://tools.ietf.org/html/rfc5903) by D. Fu and J. Solinas
 * [Elliptic Curve Cryptography in Practice](https://eprint.iacr.org/2013/734.pdf) by Joppe W. Bos, J. Alex Halderman, Nadia Heninger, Jonathan Moore, Michael Naehrig and Eric Wustrow
+* [Why Ellipses Are Not Elliptic Curves](https://www.maa.org/sites/default/files/pdf/upload_library/2/Rice-2013.pdf) by Adrian Rice and Ezra Brown
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -172,6 +179,9 @@ René Struik and Scott Vanstone
 * [Explicit Addition Formulae](https://crypto.stanford.edu/pbc/notes/elliptic/explicit.html)
 * [Elliptic curve point multiplication](https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication#Point_multiplication)
 * [Elliptic vs. hyperelliptic](https://cr.yp.to/talks/2006.09.20/slides.pdf) by Daniel Bernstein
+
+#### Courses
+* [MIT course](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2017/lecture-notes/)
 
 #### Conversions
 * [Fault Attacks on Projective-to-Affine Coordinates Conversion](https://cosade.telecom-paristech.fr/cosade13/presentations/session2_b.pdf) by Diana Maimut, C´edric Murdica, David Naccache and  Mehdi Tibouchi. Presentation
@@ -370,6 +380,7 @@ by H. Orman
 * [NaCl: internals](https://nacl.cr.yp.to/internals.html)
 * [HACL: A Verified Modern Cryptographic Library](https://eprint.iacr.org/2017/536.pdf) by Jean Karim Zinzindohoué, Karthikeyan Bhargavan, Jonathan Protzenko and Benjamin Beurdouche
 * [Several](https://cryptojedi.org/crypto)
+* [Privacy Pass](https://medium.com/@alxdavids/privacy-pass-6f0acf075288) by Alex Davidson
 
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
@@ -436,4 +447,5 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 ## Various
 * [Rebooting the Web-of-Trust](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust)
 * [Tor Browser Bundle - iSEC Deliverable 1.3](https://github.com/iSECPartners/publications/blob/052caf9c9c683ec0bed55782714df4d35c38f107/reports/Tor%20Browser%20Bundle/Tor%20Browser%20Bundle%20-%20iSEC%20Deliverable%201.3.pdf)
-* [Privacy Enhancement for Internet Electronic Mail: Part I -- Message Encipherment and Authentication Procedures](https://tools.ietf.org/html/rfc1113)
+* [Privacy Enhancement for Internet Electronic Mail: Part I -- Message Encipherment and Authentication Procedures](https://tools.ietf.org/html/rfc1113) by J. Linn
+* [Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies](https://tools.ietf.org/html/rfc2045) by N. Freed and N. Borenstein

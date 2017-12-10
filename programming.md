@@ -62,6 +62,7 @@
 * [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html) by By Sean Eron Anderson
 * [Binary Arithmetic](http://www.sciencedirect.com/science/article/pii/S0065245808606105?np=y&npKey=6d6b4e76e7539ace948e93c0cdce662ad3cb10a25a870feadfddd0ce6cd5624e) by George W. Reitwiesner
 * [Encoding](https://developers.google.com/protocol-buffers/docs/encoding)
+* [The Base16, Base32, and Base64 Data Encodings](https://tools.ietf.org/html/rfc3548) by S. Josefsson
 
 ### Constant Time
 * [Golang](https://golang.org/src/crypto/subtle/constant_time.go)
@@ -414,6 +415,7 @@
 * [Use Vim](https://medium.com/usevim/) by Alex R. Young
 * [Being sorta useful in vim](https://kivikakk.ee/2014/04/19/being-sorta-useful-in-vim.html#normal)
 * [Why I use Vim](https://pascalprecht.github.io/2014/03/18/why-i-use-vim/) by Pascal Precht
+* [How to use spell check with vim](http://go2linux.garron.me/linux/2010/10/how-use-spell-check-vim-795/)
 
 ## Tmux and tmate
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course) by Josh Clayton
