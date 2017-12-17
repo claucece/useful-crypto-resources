@@ -64,4 +64,3 @@ To check
 * Noise protocol
 * Supersingular isogeny based cryptography gets practical
 * Quam Bene Non Quantum: identifying bias in a commercial quantum random number generator
-* 
