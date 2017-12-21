@@ -264,6 +264,11 @@ Attack on Several Real-World Applications of Curve25519](https://eprint.iacr.org
 * [SHA-3 Derived Functions: cSHAKE, KMAC, TupleHash and ParallelHash](http://csrc.nist.gov/publications/drafts/800-185/sp800_185_draft.pdf) by NIST
 * [A new Design Criteria for Hash-Functions](http://www.cs.nyu.edu/~puniya/papers/nist.pdf) by Jean-Sebastien Coron, Yevgeniy Dodis, , Cecile Malinaud, and Prashant Puniya
 * [BLAKE2: simpler, smaller, fast as MD5](https://eprint.iacr.org/2013/322.pdf) by Jean-Philippe Aumasson, Samuel Neves, Zooko Wilcox-O’Hearn and Christian Winnerlein
+* [Analysis of BLAKE2](https://eprint.iacr.org/2013/467.pdf) by Jian Guo,
+Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
+* [BLAKE2: “Harder, Better, Faster, Stronger” Than MD5](https://leastauthority.com/blog/BLAKE2-harder-better-faster-stronger-than-MD5/) by  Zooko Wilcox-O'Hearn
+* [BLAKE 2: slides](https://blake2.net/acns/slides.html)
+* [BLAKE2 — fast secure hashing](https://blake2.net/)
 
 ## Random Number Generators
 * [Recommendation for Random Number Generation Using Deterministic Random Bit Generators](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf) by NIST
@@ -330,6 +335,7 @@ Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 
 ### Sociallist Millionaire Protocol (SMP)
 * [Socialist Millionaire Protocol Passphrase Generator](https://github.com/dillbyrne/smpp-generator) by dillbyrne.
+* [A Fair and Efficient Solution to the Socialist Millionaires’ Problem](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.10.3406&rep=rep1&type=pdf) by Fabrice Boudot, Berry Schoenmakers and Jacques Traoré
 
 ### Double Ratchet
 * [The Double Ratchet Algorithm](https://whispersystems.org/docs/specifications/doubleratchet/) by Trevor Perrin (editor) and Moxie Marlinspike.

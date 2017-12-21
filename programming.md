@@ -303,6 +303,9 @@
 ### Differences
 * [strcpy and stpcpy](https://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
 
+### Undefined behavior
+* [Undefined Behavior: What Happened to My Code?](https://people.csail.mit.edu/nickolai/papers/wang-undef-2012-08-21.pdf) by Xi Wang, Haogang Chen, Alvin Cheung, Zhihao Jia, Nickolai Zeldovich M. and Frans Kaashoek
+
 ### Libraries
 
 #### Tools for C libraries
