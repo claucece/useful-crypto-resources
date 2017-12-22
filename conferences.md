@@ -59,21 +59,21 @@
 * [Protecting Your Privacy at the Border](https://events.ccc.de/congress/2017/Fahrplan/events/9086.html) by Kurt Opsahl and William Budington [*]
 * [Zamir Transnational Network und Zagreb Dairy](https://events.ccc.de/congress/2017/Fahrplan/events/8842.html) by  Wam (P.J.H.F.) Kat [*] [*]
 * [How Alice and Bob meet if they don't like onions](https://events.ccc.de/congress/2017/Fahrplan/events/9104.html) by Muelli, Erik and Matthias [*] [*]
-* [Decoding Contactless (Card) Payments](https://events.ccc.de/congress/2017/Fahrplan/events/8965.html) by Simon Eumes
-* [Public FPGA based DMA Attacking](https://events.ccc.de/congress/2017/Fahrplan/events/9111.html) by Ulf Frisk
+* [Decoding Contactless (Card) Payments](https://events.ccc.de/congress/2017/Fahrplan/events/8965.html) by Simon Eumes [*]
+* [Public FPGA based DMA Attacking](https://events.ccc.de/congress/2017/Fahrplan/events/9111.html) by Ulf Frisk [*]
 
 #### fourth day
 
-* [library operating systems](https://events.ccc.de/congress/2017/Fahrplan/events/8949.html) by Mindy Preston
-* [Modern key distribution with ClaimChain](https://events.ccc.de/congress/2017/Fahrplan/events/9094.html) by Marios Isaakidis
-* [TrustZone is not enough](https://events.ccc.de/congress/2017/Fahrplan/events/8831.html) by Pascal Cotret
-* [Briar](https://events.ccc.de/congress/2017/Fahrplan/events/8937.html) by Torsten Grote
-* [Hardening Open Source Development](https://events.ccc.de/congress/2017/Fahrplan/events/9249.html) by gronke
-* [The Internet in Cuba: A Story of Community Resilience](https://events.ccc.de/congress/2017/Fahrplan/events/8740.html) by Will Scott and kopek
-* [MQA - A clever stealth DRM-Trojan](https://events.ccc.de/congress/2017/Fahrplan/events/9113.html) by Christoph Engemann
+* [library operating systems](https://events.ccc.de/congress/2017/Fahrplan/events/8949.html) by Mindy Preston [*] [*]
+* [Modern key distribution with ClaimChain](https://events.ccc.de/congress/2017/Fahrplan/events/9094.html) by Marios Isaakidis [*] [*]
+* [TrustZone is not enough](https://events.ccc.de/congress/2017/Fahrplan/events/8831.html) by Pascal Cotret [*] [*]
+* [Briar](https://events.ccc.de/congress/2017/Fahrplan/events/8937.html) by Torsten Grote [*] [*]
+* [Hardening Open Source Development](https://events.ccc.de/congress/2017/Fahrplan/events/9249.html) by gronke [*] [*]
+* [The Internet in Cuba: A Story of Community Resilience](https://events.ccc.de/congress/2017/Fahrplan/events/8740.html) by Will Scott and kopek [?]
+* [MQA - A clever stealth DRM-Trojan](https://events.ccc.de/congress/2017/Fahrplan/events/9113.html) by Christoph Engemann [*] [*] check papers
 * [Tracking Transience](https://events.ccc.de/congress/2017/Fahrplan/events/9281.html) by Hasan Elahi
-* [Type confusion: discovery, abuse, and protection](https://events.ccc.de/congress/2017/Fahrplan/events/8848.html) by gannimo
-* [SCADA - Gateway to (s)hell](https://events.ccc.de/congress/2017/Fahrplan/events/8956.html) by nezza
+* [Type confusion: discovery, abuse, and protection](https://events.ccc.de/congress/2017/Fahrplan/events/8848.html) by gannimo [*] [*]
+* [SCADA - Gateway to (s)hell](https://events.ccc.de/congress/2017/Fahrplan/events/8956.html) by nezza (*)
 
 ### RWC
 
