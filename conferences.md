@@ -1,24 +1,25 @@
 # Conferences
 
 ### CCC
-* [Dude, you broke the Future!](https://events.ccc.de/congress/2017/Fahrplan/events/9270.html) by Charles Stross
-* [eMMC hacking, or: how I fixed long-dead Galaxy S3 phones](https://events.ccc.de/congress/2017/Fahrplan/events/8784.html) by  oranav
+* [Dude, you broke the Future!](https://events.ccc.de/congress/2017/Fahrplan/events/9270.html) by Charles Stross [*]
+* [eMMC hacking, or: how I fixed long-dead Galaxy S3 phones](https://events.ccc.de/congress/2017/Fahrplan/events/8784.html) by  oranav [*] [*]
 * [End-to-end formal ISA verification of RISC-V processors with riscv-formal](https://events.ccc.de/congress/2017/Fahrplan/events/8768.html) by Clifford Wolf (*)
-* [Squeezing a key through a carry bit](https://events.ccc.de/congress/2017/Fahrplan/events/9021.html) by Filippo Valsorda
-* [How can you trust formally verified software?](https://events.ccc.de/congress/2017/Fahrplan/events/8915.html) by Alastair Reid
-* [BBSs and early Internet access in the 1990ies](https://events.ccc.de/congress/2017/Fahrplan/events/9034.html) by LaForge
-* [Inside Intel Management Engine](https://events.ccc.de/congress/2017/Fahrplan/events/8762.html) by Maxim Goryachy and Mark Ermolov
-* [1-day exploit development for Cisco IOS](https://events.ccc.de/congress/2017/Fahrplan/events/8936.html) by Artem Kondratenko
+* [Squeezing a key through a carry bit](https://events.ccc.de/congress/2017/Fahrplan/events/9021.html) by Filippo Valsorda [*]
+* [How can you trust formally verified software?](https://events.ccc.de/congress/2017/Fahrplan/events/8915.html) by Alastair Reid [*] [*]
+* [BBSs and early Internet access in the 1990ies](https://events.ccc.de/congress/2017/Fahrplan/events/9034.html) by LaForge (*) [*] [*]
+* [Inside Intel Management Engine](https://events.ccc.de/congress/2017/Fahrplan/events/8762.html) by Maxim Goryachy and Mark Ermolov [*] [*]
+* [1-day exploit development for Cisco IOS](https://events.ccc.de/congress/2017/Fahrplan/events/8936.html) by Artem Kondratenko [*] [*]
 * [Tightening the Net in Iran](https://events.ccc.de/congress/2017/Fahrplan/events/8900.html) by Mahsa Alimardani
-* [Lets break modern binary code obfuscation](https://events.ccc.de/congress/2017/Fahrplan/events/8789.html) by Tim Blazytko and Moritz Contag
-* [iOS kernel exploitation archaeology](https://events.ccc.de/congress/2017/Fahrplan/events/8720.html) by Patroklos Argyroudis
-* [Access To Bodies](https://events.ccc.de/congress/2017/Fahrplan/events/9040.html) by Nadja Buttendorf
-* [Defeating (Not)Petya's Cryptography](https://events.ccc.de/congress/2017/Fahrplan/events/8724.html) by Sebastian Eschweiler
-* [Microarchitectural Attacks on Trusted Execution Environments](https://events.ccc.de/congress/2017/Fahrplan/events/8950.html) by Keegan Ryan
-* [Catch me if you can: Internet Activism in Saudi Arabia](https://events.ccc.de/congress/2017/Fahrplan/events/9190.html) by Noujoum
-* [Doping your Fitbit](https://events.ccc.de/congress/2017/Fahrplan/events/8908.html) by Jiska and DanielAW
-* [BootStomp: On the Security of Bootloaders in Mobile Devices](https://events.ccc.de/congress/2017/Fahrplan/events/9205.html) by Audrey
-* [KRACKing WPA2 by Forcing Nonce Reuse](https://events.ccc.de/congress/2017/Fahrplan/events/9273.html) by Mathy Vanhoef
+  [*] [*] [*]
+* [Lets break modern binary code obfuscation](https://events.ccc.de/congress/2017/Fahrplan/events/8789.html) by Tim Blazytko and Moritz Contag [*] [*] Check the papers.
+* [iOS kernel exploitation archaeology](https://events.ccc.de/congress/2017/Fahrplan/events/8720.html) by Patroklos Argyroudis (*)
+* [Access To Bodies](https://events.ccc.de/congress/2017/Fahrplan/events/9040.html) by Nadja Buttendorf (*)
+* [Defeating (Not)Petya's Cryptography](https://events.ccc.de/congress/2017/Fahrplan/events/8724.html) by Sebastian Eschweiler [*] [*]
+* [Microarchitectural Attacks on Trusted Execution Environments](https://events.ccc.de/congress/2017/Fahrplan/events/8950.html) by Keegan Ryan (*)
+* [Catch me if you can: Internet Activism in Saudi Arabia](https://events.ccc.de/congress/2017/Fahrplan/events/9190.html) by Noujoum (*)
+* [Doping your Fitbit](https://events.ccc.de/congress/2017/Fahrplan/events/8908.html) by Jiska and DanielAW [*] [*]
+* [BootStomp: On the Security of Bootloaders in Mobile Devices](https://events.ccc.de/congress/2017/Fahrplan/events/9205.html) by Audrey [*]
+* [KRACKing WPA2 by Forcing Nonce Reuse](https://events.ccc.de/congress/2017/Fahrplan/events/9273.html) by Mathy Vanhoef [*]
 * [Practical Mix Network Design](https://events.ccc.de/congress/2017/Fahrplan/events/8974.html) by David Stainton and jeffburdges
 * [Mobile Data Interception from the Interconnection Link](https://events.ccc.de/congress/2017/Fahrplan/events/8879.html) by Dr. Silke Holtmanns
 * [We should share our secrets](https://events.ccc.de/congress/2017/Fahrplan/events/8885.html) by Daan Sprenkels
