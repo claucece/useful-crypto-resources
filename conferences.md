@@ -1,6 +1,9 @@
 # Conferences
 
 ### CCC
+
+#### first day
+
 * [Dude, you broke the Future!](https://events.ccc.de/congress/2017/Fahrplan/events/9270.html) by Charles Stross [*]
 * [eMMC hacking, or: how I fixed long-dead Galaxy S3 phones](https://events.ccc.de/congress/2017/Fahrplan/events/8784.html) by  oranav [*] [*]
 * [End-to-end formal ISA verification of RISC-V processors with riscv-formal](https://events.ccc.de/congress/2017/Fahrplan/events/8768.html) by Clifford Wolf (*)
@@ -20,26 +23,32 @@
 * [Doping your Fitbit](https://events.ccc.de/congress/2017/Fahrplan/events/8908.html) by Jiska and DanielAW [*] [*]
 * [BootStomp: On the Security of Bootloaders in Mobile Devices](https://events.ccc.de/congress/2017/Fahrplan/events/9205.html) by Audrey [*]
 * [KRACKing WPA2 by Forcing Nonce Reuse](https://events.ccc.de/congress/2017/Fahrplan/events/9273.html) by Mathy Vanhoef [*]
-* [Practical Mix Network Design](https://events.ccc.de/congress/2017/Fahrplan/events/8974.html) by David Stainton and jeffburdges
-* [Mobile Data Interception from the Interconnection Link](https://events.ccc.de/congress/2017/Fahrplan/events/8879.html) by Dr. Silke Holtmanns
-* [We should share our secrets](https://events.ccc.de/congress/2017/Fahrplan/events/8885.html) by Daan Sprenkels
-* [Deep Learning Blindspots](https://events.ccc.de/congress/2017/Fahrplan/events/8860.html) by Katharine Jarmul
-* [Reverse engineering FPGAs](https://events.ccc.de/congress/2017/Fahrplan/events/9237.html) by MathiasL
-* [May contain DTraces of FreeBSD](https://events.ccc.de/congress/2017/Fahrplan/events/9196.html) by raichoo
-* [Electromagnetic Threats for Information Security](https://events.ccc.de/congress/2017/Fahrplan/events/8920.html) by EMHacktivity and José Lopes Esteves
-* [Free Electron Lasers](https://events.ccc.de/congress/2017/Fahrplan/events/8832.html) by Thorsten
-* [Everything you want to know about x86 microcode, but might have been afraid to ask](https://events.ccc.de/congress/2017/Fahrplan/events/9058.html) by Benjamin Kollenda and Philipp Koppe
-* [avatar²](https://events.ccc.de/congress/2017/Fahrplan/events/9195.html) by nsr
-* [Console Security - Switch](https://events.ccc.de/congress/2017/Fahrplan/events/8941.html) by plutoo, derrek and naehwert
-* [Taking a scalpel to QNX](https://events.ccc.de/congress/2017/Fahrplan/events/8730.html) by Jos Wetzels and Ali Abbasi
-* [Intel ME: Myths and reality](https://events.ccc.de/congress/2017/Fahrplan/events/8782.html) by Igor Skochinsky and Nicola Corna
-* [The making of a chip](https://events.ccc.de/congress/2017/Fahrplan/events/9250.html) by Ari
-* [The Noise Protocol Framework](https://events.ccc.de/congress/2017/Fahrplan/events/9222.html) by Trevor Perrin
-* [LatticeHacks](https://events.ccc.de/congress/2017/Fahrplan/events/9075.html) by djb, Tanja Lange and Nadia Heninger
-* [ASLR on the line](https://events.ccc.de/congress/2017/Fahrplan/events/9135.html) by brainsmoke
-* [Implementing an LLVM based Dynamic Binary Instrumentation framework](https://events.ccc.de/congress/2017/Fahrplan/events/9006.html) by Charles Hubain and Cédric TESSIER
-* [Uncovering vulnerabilities in Hoermann BiSecur](https://events.ccc.de/congress/2017/Fahrplan/events/9029.html) by Markus Müllner and Markus Kammerstetter
-* [Robot Music](https://events.ccc.de/congress/2017/Fahrplan/events/9150.html) by jacob remin and goto80
+* [Practical Mix Network Design](https://events.ccc.de/congress/2017/Fahrplan/events/8974.html) by David Stainton and jeffburdges [*] [*]
+
+#### second day
+
+* [Mobile Data Interception from the Interconnection Link](https://events.ccc.de/congress/2017/Fahrplan/events/8879.html) by Dr. Silke Holtmanns [*] [*]
+* [We should share our secrets](https://events.ccc.de/congress/2017/Fahrplan/events/8885.html) by Daan Sprenkels [*] [*] check papers
+* [Deep Learning Blindspots](https://events.ccc.de/congress/2017/Fahrplan/events/8860.html) by Katharine Jarmul [*] [*] check papers
+* [Reverse engineering FPGAs](https://events.ccc.de/congress/2017/Fahrplan/events/9237.html) by MathiasL (*)
+* [May contain DTraces of FreeBSD](https://events.ccc.de/congress/2017/Fahrplan/events/9196.html) by raichoo (*)
+* [Electromagnetic Threats for Information Security](https://events.ccc.de/congress/2017/Fahrplan/events/8920.html) by EMHacktivity and José Lopes Esteves [*] [*]
+* [Free Electron Lasers](https://events.ccc.de/congress/2017/Fahrplan/events/8832.html) by Thorsten [*] [*]
+* [Everything you want to know about x86 microcode, but might have been afraid to ask](https://events.ccc.de/congress/2017/Fahrplan/events/9058.html) by Benjamin Kollenda and Philipp Koppe (*)
+* [avatar²](https://events.ccc.de/congress/2017/Fahrplan/events/9195.html) by nsr [*] [*]
+* [Console Security - Switch](https://events.ccc.de/congress/2017/Fahrplan/events/8941.html) by plutoo, derrek and naehwert [*] [*]
+* [Taking a scalpel to QNX](https://events.ccc.de/congress/2017/Fahrplan/events/8730.html) by Jos Wetzels and Ali Abbasi (*)
+* [Intel ME: Myths and reality](https://events.ccc.de/congress/2017/Fahrplan/events/8782.html) by Igor Skochinsky and Nicola Corna (*)
+* [The making of a chip](https://events.ccc.de/congress/2017/Fahrplan/events/9250.html) by Ari [*] [*]
+* [The Noise Protocol Framework](https://events.ccc.de/congress/2017/Fahrplan/events/9222.html) by Trevor Perrin (*)
+* [LatticeHacks](https://events.ccc.de/congress/2017/Fahrplan/events/9075.html) by djb, Tanja Lange and Nadia Heninger [*] [*]
+* [ASLR on the line](https://events.ccc.de/congress/2017/Fahrplan/events/9135.html) by brainsmoke (*)
+* [Implementing an LLVM based Dynamic Binary Instrumentation framework](https://events.ccc.de/congress/2017/Fahrplan/events/9006.html) by Charles Hubain and Cédric TESSIER (*)
+* [Uncovering vulnerabilities in Hoermann BiSecur](https://events.ccc.de/congress/2017/Fahrplan/events/9029.html) by Markus Müllner and Markus Kammerstetter [*] [*]
+* [Robot Music](https://events.ccc.de/congress/2017/Fahrplan/events/9150.html) by jacob remin and goto80 (*)
+
+#### thrid day
+
 * [library operating systems](https://events.ccc.de/congress/2017/Fahrplan/events/8949.html) by Mindy Preston
 * [Modern key distribution with ClaimChain](https://events.ccc.de/congress/2017/Fahrplan/events/9094.html) by Marios Isaakidis
 * [TrustZone is not enough](https://events.ccc.de/congress/2017/Fahrplan/events/8831.html) by Pascal Cotret
