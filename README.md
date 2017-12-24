@@ -28,6 +28,9 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 ### Multiparty
 * [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al.
 
+### Usability
+* [Improved User Authentication in Off-The-Record Messaging](http://www.cypherpunks.ca/~iang/pubs/impauth.pdf) by Chris Alexander and Ian Goldberg
+
 ## Signal Protocol
 
 * [A Formal Security Analysis of the Signal Messaging Protocol](https://eprint.iacr.org/2016/1013.pdf) by Katriel Cohn-Gordon, Cas Cremers, Benjamin Dowling, Luke Garratt and Douglas Stebila.
@@ -270,6 +273,9 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [BLAKE2: “Harder, Better, Faster, Stronger” Than MD5](https://leastauthority.com/blog/BLAKE2-harder-better-faster-stronger-than-MD5/) by  Zooko Wilcox-O'Hearn
 * [BLAKE 2: slides](https://blake2.net/acns/slides.html)
 * [BLAKE2 — fast secure hashing](https://blake2.net/)
+
+## Key generation function
+* [Argon2](https://en.wikipedia.org/wiki/Argon2)
 
 ## Random Number Generators
 * [Recommendation for Random Number Generation Using Deterministic Random Bit Generators](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-90Ar1.pdf) by NIST
