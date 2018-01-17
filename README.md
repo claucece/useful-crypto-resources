@@ -48,6 +48,11 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ### Stream cipher
 
+#### Nonce
+* [Introducing Miscreant: a multi-language misuse resistant encryption library](https://tonyarcieri.com/introducing-miscreant-a-multi-language-misuse-resistant-encryption-library) by Tony Arceri
+* [Nonce misuse resistance 101](https://www.lvh.io/posts/nonce-misuse-resistance-101.html) by lvh
+* [Online Authenticated-Encryption and its Nonce-Reuse Misuse-Resistance](http://web.cs.ucdavis.edu/~rogaway/papers/oae.pdf) by Viet Tung Hoang, Reza Reyhanitabar, Phillip Rogaway and Damian Vizár
+
 #### Salsa 20
 * [Salsa20 security](https://cr.yp.to/snuffle/security.pdf) by Daniel J. Bernstein.
 * [Notes on the Salsa20 key size](https://cr.yp.to/snuffle/keysizes.pdf) by Daniel J. Bernstein.
@@ -304,6 +309,12 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Schnorr Signatures: An Overview](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/topics-and-advance-readings/Schnorr-Signatures--An-Overview.md) by Christopher Allen.
 * [Multi-user Schnorr security, revisited](https://ed25519.cr.yp.to/multischnorr-20151012.pdf) by Daniel J. Bernstein, Niels Duif, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 * [Fast and compact elliptic-curve cryptography](https://eprint.iacr.org/2012/309.pdf) by Mike Hamburg
+* [Efficient Ring Signatures without Random Oracles](https://eprint.iacr.org/2006/289.pdf) by Hovav Shacham and Brent Waters
+* [Efficient Signature Generation by Smart Cards](https://www.researchgate.net/profile/Claus_Schnorr/publication/227088517_Efficient_signature_generation_by_smart_cards/links/0046353849579ce09c000000.pdf) by C. P. Schnorr
+* [Proofs of Partial Knowledge and Simplified Design of Witness Hiding Protocols](http://www.win.tue.nl/~berry/papers/crypto94.pdf) by Ronald Cramer, Ivan Damgard, Aarhus University and Berry Schoenmakers
+
+### Hash-based signatures
+* [SPHINCS: practical stateless hash-based signatures](https://eprint.iacr.org/2014/795.pdf) by Daniel J. Bernstein, Daira Hopwood, Andreas Hülsing, Tanja Lange, Ruben Niederhagen, Louiza Papachristodoulou, Michael Schneider, Peter Schwabe and Zooko Wilcox-O’Hearn
 
 ### EdDSA
 * [Edwards-curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/draft-irtf-cfrg-eddsa-05): The elliptic curve signature scheme Edwards-curve Digital Signature Algorithm (EdDSA) is described by S. Josefsson.
@@ -363,6 +374,7 @@ by H. Orman
 * [Chosen-Ciphertext Security of Multiple Encryption](https://www.cs.nyu.edu/~dodis/ps/2enc.pdf) by Yevgeniy Dodis and Jonathan Katz.
 * [Encryption Works](https://github.com/freedomofpress/encryption-works/blob/master/original/encryption_works.pdf) by FOPsF
 * [Project Wycheproof](https://github.com/google/wycheproof)
+* [Universally Composable Security: A New Paradigm for Cryptographic Protocols](https://eprint.iacr.org/2000/067.pdf) by Ran Canetti
 
 ## Compendia
 * [Theory of Cryptography: 9th Theory of Cryptography Conference, TCC 2012](https://books.google.com.ec/books?id=iWirCAAAQBAJ&pg=PA223&lpg=PA223&dq=malleable+symmetric+schemes&source=bl&ots=3oszTtlOhU&sig=evzVsQk3DbLMdkZLVY_O6RD5BfQ&hl=en&sa=X&ved=0ahUKEwjrh4XU2rPPAhUFox4KHY-UAS0Q6AEIKjAD#v=onepage&q=malleable%20symmetric%20schemes&f=false), edited by Ronald Cramer.

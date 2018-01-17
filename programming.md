@@ -190,8 +190,13 @@
 ### Runtime
 * [package](https://golang.org/pkg/runtime/#hdr-Environment_Variables)
 
-### gdb
+### Routines
+* [Debugging Go Routine leaks](https://blog.minio.io/debugging-go-routine-leaks-a1220142d32c) by Karthic Rao
+
+### Debugging
 * [Debuggin code](https://golang.org/doc/gdb)
+* [Debugging Go programs with Delve](https://blog.gopheracademy.com/advent-2015/debugging-with-delve/) by Derek Parker
+* [A brief intro of delve](http://nanxiao.me/en/a-brief-intro-of-delve/) by Nan Xiao
 
 ### Assembly
 * [Advanced Vector Extensions](https://en.wikipedia.org/wiki/Advanced_Vector_Extensions)
@@ -305,6 +310,19 @@
 
 ### Undefined behavior
 * [Undefined Behavior: What Happened to My Code?](https://people.csail.mit.edu/nickolai/papers/wang-undef-2012-08-21.pdf) by Xi Wang, Haogang Chen, Alvin Cheung, Zhihao Jia, Nickolai Zeldovich M. and Frans Kaashoek
+
+### Security
+* [Uncontrolled format string](https://en.wikipedia.org/wiki/Uncontrolled_format_string)
+
+### Memset
+* [Beware of compiler optimizations](https://wiki.sei.cmu.edu/confluence/display/c/MSC06-C.+Beware+of+compiler+optimizations)
+* [The compiler could delete the 'memset' function call, which is used to flush 'Foo' buffer. The RtlSecureZeroMemory() function should be used to erase the private data](https://www.viva64.com/en/w/v597/)
+* [Overwriting memory](https://www.viva64.com/en/k/0041/)
+* [Safe Clearing of Private Data](https://www.viva64.com/en/b/0388/)
+* [Security, security! But do you test it?](https://www.viva64.com/en/b/0178/)
+* [Zero and forget -- caveats of zeroing memory in C](http://web.archive.org/web/20160304012102/http:/www.eliteraspberries.com/blog/2012/10/zero-and-forget--caveats-of-zeroing-memory-in-c.html)
+* [The most dangerous function in the C/C++ world
+ 03.12.2015](https://www.viva64.com/en/b/0360/)
 
 ### Libraries
 
