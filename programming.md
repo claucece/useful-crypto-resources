@@ -328,6 +328,7 @@
 
 #### Tools for C libraries
 * [Tooling](https://developer.gnome.org/programming-guidelines/stable/tooling.html.en)
+* [gprof](http://web.eecs.umich.edu/~sugih/pointers/gprof_quick.html)
 
 #### Libgcrypt
 * [Libgcrypt Library](https://www.gnupg.org/documentation/manuals/gcrypt/index.html#SEC_Contents)
