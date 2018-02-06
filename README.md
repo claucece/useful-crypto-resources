@@ -124,6 +124,10 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [A Public Key Cryptosystem and a Signature Scheme Based on Discrete Logarithms](http://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf) by Taher ElGamal
 * [ElGamal:Public-Key Cryptosystem](http://cs.indstate.edu/~jgrewal/steps.pdf) by Jaspreet Kaur Grewal
 
+### Dual Receiver Encryption
+* [The Dual Receiver Cryptosystem and Its Applications](https://www.cs.columbia.edu/~angelos/Papers/combo.pdf) by Theodore Diament, Homin K. Lee, Angelos D. Keromytis and Moti Yung
+* [Practical Dual-Receiver Encryption Soundness, Complete Non-Malleability, and Applications](https://eprint.iacr.org/2013/858.pdf) by Sherman S.M. Chow, Matthew Franklin, and Haibin Zhang
+
 ### Elliptic Curve
 
 #### Theory
