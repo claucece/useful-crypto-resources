@@ -12,7 +12,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Deniable Authentication and Key Exchange](https://eprint.iacr.org/2006/280.ps) by Mario Di Raimondo, Rosario Gennaro and Hugo Krawczyk
 * [A non-interactive deniable authentication scheme in the standard model](https://pdfs.semanticscholar.org/61bb/605cba4226c15b2733e6e8ee22d900a9200b.pdf?_ga=2.69522008.931186499.1496171578-1355135719.1496171572) by Bin Wang, Qing Zhao and Ke Dai
 * [A non-interactive deniable authentication scheme in the standard model](https://www.semanticscholar.org/paper/A-non-interactive-deniable-authentication-scheme-i-Wang-Zhao/61bb605cba4226c15b2733e6e8ee22d900a9200b) by Bin Wang, Qing Zhao and Ke Dai
-
+* [Authenticated Key Exchange from Ideal Lattices](https://eprint.iacr.org/2014/589.pdf) by Jiang Zhang, Zhenfeng Zhang, Jintai Ding, Michael Snook, and Ozgür Dagdelen
 
 ## OTR
 
@@ -102,6 +102,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Diffie-Hellman Key Agreement Method](https://tools.ietf.org/html/rfc2631) by E. Rescorla
 * [Additional Diffie-Hellman Groups for Use with IETF Standards](https://tools.ietf.org/html/rfc5114) by M. Lepinski and S. Kent
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf) by Hugo Krawczyk
+* [More Modular Exponential (MODP) Diffie-Hellman groups for Internet Key Exchange (IKE)](https://www.ietf.org/rfc/rfc3526.txt) by T. Kivinen and M. Kojo
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
