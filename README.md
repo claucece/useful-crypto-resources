@@ -171,6 +171,9 @@ René Struik and Scott Vanstone
 * [Elliptic Curve Cryptography in Practice](https://eprint.iacr.org/2013/734.pdf) by Joppe W. Bos, J. Alex Halderman, Nadia Heninger, Jonathan Moore, Michael Naehrig and Eric Wustrow
 * [Why Ellipses Are Not Elliptic Curves](https://www.maa.org/sites/default/files/pdf/upload_library/2/Rice-2013.pdf) by Adrian Rice and Ezra Brown
 * [Visualization](http://ecc.iteg.at/) by Wolfgang Glas
+* [Elliptic Curves, Group Law, and Efficient Computation](https://core.ac.uk/download/pdf/10898289.pdf) by Hüseyin Hisil. The
+  [presentation](https://www.ucc.ie/en/media/academic/centreforplanningeducationresearch/EDawson.pdf)
+* [Some notes](https://crypto.stanford.edu/pbc/notes/elliptic/group.html) by Benn Lynn
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
