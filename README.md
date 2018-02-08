@@ -30,6 +30,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ### Usability
 * [Improved User Authentication in Off-The-Record Messaging](http://www.cypherpunks.ca/~iang/pubs/impauth.pdf) by Chris Alexander and Ian Goldberg
+* [A User Study of Off-the-Record Messaging](http://www.cypherpunks.ca/~iang/pubs/otr_userstudy.pdf) by Ryan Stedman, Kayo Yoshida and Ian Goldberg
 
 ## Signal Protocol
 
