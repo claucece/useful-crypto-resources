@@ -14,6 +14,11 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [A non-interactive deniable authentication scheme in the standard model](https://www.semanticscholar.org/paper/A-non-interactive-deniable-authentication-scheme-i-Wang-Zhao/61bb605cba4226c15b2733e6e8ee22d900a9200b) by Bin Wang, Qing Zhao and Ke Dai
 * [Authenticated Key Exchange from Ideal Lattices](https://eprint.iacr.org/2014/589.pdf) by Jiang Zhang, Zhenfeng Zhang, Jintai Ding, Michael Snook, and Ozgür Dagdelen
 
+## Network Protocols
+
+* [Security Analysis of Network Protocols](http://web.stanford.edu/class/cs259/WWW08/slides/01-Introduction.pdf) by John Mitchell
+
+
 ## OTR
 
 ### OTRv2
@@ -175,6 +180,13 @@ René Struik and Scott Vanstone
 * [Elliptic Curves, Group Law, and Efficient Computation](https://core.ac.uk/download/pdf/10898289.pdf) by Hüseyin Hisil. The
   [presentation](https://www.ucc.ie/en/media/academic/centreforplanningeducationresearch/EDawson.pdf)
 * [Some notes](https://crypto.stanford.edu/pbc/notes/elliptic/group.html) by Benn Lynn
+* [SEC 1: Elliptic Curve Cryptography](http://www.secg.org/sec1-v2.pdf) by Daniel R. L. Brown
+
+#### Encoding
+* [Rational points on certain hyperelliptic curves over finite fields](https://arxiv.org/pdf/0706.1448.pdf) by Maciej Ulas
+* [Construction of Rational Points on Elliptic Curves over Finite Fields](https://pdfs.semanticscholar.org/8986/08930ce6485a61f2f37977fc7f6420093710.pdf) by Andrew Shallue and Christiaan E. van de Woestijne
+* [Compression and decompression of elliptic curve data points](https://patents.google.com/patent/US6252960)
+* [Encoding points in hyperelliptic curves over finite fields in deterministic polynomial time](https://arxiv.org/pdf/1005.1454.pdf) by Jean-Gabriel Kammerer, Reynald Lercier, and Guénaël Renault
 
 #### Twist
 * [Twist Insecurity](http://eprint.iacr.org/2015/577.pdf) by Manfred Lochter and Andreas Wiemers
@@ -339,6 +351,7 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 Daemen, and Ruggero Susella
 * [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
 Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
+* [EdDSA for more curves](https://eprint.iacr.org/2015/677.pdf) by Daniel J. Bernstein, Simon Josefsson, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 
 ### XEdDSA
 * [The XEdDSA and VXEdDSA Signature Schemes](https://whispersystems.org/docs/specifications/xeddsa/#curve448) by Trevor Perrin.
@@ -466,6 +479,9 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 
 ## Passwords
 * [SPHINX: A Password Store that Perfectly Hides from ItselfSPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
+
+## Cryptocurrencies
+* [ZCash Ceremony](http://www.radiolab.org/story/ceremony/)
 
 ## Usability
 * [Obstacles to the Adoption of Secure Communication Tools](http://www.jbonneau.com/doc/ASBDNS17-IEEESP-secure_messaging_obstacles.pdf) by Ruba Abu-Salma, Anastasia Danilova, M. Angela Sasse, Alena Naiakshina, Joseph Bonneau and Matthew Smith
