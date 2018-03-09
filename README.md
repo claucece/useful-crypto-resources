@@ -209,6 +209,7 @@ René Struik and Scott Vanstone
 * [Explicit Addition Formulae](https://crypto.stanford.edu/pbc/notes/elliptic/explicit.html)
 * [Elliptic curve point multiplication](https://en.wikipedia.org/wiki/Elliptic_curve_point_multiplication#Point_multiplication)
 * [Elliptic vs. hyperelliptic](https://cr.yp.to/talks/2006.09.20/slides.pdf) by Daniel Bernstein
+* [Operations](http://www.hyperelliptic.org/EFD/g1p/auto-edwards-projective.html#addition-add-2007-bl) by Tanja Lange
 
 #### Courses
 * [MIT course](https://ocw.mit.edu/courses/mathematics/18-783-elliptic-curves-spring-2017/lecture-notes/)
