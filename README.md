@@ -82,6 +82,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ### Theory
 * [Entity Authentication and Key Distribution](https://cseweb.ucsd.edu/~mihir/papers/eakd.pdf) by Mihir Bellare and Phillip Rogaway
+* [Key Agreement Protocols and their Security Analysis](https://pdfs.semanticscholar.org/fdb0/3a4a533e09b71b18045ba85ba9978de65a2d.pdf) by Simon Blake-Wilson, Don Johnson and Alfred Menezes.
 
 ### With Anonymous Authentication
 * [Key Exchange with Anonymous Authentication using DAA-SIGMA Protocol](https://eprint.iacr.org/2010/454.pdf) by Jesse Walker and Jiangtao Li
