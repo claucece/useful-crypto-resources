@@ -373,6 +373,13 @@ Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 ### The Random Oracle Model
 * [The random oracle model: a twenty-year retrospective](https://eprint.iacr.org/2015/140.pdf) by Neal Koblitz and Alfred J. Menezes.
 
+## Formal Verifications
+* [C murphi](http://mclab.di.uniroma1.it/site/index.php/software/18-cmurphi).
+* [Formal verification group webpage](http://formalverification.cs.utah.edu/classic/) by the University of Utah (archived)
+* [Eddy Murphi](http://formalverification.cs.utah.edu/EddyMurphi/)
+* [Murphi Model Checker](http://formalverification.cs.utah.edu/Murphi/index.html)
+* [Nik Unger pull request on CMurphi](https://bitbucket.org/mclab/cmurphi/pull-requests/1/make-cmurphi-work-with-modern-optimizing/diff)
+
 ## Protocol
 
 ### Sociallist Millionaire Protocol (SMP)
