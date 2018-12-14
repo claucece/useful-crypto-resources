@@ -415,6 +415,12 @@
 ## Travis
 * [Customizing the Build](https://docs.travis-ci.com/user/customizing-the-build/)
 
+## Testing
+
+* [Interesting table by Cindy Sridharan](https://twitter.com/peter_a_goodman/status/1070337822580793345)
+* [Hardware Memory Tagging to make C_C++ memory safe(r) - iSecCon 2018.pdf](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe(r)%20-%20iSecCon%202018.pdf) by Kostya Serebryany
+* [Memory Tagging and how it improvesC/C++ memory safety](https://arxiv.org/pdf/1802.09517.pdf)
+
 ----------------------------------------------------------------------------
 
 # Theory
