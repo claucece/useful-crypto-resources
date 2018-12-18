@@ -493,6 +493,9 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 ## Cryptocurrencies
 * [ZCash Ceremony](http://www.radiolab.org/story/ceremony/)
 
+### Bitcoin
+* [Bitcoin and Cryptocurrency Technologies](https://lopp.net/pdf/princeton_bitcoin_book.pdf) by Arvind Narayanan, Joseph Bonneau, Edward Felten, Andrew Miller and Steven Goldfeder
+
 ## Usability
 * [Obstacles to the Adoption of Secure Communication Tools](http://www.jbonneau.com/doc/ASBDNS17-IEEESP-secure_messaging_obstacles.pdf) by Ruba Abu-Salma, Anastasia Danilova, M. Angela Sasse, Alena Naiakshina, Joseph Bonneau and Matthew Smith
 
@@ -509,3 +512,4 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Tor Browser Bundle - iSEC Deliverable 1.3](https://github.com/iSECPartners/publications/blob/052caf9c9c683ec0bed55782714df4d35c38f107/reports/Tor%20Browser%20Bundle/Tor%20Browser%20Bundle%20-%20iSEC%20Deliverable%201.3.pdf)
 * [Privacy Enhancement for Internet Electronic Mail: Part I -- Message Encipherment and Authentication Procedures](https://tools.ietf.org/html/rfc1113) by J. Linn
 * [Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies](https://tools.ietf.org/html/rfc2045) by N. Freed and N. Borenstein
+* [Exploiting mathematical structures in cryptography](https://pure.tue.nl/ws/files/97946090/20180605_Vredendaal.pdf) by van Vredendaal, C
