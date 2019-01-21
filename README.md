@@ -4,6 +4,8 @@
 * [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
 by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Challenges in Authenticated Encryption](https://chae.cr.yp.to/chae-20170301.pdf) by Daniel J. Bernstein
+* [The Uneasy Relationship Between Mathematics and Cryptography](https://www.ams.org/notices/200708/tx070800972p.pdf) by Neal Koblitz
+* [Another Look at “Provable Security”](https://eprint.iacr.org/2004/152.pdf) by Neal Koblitz and Alfred J. Menezes
 
 ## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
@@ -62,6 +64,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 #### Salsa 20
 * [Salsa20 security](https://cr.yp.to/snuffle/security.pdf) by Daniel J. Bernstein.
 * [Notes on the Salsa20 key size](https://cr.yp.to/snuffle/keysizes.pdf) by Daniel J. Bernstein.
+* [Notes](https://cr.yp.to/snuffle.html)
 
 #### XSalsa20
 * [Extending the Salsa20 nonce](http://cr.yp.to/snuffle/xsalsa-20081128.pdf) by Daniel J. Bernstein.
@@ -486,6 +489,9 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Malwaretech](https://www.malwaretech.com/)
 * [Common Patterns of Virus Research](http://computervirus.uw.hu/ch02lev1sec1.html)
 * [Automatic Transfer Systems (ATS) for Beginners](https://www.malwaretech.com/2016/08/automatic-transfer-systems-ats-for-beginners.html) by MalwareTech
+
+## MPC
+* [A Full CryptoCurrency Custody Solution Based on MPC and Threshold ECDSA](https://www.youtube.com/watch?v=Qv4-vh-KJ1s&feature=youtu.be) by Yehuda Lindell
 
 ## Passwords
 * [SPHINX: A Password Store that Perfectly Hides from ItselfSPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
