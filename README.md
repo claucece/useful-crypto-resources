@@ -381,7 +381,15 @@ Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 * [Formal verification group webpage](http://formalverification.cs.utah.edu/classic/) by the University of Utah (archived)
 * [Eddy Murphi](http://formalverification.cs.utah.edu/EddyMurphi/)
 * [Murphi Model Checker](http://formalverification.cs.utah.edu/Murphi/index.html)
-* [Nik Unger pull request on CMurphi](https://bitbucket.org/mclab/cmurphi/pull-requests/1/make-cmurphi-work-with-modern-optimizing/diff
+* [Nik Unger pull request on CMurphi](https://bitbucket.org/mclab/cmurphi/pull-requests/1/make-cmurphi-work-with-modern-optimizing/diff)
+
+## Mix networks
+
+* [Sphinx: A Compact and Provably Secure Mix Format](https://www.cypherpunks.ca/~iang/pubs/Sphinx_Oakland09.pdf) by George Danezis and Ian Goldberg.
+
+## Anonimity
+
+* [Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency—Choose Two](https://eprint.iacr.org/2017/954.pdf) by Debajyoti Das, Sebastian Meiser, Esfandiar Mohammadi and Aniket Kate
 
 ## Protocol
 
@@ -426,7 +434,7 @@ by H. Orman
 * [A Practical Second-Order Fault Attack against a Real-World Pairing Implementation](https://eprint.iacr.org/2014/543.pdf) by Johannes Blomer, Ricardo Gomes da Silva, Peter Gunther, Juliane Kramer and Jean-Pierre Seifert
 
 ### Nik Unger otr implementation
-* [Off-the-Record Messaging](https://crysp.uwaterloo.ca/software/) by Ian Goldberg.
+* [Off-the-Record Messaging](https://crysp.uwaterloo.ca/software/) by Nik Unger.
 
 ### General
 * [Crypto++ 5.6.5](https://www.cryptopp.com/release565.html)
