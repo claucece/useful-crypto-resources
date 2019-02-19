@@ -386,6 +386,9 @@ Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 ## Mix networks
 
 * [Sphinx: A Compact and Provably Secure Mix Format](https://www.cypherpunks.ca/~iang/pubs/Sphinx_Oakland09.pdf) by George Danezis and Ian Goldberg.
+* [From a Trickle to a Flood: Active Attacks on Several Mix Types](https://www.freehaven.net/doc/batching-taxonomy/taxonomy.pdf) by Andrei Serjantov, Roger Dingledine and Paul Syverson
+* [Heartbeat Traffic to Counter (n-1) Attacks](https://www.freehaven.net/anonbib/cache/danezis:wpes2003.pdf) by George Danezis and Len Sassaman
+* [The Loopix Anonymity System](https://arxiv.org/pdf/1703.00536.pdf) by Ania Piotrowska, Jamie Hayes, Tariq Elahi, Sebastian Meiser and George Danezis
 
 ## Anonimity
 
