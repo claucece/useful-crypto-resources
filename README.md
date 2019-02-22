@@ -462,6 +462,7 @@ by H. Orman
 * [Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf) by Richard Feynman
 * [Quantum Mechanical Computers](http://www.quantum-dynamic.eu/doc/feynman85_qmc_optics_letters.pdf) by Richard Feynman
 * [Worst-Case to Average-Case Reductions for Module Lattices](http://perso.ens-lyon.fr/damien.stehle/downloads/MSIS.pdf)
+* [Quantum Computing And The New IT Revolution](https://modernciso.com/2019/02/20/quantum-computing-and-the-new-it-revolution/) by Tommaso Gagliardoni
 
 ## PostQuantum Crypto
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
@@ -530,3 +531,8 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Privacy Enhancement for Internet Electronic Mail: Part I -- Message Encipherment and Authentication Procedures](https://tools.ietf.org/html/rfc1113) by J. Linn
 * [Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies](https://tools.ietf.org/html/rfc2045) by N. Freed and N. Borenstein
 * [Exploiting mathematical structures in cryptography](https://pure.tue.nl/ws/files/97946090/20180605_Vredendaal.pdf) by van Vredendaal, C
+
+## Password managers
+
+* [Password Managers: Under the Hood of Secrets Management](https://www.securityevaluators.com/casestudies/password-manager-hacking/)
+* [Recovering the Master Password from a Locked Password Manager (1Password 4)](https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907) by Adrian Bednarek
