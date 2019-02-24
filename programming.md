@@ -421,6 +421,10 @@
 * [Hardware Memory Tagging to make C_C++ memory safe(r) - iSecCon 2018.pdf](https://github.com/google/sanitizers/blob/master/hwaddress-sanitizer/Hardware%20Memory%20Tagging%20to%20make%20C_C%2B%2B%20memory%20safe(r)%20-%20iSecCon%202018.pdf) by Kostya Serebryany
 * [Memory Tagging and how it improvesC/C++ memory safety](https://arxiv.org/pdf/1802.09517.pdf)
 
+## Fuzzing
+
+* [ClusterFuzz](https://github.com/google/clusterfuzz)
+* [OSS-Fuzz - Continuous Fuzzing for Open Source Software](https://github.com/google/oss-fuzz)
 ----------------------------------------------------------------------------
 
 # Theory
