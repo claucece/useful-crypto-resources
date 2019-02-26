@@ -111,7 +111,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Diffie-hellman](https://www.cryptopp.com/wiki/Diffie-hellman#Key_Agreement_and_Transport) by Crypto++
 * [Public key parameters](http://cacr.uwaterloo.ca/hac/about/chap4.pdf#page=164)
 * [A One Round Protocol for Tripartite Diffie–Hellman](https://pdfs.semanticscholar.org/845e/96c20e5a5ff3b03f4caf72c3cb817a7fa542.pdf) by Antoine Joux
-* [The Decision Die-Hellman Problem](http://crypto.stanford.edu/~dabo/pubs/papers/DDH.pdf) by Dan Boneh
+* [The Decision Diffie-Hellman Problem](http://crypto.stanford.edu/~dabo/pubs/papers/DDH.pdf) by Dan Boneh
 * [On Diffie-Hellman key agreement with short exponents](https://www.google.com.ec/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwitwcqf_ObVAhVE5iYKHZ3VA0IQFggkMAA&url=https%3A%2F%2Fpdfs.semanticscholar.org%2F2b39%2F13d1dfcb1dc90463a37edfe606922f093e97.pdf&usg=AFQjCNEm-aBpKhd81J4NHqA81MLS0DOK9g) by P. C. van Oorschot and M. J. Wiener
 * [Diffie-Hellman Key Agreement Method](https://tools.ietf.org/html/rfc2631) by E. Rescorla
 * [Additional Diffie-Hellman Groups for Use with IETF Standards](https://tools.ietf.org/html/rfc5114) by M. Lepinski and S. Kent
