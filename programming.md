@@ -302,6 +302,8 @@
 * [Clang format vim](https://gist.github.com/fasiha/8af2a4f719812319934947124bb63afd)
 * [Clang format](https://clang.llvm.org/docs/ClangFormat.html)
 
+### LLVM
+* [Friday Hacks #112 - Make your own LLVM compiler - NUS Hackers](https://www.youtube.com/watch?v=OhkwPSvyBu0) by Omer Iqbal
 ### Macro
 * [M4](https://www3.physnet.uni-hamburg.de/physnet/Tru64-Unix/HTML/APS32DTE/M4XXXXXX.HTM)
 
