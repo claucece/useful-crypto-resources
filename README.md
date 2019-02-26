@@ -3,9 +3,14 @@
 ## General
 * [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
 by Danny Dolev, Cynthia Dwork, Moni Naor
-* [Challenges in Authenticated Encryption](https://chae.cr.yp.to/chae-20170301.pdf) by Daniel J. Bernstein
 * [The Uneasy Relationship Between Mathematics and Cryptography](https://www.ams.org/notices/200708/tx070800972p.pdf) by Neal Koblitz
 * [Another Look at “Provable Security”](https://eprint.iacr.org/2004/152.pdf) by Neal Koblitz and Alfred J. Menezes
+
+## Authenticated Encryption
+
+* [Challenges in Authenticated Encryption](https://chae.cr.yp.to/chae-20170301.pdf) by Daniel J. Bernstein
+* [Boosting Authenticated Encryption Robustness With Minimal Modifications](https://eprint.iacr.org/2017/239.pdf) by Tomer Ashur, Orr Dunkelman
+, and Atul Luykx
 
 ## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
@@ -19,7 +24,6 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 ## Network Protocols
 
 * [Security Analysis of Network Protocols](http://web.stanford.edu/class/cs259/WWW08/slides/01-Introduction.pdf) by John Mitchell
-
 
 ## OTR
 
