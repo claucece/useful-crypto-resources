@@ -75,6 +75,15 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Notes on the Salsa20 key size](https://cr.yp.to/snuffle/keysizes.pdf) by Daniel J. Bernstein.
 * [Implementation](https://github.com/golang/crypto/blob/master/nacl/secretbox/secretbox.go) in NaCl
 
+#### ChaCha20
+* [ChaCha20 and Poly1305 for IETF Protocols](https://tools.ietf.org/html/rfc7539) by Y. Nir and A. Langley
+* [ChaCha20-Poly1305 Cipher Suites for Transport Layer Security (TLS)](https://tools.ietf.org/html/draft-ietf-tls-chacha20-poly1305-04) by A. Langley, W. Chang,  N. Mavrogiannopoulos, J. Strombergson and S. Josefsson
+
+#### Analysis of Salsa, ChaCha and Rumba
+
+* [New Features of Latin Dances: Analysis of Salsa, ChaCha, and Rumba](http://cr.yp.to/rumba20/newfeatures-20071218.pdf) by Jean-Philippe Aumasson, Simon Fischer, Shahram Khazaei, Willi Meier, and Christian Rechberger
+* [Improved Key Recovery Attacks on Reduced-Round Salsa20 and ChaCha](https://link.springer.com/chapter/10.1007/978-3-642-37682-5_24) by Zhenqing Shi, Bin Zhang, Dengguo Feng and Wenling Wu
+
 ### Blockcipher
 
 #### In general

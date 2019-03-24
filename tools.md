@@ -12,3 +12,8 @@
 * [torsocks macos](https://lorenzo.mile.si/torsocks-macos-is-located-directory-protected-apples-system-integrity-protection/201/)
   by maxxer
 * [osx-tor](https://github.com/b4rton/osx-tor)
+
+### Encrypted data
+
+* [SaltPack](https://saltpack.org/)
+* [SaltPack repo](https://github.com/keybase/saltpack)
