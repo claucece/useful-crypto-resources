@@ -38,6 +38,8 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ### Multiparty
 * [Multi-party Off-the-Record Messaging](https://www.cypherpunks.ca/~iang/pubs/mpotr.pdf) by Ian Golberg et Al.
+* [Improved Group Off-the-Record Messaging](https://www-users.cs.umn.edu/~hoppernj/gotr.pdf) by Hong Liu, Eugene Y. Vasserman and Nicholas Hopper
+* [Improved Deniable Signature Key Exchange for mpOTR](https://matt.singlethink.net/projects/mpotr/improved-dske.pdf) by Matthew Van Gundy
 
 ### Usability
 * [Improved User Authentication in Off-The-Record Messaging](http://www.cypherpunks.ca/~iang/pubs/impauth.pdf) by Chris Alexander and Ian Goldberg
@@ -48,6 +50,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [A Formal Security Analysis of the Signal Messaging Protocol](https://eprint.iacr.org/2016/1013.pdf) by Katriel Cohn-Gordon, Cas Cremers, Benjamin Dowling, Luke Garratt and Douglas Stebila.
 * [How Secure is TextSecure?](https://eprint.iacr.org/2014/904.pdf) by Tilman Frosch, Christian Mainka, Christoph Bader, Florian Bergsma, Jorg Schwenk and Thorsten Holz.
 * [Technology preview: Private contact discovery for Signal](https://signal.org/blog/private-contact-discovery/)
+* [Is Bob Sending Mixed Signals?](https://www-users.cs.umn.edu/~hoppernj/mixed_signals_wpes17.pdf) by Michael Schliep, Ian Kariniemi and Nicholas Hopper.
 
 
 ## Zero Knowledge Proof
