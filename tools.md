@@ -17,3 +17,8 @@
 
 * [SaltPack](https://saltpack.org/)
 * [SaltPack repo](https://github.com/keybase/saltpack)
+
+### LaTex
+
+* [Tutorial](https://es.overleaf.com/learn/latex/Paragraphs_and_new_lines)
+* [Springer Lecture Notes in Computer Science](https://www.overleaf.com/project)
