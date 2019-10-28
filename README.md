@@ -129,6 +129,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Additional Diffie-Hellman Groups for Use with IETF Standards](https://tools.ietf.org/html/rfc5114) by M. Lepinski and S. Kent
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf) by Hugo Krawczyk
 * [More Modular Exponential (MODP) Diffie-Hellman groups for Internet Key Exchange (IKE)](https://www.ietf.org/rfc/rfc3526.txt) by T. Kivinen and M. Kojo
+* [IEEE Standard Specifications for Public-Key Cryptography](https://perso.telecom-paristech.fr/guilley/recherche/cryptoprocesseurs/ieee/00891000.pdf)
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
@@ -468,6 +469,7 @@ by H. Orman
 * [HACL: A Verified Modern Cryptographic Library](https://eprint.iacr.org/2017/536.pdf) by Jean Karim Zinzindohoué, Karthikeyan Bhargavan, Jonathan Protzenko and Benjamin Beurdouche
 * [Several](https://cryptojedi.org/crypto)
 * [Privacy Pass](https://medium.com/@alxdavids/privacy-pass-6f0acf075288) by Alex Davidson
+* [Apache Milagro Crypto Library](http://milagro.apache.org/files/amcl-doxygen-1.0.0.pdf)
 
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
