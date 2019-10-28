@@ -22,3 +22,8 @@
 
 * [Tutorial](https://es.overleaf.com/learn/latex/Paragraphs_and_new_lines)
 * [Springer Lecture Notes in Computer Science](https://www.overleaf.com/project)
+
+### Thunderbird
+
+* [Enigmail FAQ](https://enigmail.net/index.php/en/faq?view=topic&id=14)
+* [Set up PGP](https://riseup.net/en/security/message-security/openpgp/enigmail)
