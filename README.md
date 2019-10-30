@@ -508,6 +508,11 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [An Efficient Quantum Collision Search Algorithm and Implications on Symmetric Cryptography](https://eprint.iacr.org/2017/847.pdf) by André Chailloux, María Naya-Plasencia, and André Schrottenloher
 * [Low-communication parallel quantum multi-target preimage search](https://eprint.iacr.org/2017/789.pdf) by Gustavo Banegas and Daniel J. Bernstein
 
+### Hashed-based signatures
+
+* [Hash-Based Signatures presentation](https://www.youtube.com/watch?v=qkqtsnXTMQM&t=1968s) by Andreas Hülsing
+* [COSIC seminar "Introduction to Hash Based Signatures"](https://www.youtube.com/watch?v=jiU0ICoiPI0) by John Kelsey
+
 ## Searchable symmetric encryption
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
 
