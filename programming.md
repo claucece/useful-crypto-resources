@@ -252,6 +252,10 @@
 ### Tools
 * [The cover story](https://blog.golang.org/cover) by Rob Pike
 
+### Modules
+* [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules) by Jean de Klerk
+* [Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
+
 ## C
 
 ### General
