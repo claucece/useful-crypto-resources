@@ -158,6 +158,9 @@
 ### Errors
 * [Illegal octal digit error](http://www.perlmonks.org/?node_id=768999)
 * [Error handling and Go](https://blog.golang.org/error-handling-and-go) by Andrew Gerrand
+* [Errors are values](https://blog.golang.org/errors-are-values) by Rob Pike
+* [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
+  by Damien Neil and Jonathan Amsterdam
 
 ### Reflection
 * [The Laws of Reflection](https://blog.golang.org/laws-of-reflection)
@@ -256,7 +259,16 @@
 * [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules) by Jean de Klerk
 * [Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
 
-## C
+### Testing
+* [Writing table driven tests in Go](https://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go) by Dave Cheney
+* [Test fixtures in Go](https://dave.cheney.net/2016/05/10/test-fixtures-in-go) by Dave Cheney
+* [How to write benchmarks in Go](https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go) by Dave Cheney
+* [Stress test your Go packages](https://dave.cheney.net/2013/06/19/stress-test-your-go-packages) by Dave Cheney
+
+### Packages
+* [Special Packages and Directories in Go](https://blog.learngoprogramming.com/special-packages-and-directories-in-go-1d6295690a6b) by Inanc Gumus
+
+#C
 
 ### General
 * [C Libraries](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_C_libraries.html)
