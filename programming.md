@@ -268,6 +268,11 @@
 ### Packages
 * [Special Packages and Directories in Go](https://blog.learngoprogramming.com/special-packages-and-directories-in-go-1d6295690a6b) by Inanc Gumus
 
+# Rust
+
+* [Configuring Rustfmt](https://rust-lang.github.io/rustfmt/)
+* [rustlings](https://github.com/rust-lang/rustlings/)
+
 #C
 
 ### General
