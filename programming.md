@@ -306,7 +306,7 @@
 * [References and Constants](http://www.augustcouncil.com/~tgibson/tutorial/constref.html)
 
 ### Conversion
-* [deprecated conversion from string constant to 'char*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
+* [deprecated conversion from string constant to 'char\*'](https://en.wikibooks.org/wiki/GCC_Debugging/g%2B%2B/Warnings/deprecated_conversion_from_string_constant)
 
 ### Macros
 * [How to Use C Macros and C Inline Functions with C Code Examples](http://www.thegeekstuff.com/2013/04/c-macros-inline-functions/)
@@ -325,6 +325,7 @@
 
 ### LLVM
 * [Friday Hacks #112 - Make your own LLVM compiler - NUS Hackers](https://www.youtube.com/watch?v=OhkwPSvyBu0) by Omer Iqbal
+
 ### Macro
 * [M4](https://www3.physnet.uni-hamburg.de/physnet/Tru64-Unix/HTML/APS32DTE/M4XXXXXX.HTM)
 
@@ -346,6 +347,10 @@
 * [Zero and forget -- caveats of zeroing memory in C](http://web.archive.org/web/20160304012102/http:/www.eliteraspberries.com/blog/2012/10/zero-and-forget--caveats-of-zeroing-memory-in-c.html)
 * [The most dangerous function in the C/C++ world
  03.12.2015](https://www.viva64.com/en/b/0360/)
+
+### Assembly
+* [Extended Asm - Assembler Instructions with C Expression Operands](https://gcc.gnu.org/onlinedocs/gcc/Extended-Asm.html)
+* [6.48 Alternate Keywords](https://gcc.gnu.org/onlinedocs/gcc/Alternate-Keywords.html#Alternate-Keywords)
 
 ### Libraries
 

@@ -25,6 +25,10 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 * [Security Analysis of Network Protocols](http://web.stanford.edu/class/cs259/WWW08/slides/01-Introduction.pdf) by John Mitchell
 
+### TLS
+
+* [Encrypting the Internet with Go](https://www.youtube.com/watch?v=CB_VfgwPmxQ) by Filippo Valsorda
+
 ## OTR
 
 ### OTRv2
