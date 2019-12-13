@@ -478,6 +478,10 @@ by H. Orman
 ### Javascript
 * [Stanford Javascript Crypto Library](http://bitwiseshiftleft.github.io/sjcl/)
 
+### CIRCL
+* [Introducing CIRCL: An Advanced Cryptographic Library](https://blog.cloudflare.com/introducing-circl/) by Kris Kwiatkowski and Armando Faz-Hernández
+* [Github repo](https://github.com/cloudflare/circl)
+
 ## Quatum computing
 * [Quantum Computing: Lecture Notes](http://homepages.cwi.nl/~rdewolf/qcnotes.pdf) by Ronald de Wolf
 * [Polynomial time algorithms for prime discrete logarithms on a quantum computer](http://www.if.pwr.wroc.pl/~biegansk/PS.pdf) by Peter W. Shor
