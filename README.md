@@ -72,6 +72,9 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Nonce misuse resistance 101](https://www.lvh.io/posts/nonce-misuse-resistance-101.html) by lvh
 * [Online Authenticated-Encryption and its Nonce-Reuse Misuse-Resistance](http://web.cs.ucdavis.edu/~rogaway/papers/oae.pdf) by Viet Tung Hoang, Reza Reyhanitabar, Phillip Rogaway and Damian Vizár
 
+#### AES
+* [Another New AES Attack](https://www.schneier.com/blog/archives/2009/07/another_new_aes.html) by Bruce Schneier
+
 #### Salsa 20
 * [Salsa20 security](https://cr.yp.to/snuffle/security.pdf) by Daniel J. Bernstein.
 * [Notes on the Salsa20 key size](https://cr.yp.to/snuffle/keysizes.pdf) by Daniel J. Bernstein.
@@ -483,6 +486,7 @@ by H. Orman
 * [Github repo](https://github.com/cloudflare/circl)
 
 ## Quatum computing
+* [The Quantum Menace](https://blog.cloudflare.com/the-quantum-menace/) by Armando Faz-Hernández
 * [Quantum Computing: Lecture Notes](http://homepages.cwi.nl/~rdewolf/qcnotes.pdf) by Ronald de Wolf
 * [Polynomial time algorithms for prime discrete logarithms on a quantum computer](http://www.if.pwr.wroc.pl/~biegansk/PS.pdf) by Peter W. Shor
 * [Simulating Physics with Computers](https://people.eecs.berkeley.edu/~christos/classics/Feynman.pdf) by Richard Feynman
