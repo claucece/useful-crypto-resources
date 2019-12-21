@@ -432,6 +432,8 @@
 * [Commit history](https://git-scm.com/book/tr/v2/Git-Basics-Viewing-the-Commit-History)
 * [Rebase and change commits](https://stackoverflow.com/questions/39631983/github-invalid-author-email-commits-no-contribution-activity)
 * [Get author name of commit](https://stackoverflow.com/questions/29876342/how-to-get-only-author-name-or-email-in-git-given-sha1)
+* [Git Tools - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+* [Squashing](https://www.internalpointers.com/post/squash-commits-into-one-git)
 
 ## GDB
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
