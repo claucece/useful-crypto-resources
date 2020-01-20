@@ -211,6 +211,7 @@ René Struik and Scott Vanstone
 * [Some notes](https://crypto.stanford.edu/pbc/notes/elliptic/group.html) by Benn Lynn
 * [SEC 1: Elliptic Curve Cryptography](http://www.secg.org/sec1-v2.pdf) by Daniel R. L. Brown
 * [BLS signatures, hashing to curves, and more dispatches from the IETF](https://www.youtube.com/watch?v=5HB8QBoBv98)
+* [Sage](http://blog.bjrn.se/2015/07/lets-construct-elliptic-curve.html)
 
 #### Encoding
 * [Rational points on certain hyperelliptic curves over finite fields](https://arxiv.org/pdf/0706.1448.pdf) by Maciej Ulas
