@@ -76,3 +76,6 @@
 * [Setting up encrypted mails using s/mime with mutt](http://whirlpool.blinkenshell.org/pages/using-mutt-and-smime-for-encrypted-mails.html) by whirlpool
 * [Thawte and Mutt - playing nicely?](http://equiraptor.com/smime_mutt_how-to.html) by equiraptor
 * [S/MIME and mutt](http://jpvanoosten.nl/blog/2013/12/31/smime-and-mutt/) by JP van Oosten
+
+## ASFD
+* [Main page](https://asdf-vm.com/#/)
