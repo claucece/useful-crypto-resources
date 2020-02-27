@@ -377,6 +377,8 @@
 * [PKG_CHECK_MODULES Macro](https://autotools.io/pkgconfig/pkg_check_modules.html)
 * [Common Shell Constructs](https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/Common-Shell-Constructs.html)
 * [Working With External Software](https://www.gnu.org/software/autoconf/manual/autoconf-2.60/html_node/External-Software.html)
+* [How to Use Variables](https://www.gnu.org/software/make/manual/html_node/Using-Variables.html)
+* [x86 built-in funcs](https://gcc.gnu.org/onlinedocs/gcc/x86-Built-in-Functions.html)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
