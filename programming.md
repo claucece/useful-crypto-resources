@@ -379,6 +379,8 @@
 * [Working With External Software](https://www.gnu.org/software/autoconf/manual/autoconf-2.60/html_node/External-Software.html)
 * [How to Use Variables](https://www.gnu.org/software/make/manual/html_node/Using-Variables.html)
 * [x86 built-in funcs](https://gcc.gnu.org/onlinedocs/gcc/x86-Built-in-Functions.html)
+* [Limitations of Shell Builtins](https://www.gnu.org/software/autoconf/manual/autoconf-2.65/html_node/Limitations-of-Builtins.html#Limitations-of-Builtins)
+* [Conditional Builds](https://autotools.io/automake/conditional.html)
 
 #### Glib
 * [test](https://developer.gnome.org/glib/stable/glib-Testing.html)
