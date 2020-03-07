@@ -212,6 +212,7 @@ René Struik and Scott Vanstone
 * [SEC 1: Elliptic Curve Cryptography](http://www.secg.org/sec1-v2.pdf) by Daniel R. L. Brown
 * [BLS signatures, hashing to curves, and more dispatches from the IETF](https://www.youtube.com/watch?v=5HB8QBoBv98)
 * [Sage](http://blog.bjrn.se/2015/07/lets-construct-elliptic-curve.html)
+* [The Jacobi Model of an Elliptic Curve and Side-Channel Analysis])https://eprint.iacr.org/2002/125.pdf) by Olivier Billet and Marc Joye
 
 #### Encoding
 * [Rational points on certain hyperelliptic curves over finite fields](https://arxiv.org/pdf/0706.1448.pdf) by Maciej Ulas
