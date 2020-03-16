@@ -440,6 +440,7 @@
 * [Squashing](https://www.internalpointers.com/post/squash-commits-into-one-git)
 
 ## GDB
+
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb/)
 * [Install mac](https://stackoverflow.com/questions/18423124/please-check-gdb-is-codesigned-see-taskgated8-how-to-get-gdb-installed-w)
 * [High Sierra bug](https://stackoverflow.com/questions/39702871/gdb-kind-of-doesnt-work-on-macos-sierra/40437725#40437725)
@@ -447,6 +448,7 @@
 * [Manual](http://kirste.userpage.fu-berlin.de/chemnet/use/info/gdb/gdb_6.html#SEC29)
 
 ## Travis
+
 * [Customizing the Build](https://docs.travis-ci.com/user/customizing-the-build/)
 
 ## Testing
@@ -459,6 +461,12 @@
 
 * [ClusterFuzz](https://github.com/google/clusterfuzz)
 * [OSS-Fuzz - Continuous Fuzzing for Open Source Software](https://github.com/google/oss-fuzz)
+
+## Architecture
+
+* [Comparison of instruction set architectures](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+* [ARM architecture](https://en.wikipedia.org/wiki/ARM_architecture)
+
 ----------------------------------------------------------------------------
 
 # Theory
