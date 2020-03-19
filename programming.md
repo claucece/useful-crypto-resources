@@ -258,6 +258,8 @@
 ### Modules
 * [Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules) by Jean de Klerk
 * [Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
+* [Module queries](https://golang.org/cmd/go/#hdr-Module_queries)
+* [Go Module Mirror, Index, and Checksum Database](https://sum.golang.org/)
 
 ### Testing
 * [Writing table driven tests in Go](https://dave.cheney.net/2013/06/09/writing-table-driven-tests-in-go) by Dave Cheney
