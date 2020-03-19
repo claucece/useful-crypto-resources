@@ -18,3 +18,4 @@
 
 ## HashToCurve
 
+* [Draft](https://tools.ietf.org/pdf/draft-irtf-cfrg-hash-to-curve-06.pdf)
