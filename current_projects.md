@@ -19,3 +19,11 @@
 ## HashToCurve
 
 * [Draft](https://tools.ietf.org/pdf/draft-irtf-cfrg-hash-to-curve-06.pdf)
+
+## CRYSTALS
+
+* [PR](https://github.com/cloudflare/circl/pull/87)
+* [Website](https://pq-crystals.org/dilithium/resources.shtml)
+* [CRYSTALS-Dilithium paper](https://pq-crystals.org/dilithium/data/dilithium-specification-round2.pdf)
+* [CRYSTALS-Dilithium algo paper](https://pq-crystals.org/dilithium/data/dilithium-specification.pdf)
+
