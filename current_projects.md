@@ -8,6 +8,8 @@
 ## Privacy Pass
 
 * [Draft: protocol](https://tools.ietf.org/html/draft-davidson-pp-protocol-00)
+* [Draft: architecture](https://tools.ietf.org/pdf/draft-davidson-pp-architecture-00.pdf)
+* [Draft: http API](https://tools.ietf.org/pdf/draft-svaldez-pp-http-api-00.pdf)
 * [All IETF material](https://github.com/alxdavids/privacy-pass-ietf)
 * [IETF 107 BoF](https://datatracker.ietf.org/meeting/107/materials/agenda-107-privacypass)
 
