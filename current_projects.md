@@ -29,3 +29,7 @@
 * [CRYSTALS-Dilithium paper](https://pq-crystals.org/dilithium/data/dilithium-specification-round2.pdf)
 * [CRYSTALS-Dilithium algo paper](https://pq-crystals.org/dilithium/data/dilithium-specification.pdf)
 
+## Lattices
+
+* [Lattice Introduction - Gate](https://www.youtube.com/watch?v=3EAYX-wZH0g)
+* [Lattices ∩ Quantum](https://www.youtube.com/watch?v=ZpJ2G0nk91Y)
