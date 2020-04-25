@@ -33,3 +33,11 @@
 
 * [Lattice Introduction - Gate](https://www.youtube.com/watch?v=3EAYX-wZH0g)
 * [Lattices ∩ Quantum](https://www.youtube.com/watch?v=ZpJ2G0nk91Y)
+
+# Research
+
+* [Equations For Modular Curves](https://www.math.auckland.ac.nz/~sgal018/thesis.pdf) by Steven D. Galbraith
+* [ellipticnews](https://ellipticnews.wordpress.com/)
+* [Mathematics of Isogeny Based Cryptography](https://arxiv.org/pdf/1711.04062.pdf)
+* [Fast Algorithms for Towers of Finite Fields and Isogenies](https://pastel.archives-ouvertes.fr/tel-00547034v3/document)
+* [High-Speed Cryptography and Cryptanalysis](https://cryptojedi.org/peter/thesis/data/phdthesis-schwabe-printed.pdf)
