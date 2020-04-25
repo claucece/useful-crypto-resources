@@ -41,3 +41,12 @@
 * [Mathematics of Isogeny Based Cryptography](https://arxiv.org/pdf/1711.04062.pdf)
 * [Fast Algorithms for Towers of Finite Fields and Isogenies](https://pastel.archives-ouvertes.fr/tel-00547034v3/document)
 * [High-Speed Cryptography and Cryptanalysis](https://cryptojedi.org/peter/thesis/data/phdthesis-schwabe-printed.pdf)
+* [Guide to Elliptic Curve Cryptography](http://cacr.uwaterloo.ca/ecc/order.html)
+* [An Introduction to Mathematical Cryptography](http://www.math.brown.edu/~jhs/MathCryptoHome.html)
+* [The Arithmetic of Elliptic Curves](http://www.math.brown.edu/~jhs/AECHome.html)
+* [Elliptic Curves: Number Theory and Cryptography](http://www-users.math.umd.edu/~lcw/ec.html)
+* [Handbook of Elliptic and Hyperelliptic Curve Cryptography](http://www.hyperelliptic.org/HEHCC/)
+* [Algorithmic Cryptanalysis](http://www.joux.biz/algcrypt/index.html)
+* [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
+
+
