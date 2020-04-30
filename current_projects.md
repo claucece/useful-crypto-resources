@@ -54,6 +54,7 @@
 * [Go memory management](https://povilasv.me/go-memory-management/) by Povilas
 * [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
   by Vincent Blanchon
+* [Building a better Go linker](https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/view#heading=h.g4m43nddv64t)
 
 ## Digital contact-tracing app
 
