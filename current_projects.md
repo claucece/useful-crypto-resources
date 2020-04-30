@@ -49,4 +49,16 @@
 * [Algorithmic Cryptanalysis](http://www.joux.biz/algcrypt/index.html)
 * [Mathematics of Public Key Cryptography](https://www.math.auckland.ac.nz/~sgal018/crypto-book/crypto-book.html)
 
+## Memory management
+
+* [Go memory management](https://povilasv.me/go-memory-management/) by Povilas
+* [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
+  by Vincent Blanchon
+
+## Digital contact-tracing app
+
+* [Principles for technology-assisted contact-tracing](https://www.aclu.org/report/aclu-white-paper-principles-technology-assisted-contact-tracing) by Daniel Kahn Gillmor
+* [Data Rights for Exposure Notification](https://exposurenotification.org/)
+* [Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic](https://arxiv.org/pdf/2003.08567.pdf)
+* [Covid-19: The tough questions on a digital contact-tracing app](https://thespinoff.co.nz/society/29-04-2020/covid-19-the-tough-questions-on-a-digital-contact-tracing-app/)
 
