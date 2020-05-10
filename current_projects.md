@@ -62,4 +62,4 @@
 * [Data Rights for Exposure Notification](https://exposurenotification.org/)
 * [Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic](https://arxiv.org/pdf/2003.08567.pdf)
 * [Covid-19: The tough questions on a digital contact-tracing app](https://thespinoff.co.nz/society/29-04-2020/covid-19-the-tough-questions-on-a-digital-contact-tracing-app/)
-
+* [Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) by Apple and Google
