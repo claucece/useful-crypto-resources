@@ -55,6 +55,12 @@
 * [Go: Memory Management and Allocation](https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44)
   by Vincent Blanchon
 * [Building a better Go linker](https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/view#heading=h.g4m43nddv64t)
+* [Visualizing Garbage Collection Algorithms](https://spin.atomicobject.com/2014/09/03/visualizing-garbage-collection-algorithms/)
+* [Go GC: Solving the Latency Problem](https://www.youtube.com/watch?v=aiv1JOfMjm0&index=16&list=PL2ntRZ1ySWBf-_z-gHCOR2N156Nw930Hm) by Rick Hudson
+* [Implementing memory management with Golang’s garbage collector](https://hub.packtpub.com/implementing-memory-management-with-golang-garbage-collector/)
+* [On-the-Fly Garbage Collection: An Exercise in Cooperation](https://lamport.azurewebsites.net/pubs/garbage.pdf) by Dijkstra, Lamport , Martin, Scholten, and Steffens
+* [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote) by Rick Hudson
+* [Garbage Collection In Go : Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 
 ## Digital contact-tracing app
 
