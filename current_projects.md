@@ -61,6 +61,7 @@
 * [On-the-Fly Garbage Collection: An Exercise in Cooperation](https://lamport.azurewebsites.net/pubs/garbage.pdf) by Dijkstra, Lamport , Martin, Scholten, and Steffens
 * [Getting to Go: The Journey of Go's Garbage Collector](https://blog.golang.org/ismmkeynote) by Rick Hudson
 * [Garbage Collection In Go : Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
+* [RICH: Automatically Protecting Against Integer-Based Vulnerabilities](https://web.archive.org/web/20121010025025/http://www.cs.cmu.edu/~dbrumley/pubs/integer-ndss-07.pdf) by David Brumley, Tzi-cker Chiueh, Robert Johnson
 
 ## Digital contact-tracing app
 
