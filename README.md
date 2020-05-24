@@ -341,6 +341,7 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Random number generation: An illustrated primer](https://blog.cryptographyengineering.com/2012/02/21/random-number-generation-illustrated/) by Matthew Green
 * [Surviving a bad RNG](https://blog.cryptographyengineering.com/2012/03/09/surviving-bad-rng/) by Matthew Green
 * [Computational Alternatives to Random Number Generators](http://www.di.ens.fr/~pointche/Documents/Papers/1998_sac.pdf) by David M’Raıhi, David Naccache, David Pointcheval, and Serge Vaudenay
+* [Good Practice in (Pseudo) Random Number Generation for Bioinformatics Applications](http://www0.cs.ucl.ac.uk/staff/d.jones/GoodPracticeRNG.pdf) by David Jones, UCL Bioinformatics Group
 
 ## Message Authentification Code (MAC)
 * [SHA3-based MACs](http://csrc.nist.gov/groups/ST/hash/sha-3/Aug2014/documents/perlner_kmac.pdf) by Ray Perlner.
@@ -382,7 +383,8 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
 * [Breaking Ed25519 in WolfSSL](https://eprint.iacr.org/2017/985.pdf) by Niels Samwel, Lejla Batina, Guido Bertoni, Joan
 Daemen, and Ruggero Susella
-* [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
+* [A Side-Channel Assisted Cryptanalytic Attack
+Against QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
 Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 * [EdDSA for more curves](https://eprint.iacr.org/2015/677.pdf) by Daniel J. Bernstein, Simon Josefsson, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 
