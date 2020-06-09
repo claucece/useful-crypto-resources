@@ -71,3 +71,12 @@
 * [Apps Gone Rogue: Maintaining Personal Privacy in an Epidemic](https://arxiv.org/pdf/2003.08567.pdf)
 * [Covid-19: The tough questions on a digital contact-tracing app](https://thespinoff.co.nz/society/29-04-2020/covid-19-the-tough-questions-on-a-digital-contact-tracing-app/)
 * [Privacy-Preserving Contact Tracing](https://www.apple.com/covid19/contacttracing/) by Apple and Google
+
+## TLS
+
+* [The Transport Layer Security v 1.3](https://tools.ietf.org/html/rfc8446)
+* [Using Raw Public Keys in Transport Layer Security (TLS) and Datagram Transport Layer Security (DTLS)](https://tools.ietf.org/html/rfc7250)
+* [Transport Layer Security (TLS) Cached Information Extension](https://tools.ietf.org/html/rfc7924)
+* [Measuring TLS key exchange with post-quantum KEM](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/kwiatkowski-measuring-tls.pdf)
+* [Post-quantum TLS without handshake signatures](https://eprint.iacr.org/2020/534.pdf)
+
