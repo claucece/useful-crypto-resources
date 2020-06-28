@@ -86,6 +86,8 @@
 * [ipvtechresearch](https://www.ipvtechresearch.org/)
 * [Technology facilitating domestic violence. How is that possible?](https://stopstalkerware.org/)
 * [Threat Lab: Year in Review 2019](https://www.eff.org/deeplinks/2019/12/threat-lab-year-review-2019)
+* [Queer privacy](https://leanpub.com/queerprivacy)
+* [Stalkerware-indicators](https://github.com/Te-k/stalkerware-indicators)
 
 ## Quantum computing and LLVM
 
