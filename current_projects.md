@@ -80,3 +80,16 @@
 * [Measuring TLS key exchange with post-quantum KEM](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/kwiatkowski-measuring-tls.pdf)
 * [Post-quantum TLS without handshake signatures](https://eprint.iacr.org/2020/534.pdf)
 
+## Stalkware and domestic abuse
+
+* [MariaLab org](https://www.instagram.com/p/CAWMEqEHlNz/) and [also](https://www.marialab.org/)
+* [ipvtechresearch](https://www.ipvtechresearch.org/)
+* [Technology facilitating domestic violence. How is that possible?](https://stopstalkerware.org/)
+* [Threat Lab: Year in Review 2019](https://www.eff.org/deeplinks/2019/12/threat-lab-year-review-2019)
+
+## Quantum computing and LLVM
+
+* [Tutorial: Quantum Programming](https://sites.google.com/ncsu.edu/qc-tutorial)
+* [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/PS_cache/quant-ph/pdf/9809/9809016v2.pdf)
+* [Programming Quantum Computers Tutorial](https://www.youtube.com/watch?v=SCRZVVSUCp0&feature=youtu.be)
+
