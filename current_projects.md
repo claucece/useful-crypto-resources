@@ -88,6 +88,7 @@
 * [Threat Lab: Year in Review 2019](https://www.eff.org/deeplinks/2019/12/threat-lab-year-review-2019)
 * [Queer privacy](https://leanpub.com/queerprivacy)
 * [Stalkerware-indicators](https://github.com/Te-k/stalkerware-indicators)
+* [How security researchers are working to expose stalkerware on your phone](https://netzpolitik.org/2020/how-security-researchers-are-working-to-expose-stalkerware-on-your-phone/)
 
 ## Quantum computing and LLVM
 
@@ -95,3 +96,12 @@
 * [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/PS_cache/quant-ph/pdf/9809/9809016v2.pdf)
 * [Programming Quantum Computers Tutorial](https://www.youtube.com/watch?v=SCRZVVSUCp0&feature=youtu.be)
 
+## Modelling
+
+* [Random Oracles are Practical: A Paradigm for Designing Efficient Protocols](https://cseweb.ucsd.edu/~mihir/papers/ro.pdf) by
+  Mihir Bellare and Phillip Rogaway
+* [The random oracle model: a twenty-year retrospective](https://eprint.iacr.org/2015/140.pdf) by Neal Koblitz and Alfred J. Menezes
+* [The Random Oracle Hypothesis is False](https://www.csc.kth.se/~johanh/randomoracle.pdf) by Richard Chang, Benny Chor, Oded Goldreich,
+  Juris Hartmanis, Johan Hastad, Desh Ranjan and Panka J Rohatgi
+* [Systems of logic based on ordinals](https://pure.mpg.de/rest/items/item_2403325/component/file_2403324/content) by Turing
+* A proof of freedom from contradiction by Church
