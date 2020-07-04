@@ -89,12 +89,14 @@
 * [Queer privacy](https://leanpub.com/queerprivacy)
 * [Stalkerware-indicators](https://github.com/Te-k/stalkerware-indicators)
 * [How security researchers are working to expose stalkerware on your phone](https://netzpolitik.org/2020/how-security-researchers-are-working-to-expose-stalkerware-on-your-phone/)
+* [Feminism and protocols](https://tools.ietf.org/html/draft-guerra-feminism-00)
 
 ## Quantum computing and LLVM
 
 * [Tutorial: Quantum Programming](https://sites.google.com/ncsu.edu/qc-tutorial)
 * [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/PS_cache/quant-ph/pdf/9809/9809016v2.pdf)
 * [Programming Quantum Computers Tutorial](https://www.youtube.com/watch?v=SCRZVVSUCp0&feature=youtu.be)
+* [Architectural Principles for a Quantum Internet](https://datatracker.ietf.org/doc/draft-irtf-qirg-principles/)
 
 ## Modelling
 
