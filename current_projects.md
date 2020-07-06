@@ -107,3 +107,8 @@
   Juris Hartmanis, Johan Hastad, Desh Ranjan and Panka J Rohatgi
 * [Systems of logic based on ordinals](https://pure.mpg.de/rest/items/item_2403325/component/file_2403324/content) by Turing
 * A proof of freedom from contradiction by Church
+
+## Message franking
+
+* [Private Message Franking with After Opening Privacy](https://eprint.iacr.org/2018/938.pdf) by Iraklis Leontiadis and Serge Vaudenay
+* [Message Franking via Committing Authenticated Encryption](https://eprint.iacr.org/2017/664.pdf) by Paul Grubbs, Jiahui Lu, and Thomas Ristenpart
