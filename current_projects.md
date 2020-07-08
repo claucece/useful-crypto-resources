@@ -80,6 +80,9 @@
 * [Transport Layer Security (TLS) Cached Information Extension](https://tools.ietf.org/html/rfc7924)
 * [Measuring TLS key exchange with post-quantum KEM](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/kwiatkowski-measuring-tls.pdf)
 * [Post-quantum TLS without handshake signatures](https://eprint.iacr.org/2020/534.pdf)
+* [kemtls-experiment](https://github.com/thomwiggers/kemtls-experiment)
+* [dilithium](https://github.com/pq-crystals/dilithium)
+* [kyber](https://github.com/pq-crystals/kyber)
 
 ### Delegated Credentials
 
