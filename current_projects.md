@@ -63,6 +63,7 @@
 * [Garbage Collection In Go : Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
 * [RICH: Automatically Protecting Against Integer-Based Vulnerabilities](https://web.archive.org/web/20121010025025/http://www.cs.cmu.edu/~dbrumley/pubs/integer-ndss-07.pdf) by David Brumley, Tzi-cker Chiueh, Robert Johnson
 * [Golang's GC](https://github.com/golang/go/blob/master/src/runtime/mgc.go)
+* [A micro-manual for lisp - not the whole truth](https://www.ee.ryerson.ca/~elf/pub/misc/micromanualLISP.pdf) by John McCarthy
 
 ## Digital contact-tracing app
 
@@ -79,6 +80,8 @@
 * [Transport Layer Security (TLS) Cached Information Extension](https://tools.ietf.org/html/rfc7924)
 * [Measuring TLS key exchange with post-quantum KEM](https://csrc.nist.gov/CSRC/media/Events/Second-PQC-Standardization-Conference/documents/accepted-papers/kwiatkowski-measuring-tls.pdf)
 * [Post-quantum TLS without handshake signatures](https://eprint.iacr.org/2020/534.pdf)
+
+### Delegated Credentials
 
 ## Stalkware and domestic abuse
 
@@ -107,8 +110,23 @@
   Juris Hartmanis, Johan Hastad, Desh Ranjan and Panka J Rohatgi
 * [Systems of logic based on ordinals](https://pure.mpg.de/rest/items/item_2403325/component/file_2403324/content) by Turing
 * A proof of freedom from contradiction by Church
+* [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/) by Prabhakar Ragde
+* [Random Oracles in a Quantum World](https://link.springer.com/chapter/10.1007/978-3-642-25385-0_3) by Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner and Mark Zhandry
+* [Universally Composable Security: A New Paradigm for Cryptographic Protocols](https://eprint.iacr.org/2000/067.pdf) by Ran Canetti
 
 ## Message franking
 
 * [Private Message Franking with After Opening Privacy](https://eprint.iacr.org/2018/938.pdf) by Iraklis Leontiadis and Serge Vaudenay
 * [Message Franking via Committing Authenticated Encryption](https://eprint.iacr.org/2017/664.pdf) by Paul Grubbs, Jiahui Lu, and Thomas Ristenpart
+* [Asymmetric Message Franking: Content Moderation for Metadata-Private End-to-End Encryption](https://eprint.iacr.org/2019/565.pdf)
+  by Nirvan Tyagi, Paul Grubbs, Julia Len, Ian Miers, and Thomas Ristenpart
+
+## Side channel attacks
+
+* [Wikipedia page](https://en.wikipedia.org/wiki/Side-channel_attack)
+
+## Programming language design
+
+* [PL+HCI Seminar](https://pl-hci-seminar.seas.harvard.edu/)
+* [Bits and behavior](https://medium.com/bits-and-behavior)
+*
