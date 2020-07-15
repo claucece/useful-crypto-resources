@@ -13,10 +13,11 @@
 * [All IETF material](https://github.com/alxdavids/privacy-pass-ietf)
 * [IETF 107 BoF](https://datatracker.ietf.org/meeting/107/materials/agenda-107-privacypass)
 
-## CFSSL
+## CFSSL and certificate management
 
 * [Introducing CFSSL - CloudFlare's PKI toolkit](https://blog.cloudflare.com/introducing-cfssl/) by Nick Sullivan
 * [Github Repo](https://github.com/cloudflare/cfssl)
+* [certmgr](https://github.com/cloudflare/certmgr)
 
 ## HashToCurve
 
@@ -85,6 +86,10 @@
 * [kyber](https://github.com/pq-crystals/kyber)
 
 ### Delegated Credentials
+
+* [The current repo](https://github.com/tlswg/tls-subcerts)
+* [PR](https://github.com/cloudflare/tls-tris/pull/95)
+* [Second PR](https://github.com/cloudflare/tls-tris/pull/32)
 
 ## Stalkware and domestic abuse
 
