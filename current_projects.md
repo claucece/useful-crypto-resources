@@ -90,6 +90,7 @@
 * [The current repo](https://github.com/tlswg/tls-subcerts)
 * [PR](https://github.com/cloudflare/tls-tris/pull/95)
 * [Second PR](https://github.com/cloudflare/tls-tris/pull/32)
+* [The draft](https://tools.ietf.org/html/draft-ietf-tls-subcerts-09)
 
 ## Stalkware and domestic abuse
 
