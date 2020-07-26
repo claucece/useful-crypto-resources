@@ -102,6 +102,15 @@
 * [Stalkerware-indicators](https://github.com/Te-k/stalkerware-indicators)
 * [How security researchers are working to expose stalkerware on your phone](https://netzpolitik.org/2020/how-security-researchers-are-working-to-expose-stalkerware-on-your-phone/)
 * [Feminism and protocols](https://tools.ietf.org/html/draft-guerra-feminism-00)
+* [Taller de comunicación mujer](https://www.tcmujer.org/wb#/inicio)
+* [Navegando libres por la red](https://www.navegandolibres.org/)
+* [Vita-activa](https://vita-activa.org/)
+* [Acoso Online](https://acoso.online/cl/)
+* [Dominemos la tecnología](https://www.takebackthetech.net/es/know-more/heyamiga)
+* [Safer nudes](https://www.codingrights.org/safernudes/)
+* [Alerta Machitrol](https://mtroll.karisma.org.co/)
+* [ConsenfulTech](https://www.consentfultech.io/)
+* [Diagnóstico Violencia de género Ecuador](https://www.navegandolibres.org/images/navegando/Diagnostico_navegando_libres_f.pdf)
 
 ## Quantum computing and LLVM
 
