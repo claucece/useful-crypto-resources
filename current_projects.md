@@ -111,6 +111,9 @@
 * [Alerta Machitrol](https://mtroll.karisma.org.co/)
 * [ConsenfulTech](https://www.consentfultech.io/)
 * [Diagnóstico Violencia de género Ecuador](https://www.navegandolibres.org/images/navegando/Diagnostico_navegando_libres_f.pdf)
+* [Security and Privacy Experiences and Practices of Survivors of Intimate Partner Abuse](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8055664)
+* [Safe at Home: Towards a Feminist Critique of Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3429851)
+* [Privacy threats in intimate relationships](https://academic.oup.com/cybersecurity/article/6/1/tyaa006/5849222)
 
 ## Quantum computing and LLVM
 
@@ -131,6 +134,7 @@
 * [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/) by Prabhakar Ragde
 * [Random Oracles in a Quantum World](https://link.springer.com/chapter/10.1007/978-3-642-25385-0_3) by Dan Boneh, Özgür Dagdelen, Marc Fischlin, Anja Lehmann, Christian Schaffner and Mark Zhandry
 * [Universally Composable Security: A New Paradigm for Cryptographic Protocols](https://eprint.iacr.org/2000/067.pdf) by Ran Canetti
+* [Turing Oracle Machines, Online Computing, and Three Displacements in Computability Theory](http://www.people.cs.uchicago.edu/~soare/History/turing.pdf) by Robert I. Soare
 
 ## Message franking
 
