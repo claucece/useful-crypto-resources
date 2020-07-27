@@ -251,7 +251,7 @@ René Struik and Scott Vanstone
 * [Fault Attacks on Projective-to-Affine Coordinates Conversion](https://books.google.com.ec/books?id=c_y5BQAAQBAJ&pg=PA46&lpg=PA46&dq=toaffine+ecc&source=bl&ots=twi-3g-Ea7&sig=UWNbVQLkW-DSKAk0E2Bw-bG5I4s&hl=en&sa=X&ved=0ahUKEwjajLqVh6LSAhUp04MKHVWZDQUQ6AEISzAI#v=onepage&q=toaffine%20ecc&f=false) by Diana Maimut, C´edric Murdica, David Naccache and  Mehdi Tibouchi. Pdf
 
 ### wNafs
-* [wNAF*, an Efficient Left-to-Right Signed Digit Recoding Algorithm](https://link.springer.com/chapter/10.1007/978-3-540-68914-0_26) by Brian King
+* [wNAF\*, an Efficient Left-to-Right Signed Digit Recoding Algorithm](https://link.springer.com/chapter/10.1007/978-3-540-68914-0_26) by Brian King
 * [Signed Binary Representations Revisited](https://www.iacr.org/archive/crypto2004/31520122/crypto04_camready2.pdf) by Katsuyuki Okeya, Katja Schmidt-Samoa, Christian Spahn, and Tsuyoshi Takagi
 
 #### Ideas
@@ -555,6 +555,10 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 
 ## Usability
 * [Obstacles to the Adoption of Secure Communication Tools](http://www.jbonneau.com/doc/ASBDNS17-IEEESP-secure_messaging_obstacles.pdf) by Ruba Abu-Salma, Anastasia Danilova, M. Angela Sasse, Alena Naiakshina, Joseph Bonneau and Matthew Smith
+* [Listen to Developers! A Participatory Design Study on Security Warnings for Cryptographic APIs](https://dl.acm.org/doi/abs/10.1145/3313831.3376142) by Peter Leo Gorski, Yasemin  Acar, Luigi  Lo Iacono and Sascha Fahl
+* [“We make it a big deal in the company”: Security Mindsets in Organizations that Develop Cryptographic Products](https://www.usenix.org/system/files/conference/soups2018/soups2018-haney-mindsets.pdf) by Julie M. Haney, Mary F. Theofanos, Yasemin Acar and Sandra Spickard Prettyman
+* [Developers Deserve Security Warnings, Too: On the Effect of Integrated Security Advice on Cryptographic API Misuse](https://www.usenix.org/system/files/conference/soups2018/soups2018-gorski.pdf) by Peter Leo Gorski, Luigi Lo Iacono, Dominik Wermke, Christian Stransky, Sebastian Möller, Yasemin Acar, and Sascha Fahl
+* [Comparing the Usability of Cryptographic APIs](https://www.cl.cam.ac.uk/~rja14/shb17/fahl.pdf) by Yasemin Acar, Michael Backes, Sascha Fahl, Simson Garfinkel, Doowon Kim, Michelle L. Mazurek, and Christian Stransky
 
 ## Mailing List
 * [Modern Crypto](https://moderncrypto.org/mail-archive/)
