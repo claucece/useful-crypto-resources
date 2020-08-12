@@ -151,4 +151,14 @@
 
 * [PL+HCI Seminar](https://pl-hci-seminar.seas.harvard.edu/)
 * [Bits and behavior](https://medium.com/bits-and-behavior)
-*
+
+## Falcon
+* [Main website](https://falcon-sign.info/)
+* [proposal: spec: add decimal float types](https://github.com/golang/go/issues/19787)
+* [Decimal Floating-Point: Algorism for Computers](http://speleotrove.com/decimal/IEEE-cowlishaw-arith16.pdf)
+* [Proposal to Add Decimal Floating Point Support to C++](http://open-std.org/JTC1/SC22/WG21/docs/papers/2014/n3871.html)
+* [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754)
+* [Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
+* [decimal64 floating-point format](https://en.wikipedia.org/wiki/Decimal64_floating-point_format)
+
+
