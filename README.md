@@ -107,6 +107,9 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 ## Key Exchange
 
+### General
+* [Cryptographic schemes, Key exchange, Public key](https://eprint.iacr.org/2013/244.pdf) by Ted Hurley
+
 ### Theory
 * [Entity Authentication and Key Distribution](https://cseweb.ucsd.edu/~mihir/papers/eakd.pdf) by Mihir Bellare and Phillip Rogaway
 * [Key Agreement Protocols and their Security Analysis](https://pdfs.semanticscholar.org/fdb0/3a4a533e09b71b18045ba85ba9978de65a2d.pdf) by Simon Blake-Wilson, Don Johnson and Alfred Menezes.
@@ -382,7 +385,8 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
 * [Breaking Ed25519 in WolfSSL](https://eprint.iacr.org/2017/985.pdf) by Niels Samwel, Lejla Batina, Guido Bertoni, Joan
 Daemen, and Ruggero Susella
-* [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
+* [A Side-Channel Assisted Cryptanalytic Attack
+Against QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
 Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 * [EdDSA for more curves](https://eprint.iacr.org/2015/677.pdf) by Daniel J. Bernstein, Simon Josefsson, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 
