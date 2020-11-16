@@ -29,6 +29,8 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 
 * [Encrypting the Internet with Go](https://www.youtube.com/watch?v=CB_VfgwPmxQ) by Filippo Valsorda
 * [SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0) by Nickolai Zeldovich and their [notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/MIT6_858F14_lec14.pdf)
+* [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
+* [TLS Handshake : Under The Hood](https://medium.com/@technospace/tls-handshake-under-the-hood-79d20c0020de#) by Sathya Bandara
 
 ## OTR
 
