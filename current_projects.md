@@ -92,6 +92,15 @@
 * [Second PR](https://github.com/cloudflare/tls-tris/pull/32)
 * [The draft](https://tools.ietf.org/html/draft-ietf-tls-subcerts-09)
 
+### Exported Authenticators
+
+* [draft](https://github.com/tlswg/tls-exported-authenticator)
+* [Usage of OPAQUE with TLS 1.3](https://github.com/grittygrease/draft-sullivan-tls-opaque)
+
+## OPAQUE
+
+* [draft](https://github.com/cfrg/draft-irtf-cfrg-opaque/blob/master/draft-irtf-cfrg-opaque.md)
+
 ## Stalkware and domestic abuse
 
 * [MariaLab org](https://www.instagram.com/p/CAWMEqEHlNz/) and [also](https://www.marialab.org/)
@@ -160,5 +169,3 @@
 * [IEEE 754](https://en.wikipedia.org/wiki/IEEE_754)
 * [Double-precision floating-point format](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
 * [decimal64 floating-point format](https://en.wikipedia.org/wiki/Decimal64_floating-point_format)
-
-
