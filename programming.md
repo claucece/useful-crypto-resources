@@ -481,6 +481,9 @@
 
 ## Css
 * [You don't need javascript](https://github.com/you-dont-need/You-Dont-Need-Javascript)
+* [Create Diagonal Layouts Like It's 2020](https://9elements.com/blog/pure-css-diagonal-layouts/) by Nils Binder
+* [Change The Spacing Between Lines](https://www.uvm.edu/~bnelson/computer/css/changethespacingbetweenlines.html#:~:text=Use%20the%20line%2Dheight%20property,of%20vertical%20space%20between%20lines.)
+* [Diagonal Containers in CSS](https://codyhouse.co/blog/post/css-diagonal-containers) by Sebastiano Guerriero
 
 ## Beautiful Css websites
 * [In Pieces](http://species-in-pieces.com/#)
