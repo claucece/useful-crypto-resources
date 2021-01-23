@@ -547,7 +547,7 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [A Full CryptoCurrency Custody Solution Based on MPC and Threshold ECDSA](https://www.youtube.com/watch?v=Qv4-vh-KJ1s&feature=youtu.be) by Yehuda Lindell
 
 ## Passwords
-* [SPHINX: A Password Store that Perfectly Hides from ItselfSPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
+* [SPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
 
 ## Cryptocurrencies
 * [ZCash Ceremony](http://www.radiolab.org/story/ceremony/)
@@ -581,3 +581,10 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 
 * [Password Managers: Under the Hood of Secrets Management](https://www.securityevaluators.com/casestudies/password-manager-hacking/)
 * [Recovering the Master Password from a Locked Password Manager (1Password 4)](https://blog.securityevaluators.com/recovering-the-master-password-from-a-locked-password-manager-1password-4-5d32cd569907) by Adrian Bednarek
+
+## VPRFs / (V)OPRFs
+
+* [A verifiable random function with short proofs and keys](https://eprint.iacr.org/2004/310.pdf) by Yevgeniy Dodis and Aleksandr Yampolskiy
+* [Privacy Pass: Bypassing Internet Challenges Anonymously](https://www.petsymposium.org/2018/files/papers/issue3/popets-2018-0026.pdf)
+  by Alex Davidson, Ian Goldberg, Nick Sullivan, George Tankersley, and Filippo Valsorda
+* [EC-OPRF: Oblivious Pseudorandom Functions using Elliptic Curves](https://eprint.iacr.org/2017/111.pdf) by Jonathan Burns, Daniel Moore, Katrina Ray, Ryan Speers and Brian Vohaska
