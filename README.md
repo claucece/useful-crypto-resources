@@ -588,3 +588,4 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Privacy Pass: Bypassing Internet Challenges Anonymously](https://www.petsymposium.org/2018/files/papers/issue3/popets-2018-0026.pdf)
   by Alex Davidson, Ian Goldberg, Nick Sullivan, George Tankersley, and Filippo Valsorda
 * [EC-OPRF: Oblivious Pseudorandom Functions using Elliptic Curves](https://eprint.iacr.org/2017/111.pdf) by Jonathan Burns, Daniel Moore, Katrina Ray, Ryan Speers and Brian Vohaska
+* [Verifiable Random Functions](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Pseudo%20Randomness/Verifiable_Random_Functions.pdf) by Silvio Micali, Michael Rabiny and Salil Vadha
