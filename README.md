@@ -589,3 +589,6 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
   by Alex Davidson, Ian Goldberg, Nick Sullivan, George Tankersley, and Filippo Valsorda
 * [EC-OPRF: Oblivious Pseudorandom Functions using Elliptic Curves](https://eprint.iacr.org/2017/111.pdf) by Jonathan Burns, Daniel Moore, Katrina Ray, Ryan Speers and Brian Vohaska
 * [Verifiable Random Functions](https://people.csail.mit.edu/silvio/Selected%20Scientific%20Papers/Pseudo%20Randomness/Verifiable_Random_Functions.pdf) by Silvio Micali, Michael Rabiny and Salil Vadha
+* [Composable & Modular Anonymous Credentials: Definitions and Practical Constructions](https://eprint.iacr.org/2015/580.pdf) by Jan Camenisch, Maria Dubovitskaya, Kristiyan Haralambiev , and Markulf
+* [Malleable Signatures: Complex Unary Transformations and Delegatable Anonymous Credentials](https://eprint.iacr.org/2013/179.pdf) by Melissa Chase, Markulf Kohlweiss and Anna Lysyanskaya
+* [Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials](https://cs.brown.edu/people/alysyans/papers/camlys02.pdf) by Jan Camenisch and Anna Lysyanskaya
