@@ -592,3 +592,4 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Composable & Modular Anonymous Credentials: Definitions and Practical Constructions](https://eprint.iacr.org/2015/580.pdf) by Jan Camenisch, Maria Dubovitskaya, Kristiyan Haralambiev , and Markulf
 * [Malleable Signatures: Complex Unary Transformations and Delegatable Anonymous Credentials](https://eprint.iacr.org/2013/179.pdf) by Melissa Chase, Markulf Kohlweiss and Anna Lysyanskaya
 * [Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials](https://cs.brown.edu/people/alysyans/papers/camlys02.pdf) by Jan Camenisch and Anna Lysyanskaya
+* [The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption](https://eprint.iacr.org/2019/1416.pdf) by Melissa Chase, Trevor Perrin and Greg Zaverucha
