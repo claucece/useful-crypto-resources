@@ -33,6 +33,11 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [TLS Handshake : Under The Hood](https://medium.com/@technospace/tls-handshake-under-the-hood-79d20c0020de#) by Sathya Bandara
 * [Keyless](https://blog.cloudflare.com/announcing-keyless-ssl-all-the-benefits-of-cloudflare-without-having-to-turn-over-your-private-ssl-keys/)
 * [Keyless: details](https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/)
+* [CFSSL](https://blog.cloudflare.com/introducing-cfssl/) by Nick Sullivan
+* [A Comprehensive Symbolic Analysis of TLS 1.3](https://acmccs.github.io/papers/p1773-cremersA.pdf) by Cas Cremers, Marko Horvat, Jonathan Hoyland, Sam Scott and Thyla van der Merwe
+* [Introducing Zero Round Trip Time Resumption (0-RTT)](https://blog.cloudflare.com/introducing-0-rtt/) by Nick Sullivan
+* [Even faster connection establishment with QUIC 0-RTT resumption](https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/) by Alessandro Ghedini
+* [The QUIC Transport Protocol: Design and Internet-Scale Deployment](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf) by Adam Langley, Alistair Riddoch, Alyssa Wilk, Antonio Vicente, Charles Krasic, Dan Zhang, Fan Yang, Fedor Kouranov, Ian Swett, Janardhan Iyengar, Jeff Bailey, Jeremy Dorfman, Jim Roskind, Joanna Kulik, Patrik Westin, Raman Tenneti, Robbie Shade, Ryan Hamilton, Victor Vasiliev, Wan-Teh Chang, Zhongyi Shi
 
 ## OTR
 
