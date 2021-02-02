@@ -548,6 +548,14 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 
 ## Passwords
 * [SPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
+* [Exploring implicit memory for painless password recovery](https://dl.acm.org/doi/abs/10.1145/1978942.1979323) by Tamara  Denning, Kevin D Bowers, Marten V van Dijk, Ari Juels
+* [Effects of Password Type and Memory Techniques on User Password Memory](https://pdfs.semanticscholar.org/2c65/65ea8876b6f9ca3b643b984536a3ad1e042f.pdf) by Lezlie Y. España
+* [Forget the Password: Password Memory and Security Applications of Augmented Cognition](https://link.springer.com/chapter/10.1007/978-3-319-91467-1_11) by Nancy MogireEmail, Michael-Brian Ogawa, Randall K. Minas, Brent Auernheimer and Martha E. Crosby
+* [Password-based authentication: a system perspective](https://ieeexplore.ieee.org/abstract/document/1265412) by A. Conklin, G. Dietrich and D. Walz
+* [Too many passwords? How understanding our memory can increase password memorability](https://www.sciencedirect.com/science/article/abs/pii/S1071581917301581) by Naomi Woods and Mikko Siponen
+* [A novel image-based implicit password authentication system (IPAS) for mobile and non-mobile devices](https://www.sciencedirect.com/science/article/pii/S0895717712001719) by Sadiq Almuairfi, Prakash Veeraraghavan and Naveen Chilamkurti
+* [Implicit Authentication through Learning User Behavior](https://link.springer.com/chapter/10.1007/978-3-642-18178-8_9) by Elaine Shi, Yuan Niu, Markus Jakobsson and Richard Chow
+* [Touch me once and i know it's you!: implicit authentication based on touch screen patterns](https://dl.acm.org/doi/abs/10.1145/2207676.2208544) by Alexander De Luca, Alina  Hang, Frederik Brudy, Christian Lindner, and Heinrich Hussmann
 
 ## Cryptocurrencies
 * [ZCash Ceremony](http://www.radiolab.org/story/ceremony/)
