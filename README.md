@@ -12,8 +12,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 ## Authenticated Encryption
 
 * [Challenges in Authenticated Encryption](https://chae.cr.yp.to/chae-20170301.pdf) by Daniel J. Bernstein
-* [Boosting Authenticated Encryption Robustness With Minimal Modifications](https://eprint.iacr.org/2017/239.pdf) by Tomer Ashur, Orr Dunkelman
-, and Atul Luykx
+* [Boosting Authenticated Encryption Robustness With Minimal Modifications](https://eprint.iacr.org/2017/239.pdf) by Tomer Ashur, Orr Dunkelman, and Atul Luykx
 
 ## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
@@ -510,7 +509,8 @@ by H. Orman
 * [Worst-Case to Average-Case Reductions for Module Lattices](http://perso.ens-lyon.fr/damien.stehle/downloads/MSIS.pdf)
 * [Quantum Computing And The New IT Revolution](https://modernciso.com/2019/02/20/quantum-computing-and-the-new-it-revolution/) by Tommaso Gagliardoni
 
-## PostQuantum Crypto
+## Post-Quantum Cryptography
+
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
 * [Towards quantum-resistance cryptosystems from supersingular elliptic curve isogenies](http://eprint.iacr.org/2011/506.pdf) by Luca de Feo, David Jao and Jerome Plut.
 * [Quantum computers are coming!](https://www.youtube.com/watch?v=c7OHv-L-x50) by Tanja Lange and Daniel J. Bernstein
@@ -542,9 +542,11 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [COSIC seminar "Introduction to Hash Based Signatures"](https://www.youtube.com/watch?v=jiU0ICoiPI0) by John Kelsey
 
 ## Searchable symmetric encryption
+
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
 
 ## Malware
+
 * [Encrypted Viruses](http://www.cs.virginia.edu/~ww6r/CS4630/lectures/Encrypted_Virus.pdf)
 * [Official (ISC)2 Guide to the SSCP CBK, Second Edition](https://books.google.com.ec/books?id=42g1BNUSYPwC&pg=PA98&lpg=PA98&dq=cascade+virus+source+code&source=bl&ots=giqHBUTgnI&sig=HPjGmlzyzbvPpVBad5I0U6drxDI&hl=en&sa=X&ved=0ahUKEwi4yJ-GpOPTAhVr4oMKHeTMA_c4ChDoAQguMAU#v=onepage&q&f=false)
 * [The Art of Computer Virus](https://books.google.com.ec/books?id=XE-ddYF6uhYC&pg=PT89&lpg=PT89&dq=cascade+virus+source+code&source=bl&ots=GgNOdq_PJY&sig=Zp9naiUWg7U-MtHunpNQELgGWFI&hl=en&sa=X&ved=0ahUKEwizwr_5o-PTAhUr5oMKHZVSCH4Q6AEITDAH#v=onepage&q=cascade%20virus%20source%20code&f=false)
@@ -554,9 +556,11 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Automatic Transfer Systems (ATS) for Beginners](https://www.malwaretech.com/2016/08/automatic-transfer-systems-ats-for-beginners.html) by MalwareTech
 
 ## MPC
+
 * [A Full CryptoCurrency Custody Solution Based on MPC and Threshold ECDSA](https://www.youtube.com/watch?v=Qv4-vh-KJ1s&feature=youtu.be) by Yehuda Lindell
 
 ## Passwords
+
 * [SPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
 
 ## Cryptocurrencies
@@ -603,3 +607,7 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Malleable Signatures: Complex Unary Transformations and Delegatable Anonymous Credentials](https://eprint.iacr.org/2013/179.pdf) by Melissa Chase, Markulf Kohlweiss and Anna Lysyanskaya
 * [Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials](https://cs.brown.edu/people/alysyans/papers/camlys02.pdf) by Jan Camenisch and Anna Lysyanskaya
 * [The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption](https://eprint.iacr.org/2019/1416.pdf) by Melissa Chase, Trevor Perrin and Greg Zaverucha
+
+## Post-quantum Cryptography and protocols
+
+* [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design) by D. Stebila, S. Fluhrer and S. Gueron
