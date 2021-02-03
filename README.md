@@ -1,5 +1,8 @@
 # Useful Crypto-related Resources
 
+This repository contains resources that I considered useful. It is a personal
+repository.
+
 ## General
 * [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
 by Danny Dolev, Cynthia Dwork, Moni Naor
