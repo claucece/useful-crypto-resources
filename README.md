@@ -40,6 +40,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Introducing Zero Round Trip Time Resumption (0-RTT)](https://blog.cloudflare.com/introducing-0-rtt/) by Nick Sullivan
 * [Even faster connection establishment with QUIC 0-RTT resumption](https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/) by Alessandro Ghedini
 * [The QUIC Transport Protocol: Design and Internet-Scale Deployment](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf) by Adam Langley, Alistair Riddoch, Alyssa Wilk, Antonio Vicente, Charles Krasic, Dan Zhang, Fan Yang, Fedor Kouranov, Ian Swett, Janardhan Iyengar, Jeff Bailey, Jeremy Dorfman, Jim Roskind, Joanna Kulik, Patrik Westin, Raman Tenneti, Robbie Shade, Ryan Hamilton, Victor Vasiliev, Wan-Teh Chang, Zhongyi Shi
+* [Benchmarking Post-Quantum Cryptography in TLS](https://eprint.iacr.org/2019/1447.pdf) by Christian Paquin, Douglas Stebila and Goutam Tamvada
 
 ## OTR
 
