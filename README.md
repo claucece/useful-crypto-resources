@@ -42,6 +42,13 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [The QUIC Transport Protocol: Design and Internet-Scale Deployment](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf) by Adam Langley, Alistair Riddoch, Alyssa Wilk, Antonio Vicente, Charles Krasic, Dan Zhang, Fan Yang, Fedor Kouranov, Ian Swett, Janardhan Iyengar, Jeff Bailey, Jeremy Dorfman, Jim Roskind, Joanna Kulik, Patrik Westin, Raman Tenneti, Robbie Shade, Ryan Hamilton, Victor Vasiliev, Wan-Teh Chang, Zhongyi Shi
 * [Benchmarking Post-Quantum Cryptography in TLS](https://eprint.iacr.org/2019/1447.pdf) by Christian Paquin, Douglas Stebila and Goutam Tamvada
 
+## X509/ASN.1
+
+* [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280) by D. Cooper, S. Santesson, S. Farrell, S. Boeyen, R. Housley, and W. Polk
+* [A Layman's Guide to a Subset of ASN.1, BER, and DER](http://luca.ntop.org/Teaching/Appunti/asn1.html) by Burton S. Kaliski Jr.
+* [New ASN.1 Modules for the Public Key Infrastructure Using X.509 (PKIX)](https://tools.ietf.org/pdf/rfc5912.pdf) by P. Hoffman and J. Schaad
+* [Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/ITU-T/studygroups/com17/languages/X.680-0207.pdf) by INTERNATIONAL TELECOMMUNICATION UNION
+
 ## OTR
 
 ### OTRv2
