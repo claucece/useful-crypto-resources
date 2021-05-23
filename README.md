@@ -1,5 +1,8 @@
 # Useful Crypto-related Resources
 
+This repository contains resources that I considered useful. It is a personal
+repository.
+
 ## General
 * [Non-Malleable Cryptography](https://www.cs.huji.ac.il/~dolev/pubs/nmc.pdf)
 by Danny Dolev, Cynthia Dwork, Moni Naor
@@ -9,8 +12,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 ## Authenticated Encryption
 
 * [Challenges in Authenticated Encryption](https://chae.cr.yp.to/chae-20170301.pdf) by Daniel J. Bernstein
-* [Boosting Authenticated Encryption Robustness With Minimal Modifications](https://eprint.iacr.org/2017/239.pdf) by Tomer Ashur, Orr Dunkelman
-, and Atul Luykx
+* [Boosting Authenticated Encryption Robustness With Minimal Modifications](https://eprint.iacr.org/2017/239.pdf) by Tomer Ashur, Orr Dunkelman, and Atul Luykx
 
 ## AKE
 * [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) by Laurie Law, Alfred Menezes, Minghua Qu, Jerry Solinas.
@@ -31,6 +33,21 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0) by Nickolai Zeldovich and their [notes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/lecture-notes/MIT6_858F14_lec14.pdf)
 * [The New Illustrated TLS Connection](https://tls13.ulfheim.net/)
 * [TLS Handshake : Under The Hood](https://medium.com/@technospace/tls-handshake-under-the-hood-79d20c0020de#) by Sathya Bandara
+* [Keyless](https://blog.cloudflare.com/announcing-keyless-ssl-all-the-benefits-of-cloudflare-without-having-to-turn-over-your-private-ssl-keys/)
+* [Keyless: details](https://blog.cloudflare.com/keyless-ssl-the-nitty-gritty-technical-details/)
+* [CFSSL](https://blog.cloudflare.com/introducing-cfssl/) by Nick Sullivan
+* [A Comprehensive Symbolic Analysis of TLS 1.3](https://acmccs.github.io/papers/p1773-cremersA.pdf) by Cas Cremers, Marko Horvat, Jonathan Hoyland, Sam Scott and Thyla van der Merwe
+* [Introducing Zero Round Trip Time Resumption (0-RTT)](https://blog.cloudflare.com/introducing-0-rtt/) by Nick Sullivan
+* [Even faster connection establishment with QUIC 0-RTT resumption](https://blog.cloudflare.com/even-faster-connection-establishment-with-quic-0-rtt-resumption/) by Alessandro Ghedini
+* [The QUIC Transport Protocol: Design and Internet-Scale Deployment](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/8b935debf13bd176a08326738f5f88ad115a071e.pdf) by Adam Langley, Alistair Riddoch, Alyssa Wilk, Antonio Vicente, Charles Krasic, Dan Zhang, Fan Yang, Fedor Kouranov, Ian Swett, Janardhan Iyengar, Jeff Bailey, Jeremy Dorfman, Jim Roskind, Joanna Kulik, Patrik Westin, Raman Tenneti, Robbie Shade, Ryan Hamilton, Victor Vasiliev, Wan-Teh Chang, Zhongyi Shi
+* [Benchmarking Post-Quantum Cryptography in TLS](https://eprint.iacr.org/2019/1447.pdf) by Christian Paquin, Douglas Stebila and Goutam Tamvada
+
+## X509/ASN.1
+
+* [Internet X.509 Public Key Infrastructure Certificate and Certificate Revocation List (CRL) Profile](https://tools.ietf.org/html/rfc5280) by D. Cooper, S. Santesson, S. Farrell, S. Boeyen, R. Housley, and W. Polk
+* [A Layman's Guide to a Subset of ASN.1, BER, and DER](http://luca.ntop.org/Teaching/Appunti/asn1.html) by Burton S. Kaliski Jr.
+* [New ASN.1 Modules for the Public Key Infrastructure Using X.509 (PKIX)](https://tools.ietf.org/pdf/rfc5912.pdf) by P. Hoffman and J. Schaad
+* [Abstract Syntax Notation One (ASN.1): Specification of basic notation](https://www.itu.int/ITU-T/studygroups/com17/languages/X.680-0207.pdf) by INTERNATIONAL TELECOMMUNICATION UNION
 
 ## OTR
 
@@ -125,6 +142,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [Fault-resistant calculcations on elliptic curves](https://www.google.com/patents/US8457303) by Marc Joye
 
 ### Diffie Hellman
+
 * [New directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Diffie and Hellman.
 * [Diffie-Hellman key exchange](http://www.math.ucla.edu/~baker/40/handouts/rev_DH/node1.html) by Nikos Drakos
 * [Diffie-Hellman Key Agreement Method](https://www.ietf.org/rfc/rfc2631.txt) by E. Rescorla
@@ -140,6 +158,7 @@ by Danny Dolev, Cynthia Dwork, Moni Naor
 * [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf) by Hugo Krawczyk
 * [More Modular Exponential (MODP) Diffie-Hellman groups for Internet Key Exchange (IKE)](https://www.ietf.org/rfc/rfc3526.txt) by T. Kivinen and M. Kojo
 * [IEEE Standard Specifications for Public-Key Cryptography](https://perso.telecom-paristech.fr/guilley/recherche/cryptoprocesseurs/ieee/00891000.pdf)
+* [HMQV: A High-Performance Secure Diffie-Hellman Protocol](https://eprint.iacr.org/2005/176.pdf) by Hugo Krawczyk
 
 #### Validation
 * [Additional Diffie-Hellman Tests for the Internet Key Exchange Protocol Version 2](https://tools.ietf.org/html/rfc6989#section-2.1) by Y. Sheffer Porticor, S. Fluhrer
@@ -384,7 +403,8 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
 * [Breaking Ed25519 in WolfSSL](https://eprint.iacr.org/2017/985.pdf) by Niels Samwel, Lejla Batina, Guido Bertoni, Joan
 Daemen, and Ruggero Susella
-* [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
+* [A Side-Channel Assisted Cryptanalytic Attack
+Against QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
 Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 * [EdDSA for more curves](https://eprint.iacr.org/2015/677.pdf) by Daniel J. Bernstein, Simon Josefsson, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 
@@ -500,7 +520,8 @@ by H. Orman
 * [Worst-Case to Average-Case Reductions for Module Lattices](http://perso.ens-lyon.fr/damien.stehle/downloads/MSIS.pdf)
 * [Quantum Computing And The New IT Revolution](https://modernciso.com/2019/02/20/quantum-computing-and-the-new-it-revolution/) by Tommaso Gagliardoni
 
-## PostQuantum Crypto
+## Post-Quantum Cryptography
+
 * [PQCHacks: A gentle introduction to post-quantum cryptography](https://media.ccc.de/v/32c3-7210-pqchacks#video&t=908) by djb and Tanja Lange in 32c3.
 * [Towards quantum-resistance cryptosystems from supersingular elliptic curve isogenies](http://eprint.iacr.org/2011/506.pdf) by Luca de Feo, David Jao and Jerome Plut.
 * [Quantum computers are coming!](https://www.youtube.com/watch?v=c7OHv-L-x50) by Tanja Lange and Daniel J. Bernstein
@@ -532,9 +553,11 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [COSIC seminar "Introduction to Hash Based Signatures"](https://www.youtube.com/watch?v=jiU0ICoiPI0) by John Kelsey
 
 ## Searchable symmetric encryption
+
 * [Searchable Symmetric Encryption: Improved Definitions and Efficient Constructions](https://eprint.iacr.org/2006/210.pdf) by Reza Curtmola, Juan Garay, Seny Kamara and Rafail Ostrovsky
 
 ## Malware
+
 * [Encrypted Viruses](http://www.cs.virginia.edu/~ww6r/CS4630/lectures/Encrypted_Virus.pdf)
 * [Official (ISC)2 Guide to the SSCP CBK, Second Edition](https://books.google.com.ec/books?id=42g1BNUSYPwC&pg=PA98&lpg=PA98&dq=cascade+virus+source+code&source=bl&ots=giqHBUTgnI&sig=HPjGmlzyzbvPpVBad5I0U6drxDI&hl=en&sa=X&ved=0ahUKEwi4yJ-GpOPTAhVr4oMKHeTMA_c4ChDoAQguMAU#v=onepage&q&f=false)
 * [The Art of Computer Virus](https://books.google.com.ec/books?id=XE-ddYF6uhYC&pg=PT89&lpg=PT89&dq=cascade+virus+source+code&source=bl&ots=GgNOdq_PJY&sig=Zp9naiUWg7U-MtHunpNQELgGWFI&hl=en&sa=X&ved=0ahUKEwizwr_5o-PTAhUr5oMKHZVSCH4Q6AEITDAH#v=onepage&q=cascade%20virus%20source%20code&f=false)
@@ -544,9 +567,11 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Automatic Transfer Systems (ATS) for Beginners](https://www.malwaretech.com/2016/08/automatic-transfer-systems-ats-for-beginners.html) by MalwareTech
 
 ## MPC
+
 * [A Full CryptoCurrency Custody Solution Based on MPC and Threshold ECDSA](https://www.youtube.com/watch?v=Qv4-vh-KJ1s&feature=youtu.be) by Yehuda Lindell
 
 ## Passwords
+
 * [SPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
 * [Exploring implicit memory for painless password recovery](https://dl.acm.org/doi/abs/10.1145/1978942.1979323) by Tamara  Denning, Kevin D Bowers, Marten V van Dijk, Ari Juels
 * [Effects of Password Type and Memory Techniques on User Password Memory](https://pdfs.semanticscholar.org/2c65/65ea8876b6f9ca3b643b984536a3ad1e042f.pdf) by Lezlie Y. España
@@ -602,3 +627,8 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials](https://cs.brown.edu/people/alysyans/papers/camlys02.pdf) by Jan Camenisch and Anna Lysyanskaya
 * [The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption](https://eprint.iacr.org/2019/1416.pdf) by Melissa Chase, Trevor Perrin and Greg Zaverucha
 * [Anonymous Tokens with Private Metadata Bit](https://eprint.iacr.org/2020/072.pdf) by Ben Kreuter, Tancrede Lepoint, Michele Orru, and Mariana Raykova
+
+
+## Post-quantum Cryptography and protocols
+
+* [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design) by D. Stebila, S. Fluhrer and S. Gueron
