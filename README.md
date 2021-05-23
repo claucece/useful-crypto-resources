@@ -403,7 +403,8 @@ Pierre Karpman, Ivica Nikolic, Lei Wang and Shuang Wu
 * [Edwards-Curve Digital Signature Algorithm (EdDSA)](https://tools.ietf.org/html/rfc8032) by S. Josefsson and I. Liusvaara
 * [Breaking Ed25519 in WolfSSL](https://eprint.iacr.org/2017/985.pdf) by Niels Samwel, Lejla Batina, Guido Bertoni, Joan
 Daemen, and Ruggero Susella
-* [A Side-Channel Assisted Cryptanalytic AttackAgainst QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
+* [A Side-Channel Assisted Cryptanalytic Attack
+Against QcBits](https://eprint.iacr.org/2017/596.pdf) by Melissa
 Rossi, Mike Hamburg, Michael Hutter and Mark E. Marson
 * [EdDSA for more curves](https://eprint.iacr.org/2015/677.pdf) by Daniel J. Bernstein, Simon Josefsson, Tanja Lange, Peter Schwabe and Bo-Yin Yang
 
@@ -572,6 +573,14 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 ## Passwords
 
 * [SPHINX: A Password Store that Perfectly Hides from Itself](http://webee.technion.ac.il/~hugo/sphinx.pdf) by Maliheh Shirvanian, Stanislaw Jarecki†, Hugo Krawczyk and Nitesh Saxena
+* [Exploring implicit memory for painless password recovery](https://dl.acm.org/doi/abs/10.1145/1978942.1979323) by Tamara  Denning, Kevin D Bowers, Marten V van Dijk, Ari Juels
+* [Effects of Password Type and Memory Techniques on User Password Memory](https://pdfs.semanticscholar.org/2c65/65ea8876b6f9ca3b643b984536a3ad1e042f.pdf) by Lezlie Y. España
+* [Forget the Password: Password Memory and Security Applications of Augmented Cognition](https://link.springer.com/chapter/10.1007/978-3-319-91467-1_11) by Nancy MogireEmail, Michael-Brian Ogawa, Randall K. Minas, Brent Auernheimer and Martha E. Crosby
+* [Password-based authentication: a system perspective](https://ieeexplore.ieee.org/abstract/document/1265412) by A. Conklin, G. Dietrich and D. Walz
+* [Too many passwords? How understanding our memory can increase password memorability](https://www.sciencedirect.com/science/article/abs/pii/S1071581917301581) by Naomi Woods and Mikko Siponen
+* [A novel image-based implicit password authentication system (IPAS) for mobile and non-mobile devices](https://www.sciencedirect.com/science/article/pii/S0895717712001719) by Sadiq Almuairfi, Prakash Veeraraghavan and Naveen Chilamkurti
+* [Implicit Authentication through Learning User Behavior](https://link.springer.com/chapter/10.1007/978-3-642-18178-8_9) by Elaine Shi, Yuan Niu, Markus Jakobsson and Richard Chow
+* [Touch me once and i know it's you!: implicit authentication based on touch screen patterns](https://dl.acm.org/doi/abs/10.1145/2207676.2208544) by Alexander De Luca, Alina  Hang, Frederik Brudy, Christian Lindner, and Heinrich Hussmann
 
 ## Cryptocurrencies
 * [ZCash Ceremony](http://www.radiolab.org/story/ceremony/)
@@ -617,6 +626,8 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [Malleable Signatures: Complex Unary Transformations and Delegatable Anonymous Credentials](https://eprint.iacr.org/2013/179.pdf) by Melissa Chase, Markulf Kohlweiss and Anna Lysyanskaya
 * [Dynamic Accumulators and Application to Efficient Revocation of Anonymous Credentials](https://cs.brown.edu/people/alysyans/papers/camlys02.pdf) by Jan Camenisch and Anna Lysyanskaya
 * [The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption](https://eprint.iacr.org/2019/1416.pdf) by Melissa Chase, Trevor Perrin and Greg Zaverucha
+* [Anonymous Tokens with Private Metadata Bit](https://eprint.iacr.org/2020/072.pdf) by Ben Kreuter, Tancrede Lepoint, Michele Orru, and Mariana Raykova
+
 
 ## Post-quantum Cryptography and protocols
 
