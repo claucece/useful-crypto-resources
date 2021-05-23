@@ -538,3 +538,11 @@ like so [(Ref.)](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/):
 }{}
 ```
 [Why is SVG a problem? Pg 16 in this iSEC report](https://github.com/iSECPartners/publications/blob/052caf9c9c683ec0bed55782714df4d35c38f107/reports/Tor%20Browser%20Bundle/Tor%20Browser%20Bundle%20-%20iSEC%20Deliverable%201.3.pdf).
+
+# Website setup
+
+* [Git on the Server](https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server)
+* [nginx tutorial](https://nginx.org/en/docs/beginners_guide.html)
+* [hosting static](https://jgefroh.medium.com/a-guide-to-using-nginx-for-static-websites-d96a9d034940)
+* [GitHub pages to self-hosted](https://belief-driven-design.com/moving-from-github-pages-to-self-hosted-ab1231fb7fa/)
+* [Self-hosted GitHub pages](https://styxit.com/2017/09/13/self-host-github-pages-on-digital-ocean.html)
