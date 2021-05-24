@@ -546,3 +546,6 @@ like so [(Ref.)](https://css-tricks.com/a-complete-guide-to-svg-fallbacks/):
 * [hosting static](https://jgefroh.medium.com/a-guide-to-using-nginx-for-static-websites-d96a9d034940)
 * [GitHub pages to self-hosted](https://belief-driven-design.com/moving-from-github-pages-to-self-hosted-ab1231fb7fa/)
 * [Self-hosted GitHub pages](https://styxit.com/2017/09/13/self-host-github-pages-on-digital-ocean.html)
+* [How To Host a Website Using Cloudflare and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-host-a-website-using-cloudflare-and-nginx-on-ubuntu-16-04#:~:text=The%20Cloudflare%20Origin%20CA%20lets,servers%20and%20your%20Nginx%20server.&text=Then%2C%20on%20your%20server%2C%20open,%2Fssl%2Fcerts%2Fcert.)
+* [Nginx: Create CSR & Install SSL Certificate (OpenSSL)](https://www.digicert.com/kb/csr-ssl-installation/nginx-openssl.html)
++* [Cloudflare CDN: How to Setup + Purchase Domain + NGINX Proxy Manager on Unraid](https://www.youtube.com/watch?v=c6Y6M8CdcQ0)
