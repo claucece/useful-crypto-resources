@@ -628,7 +628,6 @@ Buchmann, Özgür Dagdelen and Peter Schwabe
 * [The Signal Private Group System and Anonymous Credentials Supporting Efficient Verifiable Encryption](https://eprint.iacr.org/2019/1416.pdf) by Melissa Chase, Trevor Perrin and Greg Zaverucha
 * [Anonymous Tokens with Private Metadata Bit](https://eprint.iacr.org/2020/072.pdf) by Ben Kreuter, Tancrede Lepoint, Michele Orru, and Mariana Raykova
 
-
 ## Post-quantum Cryptography and protocols
 
 * [Hybrid key exchange in TLS 1.3](https://datatracker.ietf.org/doc/html/draft-ietf-tls-hybrid-design) by D. Stebila, S. Fluhrer and S. Gueron
